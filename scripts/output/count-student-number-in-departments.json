@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Count Student Number in Departments",
+    "titleSlug": "count-student-number-in-departments",
+    "frontendQuestionId": 580,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "580",
+    "title": "Count Student Number in Departments",
+    "titleSlug": "count-student-number-in-departments",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 254,
+    "dislikes": 38,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Student\":[\"student_id\",\"student_name\",\"gender\",\"dept_id\"],\"Department\":[\"dept_id\",\"dept_name\"]},\"rows\":{\"Student\":[[1,\"Jack\",\"M\",1],[2,\"Jane\",\"F\",1],[3,\"Mark\",\"M\",2]],\"Department\":[[1,\"Engineering\"],[2,\"Science\"],[3,\"Law\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"76.7K\", \"totalSubmission\": \"128.1K\", \"totalAcceptedRaw\": 76702, \"totalSubmissionRaw\": 128086, \"acRate\": \"59.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "76.7K",
+      "totalSubmission": "128.1K",
+      "totalAcceptedRaw": 76702,
+      "totalSubmissionRaw": 128086,
+      "acRate": "59.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,70 @@
+{
+  "basic": {
+    "title": "Paths in Maze That Lead to Same Room",
+    "titleSlug": "paths-in-maze-that-lead-to-same-room",
+    "frontendQuestionId": 2218,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2218",
+    "title": "Paths in Maze That Lead to Same Room",
+    "titleSlug": "paths-in-maze-that-lead-to-same-room",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 140,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "5\n[[1,2],[5,2],[4,1],[2,4],[3,1],[3,4]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.1K\", \"totalSubmission\": \"10.9K\", \"totalAcceptedRaw\": 6140, \"totalSubmissionRaw\": 10921, \"acRate\": \"56.2%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Connected Components in an Undirected Graph\", \"titleSlug\": \"number-of-connected-components-in-an-undirected-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Reachable Nodes In Subdivided Graph\", \"titleSlug\": \"reachable-nodes-in-subdivided-graph\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Distance to a Cycle in Undirected Graph\", \"titleSlug\": \"distance-to-a-cycle-in-undirected-graph\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find if Path Exists in Graph\", \"titleSlug\": \"find-if-path-exists-in-graph\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "6.1K",
+      "totalSubmission": "10.9K",
+      "totalAcceptedRaw": 6140,
+      "totalSubmissionRaw": 10921,
+      "acRate": "56.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Reachable Nodes In Subdivided Graph",
+        "titleSlug": "reachable-nodes-in-subdivided-graph",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Distance to a Cycle in Undirected Graph",
+        "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find if Path Exists in Graph",
+        "titleSlug": "find-if-path-exists-in-graph",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

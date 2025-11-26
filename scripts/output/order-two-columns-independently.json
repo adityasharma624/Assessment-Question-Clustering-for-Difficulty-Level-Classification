@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Order Two Columns Independently",
+    "titleSlug": "order-two-columns-independently",
+    "frontendQuestionId": 2302,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2302",
+    "title": "Order Two Columns Independently",
+    "titleSlug": "order-two-columns-independently",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 76,
+    "dislikes": 18,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Data\":[\"first_col\",\"second_col\"]},\"rows\":{\"Data\":[[4,2],[2,3],[3,1],[1,4]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"10.4K\", \"totalSubmission\": \"16.9K\", \"totalAcceptedRaw\": 10358, \"totalSubmissionRaw\": 16899, \"acRate\": \"61.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "10.4K",
+      "totalSubmission": "16.9K",
+      "totalAcceptedRaw": 10358,
+      "totalSubmissionRaw": 16899,
+      "acRate": "61.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

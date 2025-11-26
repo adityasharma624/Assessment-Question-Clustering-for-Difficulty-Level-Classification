@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Diameter of N-Ary Tree",
+    "titleSlug": "diameter-of-n-ary-tree",
+    "frontendQuestionId": 1665,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1665",
+    "title": "Diameter of N-Ary Tree",
+    "titleSlug": "diameter-of-n-ary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 640,
+    "dislikes": 9,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"60.1K\", \"totalSubmission\": \"79.8K\", \"totalAcceptedRaw\": 60136, \"totalSubmissionRaw\": 79767, \"acRate\": \"75.4%\"}",
+    "similarQuestions": "[{\"title\": \"Diameter of Binary Tree\", \"titleSlug\": \"diameter-of-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "60.1K",
+      "totalSubmission": "79.8K",
+      "totalAcceptedRaw": 60136,
+      "totalSubmissionRaw": 79767,
+      "acRate": "75.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Diameter of Binary Tree",
+        "titleSlug": "diameter-of-binary-tree",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

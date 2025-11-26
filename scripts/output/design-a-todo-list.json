@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Design a Todo List",
+    "titleSlug": "design-a-todo-list",
+    "frontendQuestionId": 2688,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2688",
+    "title": "Design a Todo List",
+    "titleSlug": "design-a-todo-list",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 47,
+    "dislikes": 15,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"TodoList\",\"addTask\",\"addTask\",\"getAllTasks\",\"getAllTasks\",\"addTask\",\"getTasksForTag\",\"completeTask\",\"completeTask\",\"getTasksForTag\",\"getAllTasks\"]\n[[],[1,\"Task1\",50,[]],[1,\"Task2\",100,[\"P1\"]],[1],[5],[1,\"Task3\",30,[\"P1\"]],[1,\"P1\"],[5,1],[1,2],[1,\"P1\"],[1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"6.5K\", \"totalAcceptedRaw\": 3870, \"totalSubmissionRaw\": 6499, \"acRate\": \"59.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.9K",
+      "totalSubmission": "6.5K",
+      "totalAcceptedRaw": 3870,
+      "totalSubmissionRaw": 6499,
+      "acRate": "59.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

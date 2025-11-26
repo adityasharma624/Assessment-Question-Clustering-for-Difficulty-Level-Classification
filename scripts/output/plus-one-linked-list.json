@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Plus One Linked List",
+    "titleSlug": "plus-one-linked-list",
+    "frontendQuestionId": 369,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "369",
+    "title": "Plus One Linked List",
+    "titleSlug": "plus-one-linked-list",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 962,
+    "dislikes": 48,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"86.6K\", \"totalSubmission\": \"141.4K\", \"totalAcceptedRaw\": 86581, \"totalSubmissionRaw\": 141419, \"acRate\": \"61.2%\"}",
+    "similarQuestions": "[{\"title\": \"Plus One\", \"titleSlug\": \"plus-one\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Double a Number Represented as a Linked List\", \"titleSlug\": \"double-a-number-represented-as-a-linked-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "86.6K",
+      "totalSubmission": "141.4K",
+      "totalAcceptedRaw": 86581,
+      "totalSubmissionRaw": 141419,
+      "acRate": "61.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Double a Number Represented as a Linked List",
+        "titleSlug": "double-a-number-represented-as-a-linked-list",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Count Houses in a Circular Street II",
+    "titleSlug": "count-houses-in-a-circular-street-ii",
+    "frontendQuestionId": 2897,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2897",
+    "title": "Count Houses in a Circular Street II",
+    "titleSlug": "count-houses-in-a-circular-street-ii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 27,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,1,1,1]\n10",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"879\", \"totalSubmission\": \"1.4K\", \"totalAcceptedRaw\": 879, \"totalSubmissionRaw\": 1441, \"acRate\": \"61.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "879",
+      "totalSubmission": "1.4K",
+      "totalAcceptedRaw": 879,
+      "totalSubmissionRaw": 1441,
+      "acRate": "61.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Finding the Number of Visible Mountains",
+    "titleSlug": "finding-the-number-of-visible-mountains",
+    "frontendQuestionId": 2485,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2485",
+    "title": "Finding the Number of Visible Mountains",
+    "titleSlug": "finding-the-number-of-visible-mountains",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 173,
+    "dislikes": 77,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[2,2],[6,3],[5,4]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12K\", \"totalSubmission\": \"32.6K\", \"totalAcceptedRaw\": 11979, \"totalSubmissionRaw\": 32601, \"acRate\": \"36.7%\"}",
+    "similarQuestions": "[{\"title\": \"Buildings With an Ocean View\", \"titleSlug\": \"buildings-with-an-ocean-view\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "12K",
+      "totalSubmission": "32.6K",
+      "totalAcceptedRaw": 11979,
+      "totalSubmissionRaw": 32601,
+      "acRate": "36.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Buildings With an Ocean View",
+        "titleSlug": "buildings-with-an-ocean-view",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

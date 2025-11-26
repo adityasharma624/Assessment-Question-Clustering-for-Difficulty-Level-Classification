@@ -1,0 +1,79 @@
+{
+  "basic": {
+    "title": "Remove All Ones With Row and Column Flips II",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+    "frontendQuestionId": 2314,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2314",
+    "title": "Remove All Ones With Row and Column Flips II",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 94,
+    "dislikes": 24,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1,1],[1,1,1],[0,1,0]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.5K\", \"totalSubmission\": \"8.2K\", \"totalAcceptedRaw\": 5536, \"totalSubmissionRaw\": 8248, \"acRate\": \"67.1%\"}",
+    "similarQuestions": "[{\"title\": \"Set Matrix Zeroes\", \"titleSlug\": \"set-matrix-zeroes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Flips to Convert Binary Matrix to Zero Matrix\", \"titleSlug\": \"minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Remove All Ones With Row and Column Flips\", \"titleSlug\": \"remove-all-ones-with-row-and-column-flips\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "5.5K",
+      "totalSubmission": "8.2K",
+      "totalAcceptedRaw": 5536,
+      "totalSubmissionRaw": 8248,
+      "acRate": "67.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

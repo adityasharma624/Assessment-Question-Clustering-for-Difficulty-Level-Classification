@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Market Analysis III",
+    "titleSlug": "market-analysis-iii",
+    "frontendQuestionId": 3205,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3205",
+    "title": "Market Analysis III",
+    "titleSlug": "market-analysis-iii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 19,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Users\": [\"seller_id\", \"join_date\", \"favorite_brand\"],\"Orders\":[\"order_id\",\"order_date\",\"item_id\",\"seller_id\"],\"Items\":[\"item_id\",\"item_brand\"]},\"rows\":{\"Users\":[[1,\"2019-01-01\",\"Lenovo\"],[2,\"2019-02-09\",\"Samsung\"],[3,\"2019-01-19\",\"LG\"]],\"Orders\":[[1,\"2019-08-01\",4,2],[2,\"2019-08-02\",2,3],[3,\"2019-08-03\",3,3],[4,\"2019-08-04\",1,2],[5,\"2019-08-04\",4,2]],\"Items\":[[1,\"Samsung\"],[2,\"Lenovo\"],[3,\"LG\"],[4,\"HP\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.7K\", \"totalSubmission\": \"8.9K\", \"totalAcceptedRaw\": 3701, \"totalSubmissionRaw\": 8883, \"acRate\": \"41.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.7K",
+      "totalSubmission": "8.9K",
+      "totalAcceptedRaw": 3701,
+      "totalSubmissionRaw": 8883,
+      "acRate": "41.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

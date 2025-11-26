@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Android Unlock Patterns",
+    "titleSlug": "android-unlock-patterns",
+    "frontendQuestionId": 351,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "351",
+    "title": "Android Unlock Patterns",
+    "titleSlug": "android-unlock-patterns",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 208,
+    "dislikes": 238,
+    "isPaidOnly": true,
+    "sampleTestCase": "1\n1",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"82.3K\", \"totalSubmission\": \"153.8K\", \"totalAcceptedRaw\": 82299, \"totalSubmissionRaw\": 153773, \"acRate\": \"53.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "82.3K",
+      "totalSubmission": "153.8K",
+      "totalAcceptedRaw": 82299,
+      "totalSubmissionRaw": 153773,
+      "acRate": "53.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find Top Scoring Students II",
+    "titleSlug": "find-top-scoring-students-ii",
+    "frontendQuestionId": 3503,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3503",
+    "title": "Find Top Scoring Students II",
+    "titleSlug": "find-top-scoring-students-ii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 7,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"students\":[\"student_id\",\"name\",\"major\"],\"courses\":[\"course_id\",\"name\",\"credits\",\"major\",\"mandatory\"],\"enrollments\":[\"student_id\",\"course_id\",\"semester\",\"grade\",\"GPA\"]},\"rows\":{\"students\":[[1,\"Alice\",\"Computer Science\"],[2,\"Bob\",\"Computer Science\"],[3,\"Charlie\",\"Mathematics\"],[4,\"David\",\"Mathematics\"]],\"courses\":[[101,\"Algorithms\",3,\"Computer Science\",\"Yes\"],[102,\"Data Structures\",3,\"Computer Science\",\"Yes\"],[103,\"Calculus\",4,\"Mathematics\",\"Yes\"],[104,\"Linear Algebra\",4,\"Mathematics\",\"Yes\"],[105,\"Machine Learning\",3,\"Computer Science\",\"No\"],[106,\"Probability\",3,\"Mathematics\",\"No\"],[107,\"Operating Systems\",3,\"Computer Science\",\"No\"],[108,\"Statistics\",3,\"Mathematics\",\"No\"]],\"enrollments\":[[1,101,\"Fall 2023\",\"A\",4.0],[1,102,\"Spring 2023\",\"A\",4.0],[1,105,\"Spring 2023\",\"A\",4.0],[1,107,\"Fall 2023\",\"B\",3.5],[2,101,\"Fall 2023\",\"A\",4.0],[2,102,\"Spring 2023\",\"B\",3.0],[3,103,\"Fall 2023\",\"A\",4.0],[3,104,\"Spring 2023\",\"A\",4.0],[3,106,\"Spring 2023\",\"A\",4.0],[3,108,\"Fall 2023\",\"B\",3.5],[4,103,\"Fall 2023\",\"B\",3.0],[4,104,\"Spring 2023\",\"B\",3.0]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"5.1K\", \"totalAcceptedRaw\": 2038, \"totalSubmissionRaw\": 5129, \"acRate\": \"39.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2K",
+      "totalSubmission": "5.1K",
+      "totalAcceptedRaw": 2038,
+      "totalSubmissionRaw": 5129,
+      "acRate": "39.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

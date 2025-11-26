@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Maximize Profit from Task Assignment",
+    "titleSlug": "maximize-profit-from-task-assignment",
+    "frontendQuestionId": 3818,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3818",
+    "title": "Maximize Profit from Task Assignment",
+    "titleSlug": "maximize-profit-from-task-assignment",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 8,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,4,5]\n[[1,100],[2,400],[3,100],[3,400]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"876\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 876, \"totalSubmissionRaw\": 1334, \"acRate\": \"65.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "876",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 876,
+      "totalSubmissionRaw": 1334,
+      "acRate": "65.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Design Log Storage System",
+    "titleSlug": "design-log-storage-system",
+    "frontendQuestionId": 635,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "635",
+    "title": "Design Log Storage System",
+    "titleSlug": "design-log-storage-system",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 485,
+    "dislikes": 226,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"LogSystem\",\"put\",\"put\",\"put\",\"retrieve\",\"retrieve\"]\n[[],[1,\"2017:01:01:23:59:59\"],[2,\"2017:01:01:22:59:59\"],[3,\"2016:01:01:00:00:00\"],[\"2016:01:01:01:01:01\",\"2017:01:01:23:00:00\",\"Year\"],[\"2016:01:01:01:01:01\",\"2017:01:01:23:00:00\",\"Hour\"]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"40.1K\", \"totalSubmission\": \"67.7K\", \"totalAcceptedRaw\": 40128, \"totalSubmissionRaw\": 67748, \"acRate\": \"59.2%\"}",
+    "similarQuestions": "[{\"title\": \"Design In-Memory File System\", \"titleSlug\": \"design-in-memory-file-system\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "40.1K",
+      "totalSubmission": "67.7K",
+      "totalAcceptedRaw": 40128,
+      "totalSubmissionRaw": 67748,
+      "acRate": "59.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

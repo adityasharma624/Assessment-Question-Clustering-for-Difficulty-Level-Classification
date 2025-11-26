@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Create a New Column",
+    "titleSlug": "create-a-new-column",
+    "frontendQuestionId": 3066,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3066",
+    "title": "Create a New Column",
+    "titleSlug": "create-a-new-column",
+    "content": "<pre>\nDataFrame <code>employees</code>\n+-------------+--------+\n| Column Name | Type.  |\n+-------------+--------+\n| name        | object |\n| salary      | int.   |\n+-------------+--------+\n</pre>\n\n<p>A&nbsp;company plans to provide its employees with a bonus.</p>\n\n<p>Write a solution to create a new column name <code>bonus</code> that contains the <strong>doubled values</strong> of the <code>salary</code> column.</p>\n\n<p>The result format is in the following example.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong>\nDataFrame employees\n+---------+--------+\n| name    | salary |\n+---------+--------+\n| Piper   | 4548   |\n| Grace   | 28150  |\n| Georgia | 1103   |\n| Willow  | 6593   |\n| Finn    | 74576  |\n| Thomas  | 24433  |\n+---------+--------+\n<strong>Output:</strong>\n+---------+--------+--------+\n| name    | salary | bonus  |\n+---------+--------+--------+\n| Piper   | 4548   | 9096   |\n| Grace   | 28150  | 56300  |\n| Georgia | 1103   | 2206   |\n| Willow  | 6593   | 13186  |\n| Finn    | 74576  | 149152 |\n| Thomas  | 24433  | 48866  |\n+---------+--------+--------+\n<strong>Explanation:</strong> \nA new column bonus is created by doubling the value in the column salary.</pre>\n",
+    "difficulty": "Easy",
+    "likes": 104,
+    "dislikes": 6,
+    "isPaidOnly": false,
+    "sampleTestCase": "{\"headers\":{\"employees\":[\"name\",\"salary\"]},\"rows\":{\"employees\":[[\"Piper\",4548],[\"Grace\",28150],[\"Georgia\",1103],[\"Willow\",6593],[\"Finn\",74576],[\"Thomas\",24433]]}}",
+    "codeSnippets": [
+      {
+        "lang": "Pandas",
+        "langSlug": "pythondata",
+        "code": "import pandas as pd\n\ndef createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:\n    "
+      }
+    ],
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"144.9K\", \"totalSubmission\": \"160.6K\", \"totalAcceptedRaw\": 144924, \"totalSubmissionRaw\": 160600, \"acRate\": \"90.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "144.9K",
+      "totalSubmission": "160.6K",
+      "totalAcceptedRaw": 144924,
+      "totalSubmissionRaw": 160600,
+      "acRate": "90.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,79 @@
+{
+  "basic": {
+    "title": "Minimum Time to Kill All Monsters",
+    "titleSlug": "minimum-time-to-kill-all-monsters",
+    "frontendQuestionId": 2537,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2537",
+    "title": "Minimum Time to Kill All Monsters",
+    "titleSlug": "minimum-time-to-kill-all-monsters",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 51,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,1,4]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 1788, \"totalSubmissionRaw\": 3142, \"acRate\": \"56.9%\"}",
+    "similarQuestions": "[{\"title\": \"Closest Room\", \"titleSlug\": \"closest-room\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Eliminate Maximum Number of Monsters\", \"titleSlug\": \"eliminate-maximum-number-of-monsters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Ways to Build Sturdy Brick Wall\", \"titleSlug\": \"number-of-ways-to-build-sturdy-brick-wall\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "1.8K",
+      "totalSubmission": "3.1K",
+      "totalAcceptedRaw": 1788,
+      "totalSubmissionRaw": 3142,
+      "acRate": "56.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Closest Room",
+        "titleSlug": "closest-room",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Eliminate Maximum Number of Monsters",
+        "titleSlug": "eliminate-maximum-number-of-monsters",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Calculate Compressed Mean",
+    "titleSlug": "calculate-compressed-mean",
+    "frontendQuestionId": 3282,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3282",
+    "title": "Calculate Compressed Mean",
+    "titleSlug": "calculate-compressed-mean",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 14,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Orders\":[\"order_id\",\"item_count\",\"order_occurrences\"]},\"rows\":{\"Orders\":[[10,1,500],[11,2,1000],[12,3,800],[13,4,1000]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"5.9K\", \"totalAcceptedRaw\": 5115, \"totalSubmissionRaw\": 5894, \"acRate\": \"86.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.1K",
+      "totalSubmission": "5.9K",
+      "totalAcceptedRaw": 5115,
+      "totalSubmissionRaw": 5894,
+      "acRate": "86.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Palindrome Permutation II",
+    "titleSlug": "palindrome-permutation-ii",
+    "frontendQuestionId": 267,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "267",
+    "title": "Palindrome Permutation II",
+    "titleSlug": "palindrome-permutation-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 897,
+    "dislikes": 98,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"aabb\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"75K\", \"totalSubmission\": \"177.6K\", \"totalAcceptedRaw\": 75003, \"totalSubmissionRaw\": 177562, \"acRate\": \"42.2%\"}",
+    "similarQuestions": "[{\"title\": \"Next Permutation\", \"titleSlug\": \"next-permutation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Permutations II\", \"titleSlug\": \"permutations-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Palindrome Permutation\", \"titleSlug\": \"palindrome-permutation\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "75K",
+      "totalSubmission": "177.6K",
+      "totalAcceptedRaw": 75003,
+      "totalSubmissionRaw": 177562,
+      "acRate": "42.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Permutations II",
+        "titleSlug": "permutations-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Palindrome Permutation",
+        "titleSlug": "palindrome-permutation",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

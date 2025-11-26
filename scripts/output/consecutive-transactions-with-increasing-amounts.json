@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Consecutive Transactions with Increasing Amounts",
+    "titleSlug": "consecutive-transactions-with-increasing-amounts",
+    "frontendQuestionId": 2853,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2853",
+    "title": "Consecutive Transactions with Increasing Amounts",
+    "titleSlug": "consecutive-transactions-with-increasing-amounts",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 51,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Transactions\":[\"transaction_id\",\"customer_id\",\"transaction_date\",\"amount\"]},\"rows\":{\"Transactions\":[[1,101,\"2023-05-01\",100],[2,101,\"2023-05-02\",150],[3,101,\"2023-05-03\",200],[4,102,\"2023-05-01\",50],[5,102,\"2023-05-03\",100],[6,102,\"2023-05-04\",200],[7,105,\"2023-05-01\",100],[8,105,\"2023-05-02\",150],[9,105,\"2023-05-03\",200],[10,105,\"2023-05-04\",300],[11,105,\"2023-05-12\",250],[12,105,\"2023-05-13\",260],[13,105,\"2023-05-14\",270]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"14.8K\", \"totalAcceptedRaw\": 5128, \"totalSubmissionRaw\": 14812, \"acRate\": \"34.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.1K",
+      "totalSubmission": "14.8K",
+      "totalAcceptedRaw": 5128,
+      "totalSubmissionRaw": 14812,
+      "acRate": "34.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

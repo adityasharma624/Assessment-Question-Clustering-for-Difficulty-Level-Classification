@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Next Day",
+    "titleSlug": "next-day",
+    "frontendQuestionId": 2822,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2822",
+    "title": "Next Day",
+    "titleSlug": "next-day",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 13,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"2014-06-20\"",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"1.5K\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 1497, \"totalSubmissionRaw\": 1750, \"acRate\": \"85.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.5K",
+      "totalSubmission": "1.8K",
+      "totalAcceptedRaw": 1497,
+      "totalSubmissionRaw": 1750,
+      "acRate": "85.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

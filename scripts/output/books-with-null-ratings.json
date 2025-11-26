@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Books with NULL Ratings",
+    "titleSlug": "books-with-null-ratings",
+    "frontendQuestionId": 3695,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3695",
+    "title": "Books with NULL Ratings",
+    "titleSlug": "books-with-null-ratings",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 9,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"books\":[\"book_id\",\"title\",\"author\",\"published_year\",\"rating\"]},\"rows\":{\"books\":[[1,\"The Great Gatsby\",\"F. Scott\",1925,4.5],[2,\"To Kill a Mockingbird\",\"Harper Lee\",1960,null],[3,\"Pride and Prejudice\",\"Jane Austen\",1813,4.8],[4,\"The Catcher in the Rye\",\"J.D. Salinger\",1951,null],[5,\"Animal Farm\",\"George Orwell\",1945,4.2],[6,\"Lord of the Flies\",\"William Golding\",1954,null]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.1K\", \"totalSubmission\": \"3.7K\", \"totalAcceptedRaw\": 3087, \"totalSubmissionRaw\": 3685, \"acRate\": \"83.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.1K",
+      "totalSubmission": "3.7K",
+      "totalAcceptedRaw": 3087,
+      "totalSubmissionRaw": 3685,
+      "acRate": "83.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

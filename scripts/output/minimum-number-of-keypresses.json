@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Minimum Number of Keypresses",
+    "titleSlug": "minimum-number-of-keypresses",
+    "frontendQuestionId": 2405,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2405",
+    "title": "Minimum Number of Keypresses",
+    "titleSlug": "minimum-number-of-keypresses",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 250,
+    "dislikes": 39,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"apple\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"36.7K\", \"totalSubmission\": \"51.4K\", \"totalAcceptedRaw\": 36653, \"totalSubmissionRaw\": 51350, \"acRate\": \"71.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "36.7K",
+      "totalSubmission": "51.4K",
+      "totalAcceptedRaw": 36653,
+      "totalSubmissionRaw": 51350,
+      "acRate": "71.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Find the Celebrity",
+    "titleSlug": "find-the-celebrity",
+    "frontendQuestionId": 277,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "277",
+    "title": "Find the Celebrity",
+    "titleSlug": "find-the-celebrity",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 2973,
+    "dislikes": 319,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1,0],[0,1,0],[1,1,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"315.4K\", \"totalSubmission\": \"647.3K\", \"totalAcceptedRaw\": 315401, \"totalSubmissionRaw\": 647292, \"acRate\": \"48.7%\"}",
+    "similarQuestions": "[{\"title\": \"Find the Town Judge\", \"titleSlug\": \"find-the-town-judge\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "315.4K",
+      "totalSubmission": "647.3K",
+      "totalAcceptedRaw": 315401,
+      "totalSubmissionRaw": 647292,
+      "acRate": "48.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Find the Town Judge",
+        "titleSlug": "find-the-town-judge",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

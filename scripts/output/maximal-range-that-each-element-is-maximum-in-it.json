@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Maximal Range That Each Element Is Maximum in It",
+    "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+    "frontendQuestionId": 3088,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3088",
+    "title": "Maximal Range That Each Element Is Maximum in It",
+    "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 80,
+    "dislikes": 8,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,5,4,3,6]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.2K\", \"totalSubmission\": \"8.2K\", \"totalAcceptedRaw\": 6198, \"totalSubmissionRaw\": 8222, \"acRate\": \"75.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "6.2K",
+      "totalSubmission": "8.2K",
+      "totalAcceptedRaw": 6198,
+      "totalSubmissionRaw": 8222,
+      "acRate": "75.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

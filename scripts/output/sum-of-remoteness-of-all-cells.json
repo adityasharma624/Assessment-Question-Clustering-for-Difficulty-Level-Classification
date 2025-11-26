@@ -1,0 +1,70 @@
+{
+  "basic": {
+    "title": "Sum of Remoteness of All Cells",
+    "titleSlug": "sum-of-remoteness-of-all-cells",
+    "frontendQuestionId": 3148,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3148",
+    "title": "Sum of Remoteness of All Cells",
+    "titleSlug": "sum-of-remoteness-of-all-cells",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 58,
+    "dislikes": 15,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[-1,1,-1],[5,-1,4],[-1,3,-1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.4K\", \"totalSubmission\": \"9K\", \"totalAcceptedRaw\": 6383, \"totalSubmissionRaw\": 9025, \"acRate\": \"70.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "6.4K",
+      "totalSubmission": "9K",
+      "totalAcceptedRaw": 6383,
+      "totalSubmissionRaw": 9025,
+      "acRate": "70.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Faulty Sensor",
+    "titleSlug": "faulty-sensor",
+    "frontendQuestionId": 1980,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1980",
+    "title": "Faulty Sensor",
+    "titleSlug": "faulty-sensor",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 70,
+    "dislikes": 85,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,3,4,5]\n[2,1,3,4]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.8K\", \"totalSubmission\": \"13.5K\", \"totalAcceptedRaw\": 6812, \"totalSubmissionRaw\": 13539, \"acRate\": \"50.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "6.8K",
+      "totalSubmission": "13.5K",
+      "totalAcceptedRaw": 6812,
+      "totalSubmissionRaw": 13539,
+      "acRate": "50.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

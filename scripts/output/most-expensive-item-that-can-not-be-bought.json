@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Most Expensive Item That Can Not Be Bought",
+    "titleSlug": "most-expensive-item-that-can-not-be-bought",
+    "frontendQuestionId": 3273,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3273",
+    "title": "Most Expensive Item That Can Not Be Bought",
+    "titleSlug": "most-expensive-item-that-can-not-be-bought",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 22,
+    "dislikes": 27,
+    "isPaidOnly": true,
+    "sampleTestCase": "2\n5",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.2K\", \"totalSubmission\": \"7.8K\", \"totalAcceptedRaw\": 6222, \"totalSubmissionRaw\": 7759, \"acRate\": \"80.2%\"}",
+    "similarQuestions": "[{\"title\": \"Coin Change\", \"titleSlug\": \"coin-change\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost For Tickets\", \"titleSlug\": \"minimum-cost-for-tickets\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Coins to be Added\", \"titleSlug\": \"minimum-number-of-coins-to-be-added\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "6.2K",
+      "totalSubmission": "7.8K",
+      "totalAcceptedRaw": 6222,
+      "totalSubmissionRaw": 7759,
+      "acRate": "80.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Cost For Tickets",
+        "titleSlug": "minimum-cost-for-tickets",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Number of Coins to be Added",
+        "titleSlug": "minimum-number-of-coins-to-be-added",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

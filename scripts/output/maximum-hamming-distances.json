@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Maximum Hamming Distances",
+    "titleSlug": "maximum-hamming-distances",
+    "frontendQuestionId": 3449,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3449",
+    "title": "Maximum Hamming Distances",
+    "titleSlug": "maximum-hamming-distances",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 14,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[9,12,9,11]\n4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"595\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 595, \"totalSubmissionRaw\": 1232, \"acRate\": \"48.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "595",
+      "totalSubmission": "1.2K",
+      "totalAcceptedRaw": 595,
+      "totalSubmissionRaw": 1232,
+      "acRate": "48.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

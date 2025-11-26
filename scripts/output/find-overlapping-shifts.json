@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find Overlapping Shifts",
+    "titleSlug": "find-overlapping-shifts",
+    "frontendQuestionId": 3574,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3574",
+    "title": "Find Overlapping Shifts",
+    "titleSlug": "find-overlapping-shifts",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 10,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"EmployeeShifts\":[\"employee_id\",\"start_time\",\"end_time\"]},\"rows\":{\"EmployeeShifts\":[[1,\"08:00:00\",\"12:00:00\"],[1,\"11:00:00\",\"15:00:00\"],[1,\"14:00:00\",\"18:00:00\"],[2,\"09:00:00\",\"17:00:00\"],[2,\"16:00:00\",\"20:00:00\"],[3,\"10:00:00\",\"12:00:00\"],[3,\"13:00:00\",\"15:00:00\"],[3,\"16:00:00\",\"18:00:00\"],[4,\"08:00:00\",\"10:00:00\"],[4,\"09:00:00\",\"11:00:00\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.1K\", \"totalSubmission\": \"3.6K\", \"totalAcceptedRaw\": 2101, \"totalSubmissionRaw\": 3607, \"acRate\": \"58.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.1K",
+      "totalSubmission": "3.6K",
+      "totalAcceptedRaw": 2101,
+      "totalSubmissionRaw": 3607,
+      "acRate": "58.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

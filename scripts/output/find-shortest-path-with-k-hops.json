@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Find Shortest Path with K Hops",
+    "titleSlug": "find-shortest-path-with-k-hops",
+    "frontendQuestionId": 2865,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2865",
+    "title": "Find Shortest Path with K Hops",
+    "titleSlug": "find-shortest-path-with-k-hops",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 40,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "4\n[[0,1,4],[0,2,2],[2,3,6]]\n1\n3\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.2K\", \"totalSubmission\": \"3.3K\", \"totalAcceptedRaw\": 2245, \"totalSubmissionRaw\": 3268, \"acRate\": \"68.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.2K",
+      "totalSubmission": "3.3K",
+      "totalAcceptedRaw": 2245,
+      "totalSubmissionRaw": 3268,
+      "acRate": "68.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

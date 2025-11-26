@@ -1,0 +1,78 @@
+{
+  "basic": {
+    "title": "Add Bold Tag in String",
+    "titleSlug": "add-bold-tag-in-string",
+    "frontendQuestionId": 616,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "616",
+    "title": "Add Bold Tag in String",
+    "titleSlug": "add-bold-tag-in-string",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1111,
+    "dislikes": 201,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abcxyz123\"\n[\"abc\",\"123\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Trie",
+        "slug": "trie",
+        "translatedName": null
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"103.5K\", \"totalSubmission\": \"202K\", \"totalAcceptedRaw\": 103545, \"totalSubmissionRaw\": 201995, \"acRate\": \"51.3%\"}",
+    "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Tag Validator\", \"titleSlug\": \"tag-validator\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "103.5K",
+      "totalSubmission": "202K",
+      "totalAcceptedRaw": 103545,
+      "totalSubmissionRaw": 201995,
+      "acRate": "51.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Tag Validator",
+        "titleSlug": "tag-validator",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

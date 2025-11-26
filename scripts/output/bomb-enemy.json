@@ -1,0 +1,80 @@
+{
+  "basic": {
+    "title": "Bomb Enemy",
+    "titleSlug": "bomb-enemy",
+    "frontendQuestionId": 361,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "361",
+    "title": "Bomb Enemy",
+    "titleSlug": "bomb-enemy",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1002,
+    "dislikes": 117,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[\"0\",\"E\",\"0\",\"0\"],[\"E\",\"0\",\"W\",\"E\"],[\"0\",\"E\",\"0\",\"0\"]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"85.9K\", \"totalSubmission\": \"162.8K\", \"totalAcceptedRaw\": 85853, \"totalSubmissionRaw\": 162799, \"acRate\": \"52.7%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Cost Homecoming of a Robot in a Grid\", \"titleSlug\": \"minimum-cost-homecoming-of-a-robot-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Stamping the Grid\", \"titleSlug\": \"stamping-the-grid\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Unguarded Cells in the Grid\", \"titleSlug\": \"count-unguarded-cells-in-the-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Trailing Zeros in a Cornered Path\", \"titleSlug\": \"maximum-trailing-zeros-in-a-cornered-path\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "85.9K",
+      "totalSubmission": "162.8K",
+      "totalAcceptedRaw": 85853,
+      "totalSubmissionRaw": 162799,
+      "acRate": "52.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Stamping the Grid",
+        "titleSlug": "stamping-the-grid",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Count Unguarded Cells in the Grid",
+        "titleSlug": "count-unguarded-cells-in-the-grid",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximum Trailing Zeros in a Cornered Path",
+        "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

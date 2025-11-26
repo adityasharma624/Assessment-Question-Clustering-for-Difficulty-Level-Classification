@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Create a Session Bar Chart",
+    "titleSlug": "create-a-session-bar-chart",
+    "frontendQuestionId": 1564,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1564",
+    "title": "Create a Session Bar Chart",
+    "titleSlug": "create-a-session-bar-chart",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 157,
+    "dislikes": 265,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Sessions\": [\"session_id\", \"duration\"]}, \"rows\": {\"Sessions\": [[1, 30], [2, 199], [3, 299], [4, 580], [5, 1000]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"26.6K\", \"totalSubmission\": \"35.6K\", \"totalAcceptedRaw\": 26599, \"totalSubmissionRaw\": 35588, \"acRate\": \"74.7%\"}",
+    "similarQuestions": "[{\"title\": \"Count Salary Categories\", \"titleSlug\": \"count-salary-categories\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "26.6K",
+      "totalSubmission": "35.6K",
+      "totalAcceptedRaw": 26599,
+      "totalSubmissionRaw": 35588,
+      "acRate": "74.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Count Salary Categories",
+        "titleSlug": "count-salary-categories",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

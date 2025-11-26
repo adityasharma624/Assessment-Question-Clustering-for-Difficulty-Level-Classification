@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Convert Doubly Linked List to Array II",
+    "titleSlug": "convert-doubly-linked-list-to-array-ii",
+    "frontendQuestionId": 3615,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3615",
+    "title": "Convert Doubly Linked List to Array II",
+    "titleSlug": "convert-doubly-linked-list-to-array-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 9,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,4,5]\n5",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.9K\", \"totalSubmission\": \"3.5K\", \"totalAcceptedRaw\": 2862, \"totalSubmissionRaw\": 3506, \"acRate\": \"81.6%\"}",
+    "similarQuestions": "[{\"title\": \"Remove Linked List Elements\", \"titleSlug\": \"remove-linked-list-elements\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.9K",
+      "totalSubmission": "3.5K",
+      "totalAcceptedRaw": 2862,
+      "totalSubmissionRaw": 3506,
+      "acRate": "81.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

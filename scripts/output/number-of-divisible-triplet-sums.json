@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Number of Divisible Triplet Sums",
+    "titleSlug": "number-of-divisible-triplet-sums",
+    "frontendQuestionId": 3254,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3254",
+    "title": "Number of Divisible Triplet Sums",
+    "titleSlug": "number-of-divisible-triplet-sums",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 32,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,3,4,7,8]\n5",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"8.3K\", \"totalSubmission\": \"12.3K\", \"totalAcceptedRaw\": 8322, \"totalSubmissionRaw\": 12325, \"acRate\": \"67.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "8.3K",
+      "totalSubmission": "12.3K",
+      "totalAcceptedRaw": 8322,
+      "totalSubmissionRaw": 12325,
+      "acRate": "67.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

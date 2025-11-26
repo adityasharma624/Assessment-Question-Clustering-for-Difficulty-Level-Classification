@@ -1,0 +1,73 @@
+{
+  "basic": {
+    "title": "Count Pairs in Two Arrays",
+    "titleSlug": "count-pairs-in-two-arrays",
+    "frontendQuestionId": 2036,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2036",
+    "title": "Count Pairs in Two Arrays",
+    "titleSlug": "count-pairs-in-two-arrays",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 244,
+    "dislikes": 23,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,1,2,1]\n[1,2,1,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"11.9K\", \"totalSubmission\": \"19.7K\", \"totalAcceptedRaw\": 11887, \"totalSubmissionRaw\": 19708, \"acRate\": \"60.3%\"}",
+    "similarQuestions": "[{\"title\": \"Max Value of Equation\", \"titleSlug\": \"max-value-of-equation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Substrings That Begin and End With the Same Letter\", \"titleSlug\": \"substrings-that-begin-and-end-with-the-same-letter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "11.9K",
+      "totalSubmission": "19.7K",
+      "totalAcceptedRaw": 11887,
+      "totalSubmissionRaw": 19708,
+      "acRate": "60.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Max Value of Equation",
+        "titleSlug": "max-value-of-equation",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Substrings That Begin and End With the Same Letter",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

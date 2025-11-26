@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Find Pattern in Infinite Stream I",
+    "titleSlug": "find-pattern-in-infinite-stream-i",
+    "frontendQuestionId": 3333,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3333",
+    "title": "Find Pattern in Infinite Stream I",
+    "titleSlug": "find-pattern-in-infinite-stream-i",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,1,1,0,1]\n[0,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash",
+        "translatedName": null
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 1758, \"totalSubmissionRaw\": 3102, \"acRate\": \"56.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.8K",
+      "totalSubmission": "3.1K",
+      "totalAcceptedRaw": 1758,
+      "totalSubmissionRaw": 3102,
+      "acRate": "56.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

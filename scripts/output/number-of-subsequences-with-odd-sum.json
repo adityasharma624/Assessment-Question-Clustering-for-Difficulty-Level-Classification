@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Number of Subsequences with Odd Sum",
+    "titleSlug": "number-of-subsequences-with-odd-sum",
+    "frontendQuestionId": 3537,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3537",
+    "title": "Number of Subsequences with Odd Sum",
+    "titleSlug": "number-of-subsequences-with-odd-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 13,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,1,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1K\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 1001, \"totalSubmissionRaw\": 2103, \"acRate\": \"47.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1K",
+      "totalSubmission": "2.1K",
+      "totalAcceptedRaw": 1001,
+      "totalSubmissionRaw": 2103,
+      "acRate": "47.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

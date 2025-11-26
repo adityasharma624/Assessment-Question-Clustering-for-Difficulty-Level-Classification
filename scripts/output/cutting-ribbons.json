@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Cutting Ribbons",
+    "titleSlug": "cutting-ribbons",
+    "frontendQuestionId": 2045,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2045",
+    "title": "Cutting Ribbons",
+    "titleSlug": "cutting-ribbons",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 627,
+    "dislikes": 70,
+    "isPaidOnly": true,
+    "sampleTestCase": "[9,7,5]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"86.7K\", \"totalSubmission\": \"163.7K\", \"totalAcceptedRaw\": 86689, \"totalSubmissionRaw\": 163711, \"acRate\": \"53.0%\"}",
+    "similarQuestions": "[{\"title\": \"Capacity To Ship Packages Within D Days\", \"titleSlug\": \"capacity-to-ship-packages-within-d-days\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Add Minimum Number of Rungs\", \"titleSlug\": \"add-minimum-number-of-rungs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "86.7K",
+      "totalSubmission": "163.7K",
+      "totalAcceptedRaw": 86689,
+      "totalSubmissionRaw": 163711,
+      "acRate": "53.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Add Minimum Number of Rungs",
+        "titleSlug": "add-minimum-number-of-rungs",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

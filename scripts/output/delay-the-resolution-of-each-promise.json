@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Delay the Resolution of Each Promise",
+    "titleSlug": "delay-the-resolution-of-each-promise",
+    "frontendQuestionId": 2909,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2909",
+    "title": "Delay the Resolution of Each Promise",
+    "titleSlug": "delay-the-resolution-of-each-promise",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 18,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[() => new Promise((resolve) => setTimeout(resolve, 30))]\n50",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"958\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 958, \"totalSubmissionRaw\": 1294, \"acRate\": \"74.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "958",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 958,
+      "totalSubmissionRaw": 1294,
+      "acRate": "74.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

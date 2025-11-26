@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Widest Pair of Indices With Equal Range Sum",
+    "titleSlug": "widest-pair-of-indices-with-equal-range-sum",
+    "frontendQuestionId": 519,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "519",
+    "title": "Widest Pair of Indices With Equal Range Sum",
+    "titleSlug": "widest-pair-of-indices-with-equal-range-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 104,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,1,0,1]\n[0,1,1,0]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.4K\", \"totalSubmission\": \"6.4K\", \"totalAcceptedRaw\": 3431, \"totalSubmissionRaw\": 6389, \"acRate\": \"53.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.4K",
+      "totalSubmission": "6.4K",
+      "totalAcceptedRaw": 3431,
+      "totalSubmissionRaw": 6389,
+      "acRate": "53.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

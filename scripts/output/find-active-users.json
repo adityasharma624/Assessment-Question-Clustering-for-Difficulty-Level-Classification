@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find Active Users",
+    "titleSlug": "find-active-users",
+    "frontendQuestionId": 2842,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2842",
+    "title": "Find Active Users",
+    "titleSlug": "find-active-users",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 26,
+    "dislikes": 8,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Users\":[\"user_id\",\"item\",\"created_at\",\"amount\"]},\"rows\":{\"Users\":[[5,\"Smart Crock Pot\",\"2021-09-18\",698882],[6,\"Smart Lock\",\"2021-09-14\",11487],[6,\"Smart Thermostat\",\"2021-09-10\",674762],[8,\"Smart Light Strip\",\"2021-09-29\",630773],[4,\"Smart Cat Feeder\",\"2021-09-02\",693545],[4,\"Smart Bed\",\"2021-09-13\",170249]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.6K\", \"totalSubmission\": \"12.4K\", \"totalAcceptedRaw\": 5568, \"totalSubmissionRaw\": 12446, \"acRate\": \"44.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.6K",
+      "totalSubmission": "12.4K",
+      "totalAcceptedRaw": 5568,
+      "totalSubmissionRaw": 12446,
+      "acRate": "44.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

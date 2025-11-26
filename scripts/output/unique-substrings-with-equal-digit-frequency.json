@@ -1,0 +1,78 @@
+{
+  "basic": {
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "titleSlug": "unique-substrings-with-equal-digit-frequency",
+    "frontendQuestionId": 2303,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2303",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "titleSlug": "unique-substrings-with-equal-digit-frequency",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 103,
+    "dislikes": 13,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"1212\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"9.5K\", \"totalSubmission\": \"14.8K\", \"totalAcceptedRaw\": 9485, \"totalSubmissionRaw\": 14775, \"acRate\": \"64.2%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Equal Count Substrings\", \"titleSlug\": \"number-of-equal-count-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Substrings That Begin and End With the Same Letter\", \"titleSlug\": \"substrings-that-begin-and-end-with-the-same-letter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "9.5K",
+      "totalSubmission": "14.8K",
+      "totalAcceptedRaw": 9485,
+      "totalSubmissionRaw": 14775,
+      "acRate": "64.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Equal Count Substrings",
+        "titleSlug": "number-of-equal-count-substrings",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Substrings That Begin and End With the Same Letter",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

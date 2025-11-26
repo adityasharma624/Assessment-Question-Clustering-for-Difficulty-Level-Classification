@@ -1,0 +1,64 @@
+{
+  "basic": {
+    "title": "Promise Pool",
+    "titleSlug": "promise-pool",
+    "frontendQuestionId": 2750,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2750",
+    "title": "Promise Pool",
+    "titleSlug": "promise-pool",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 296,
+    "dislikes": 27,
+    "isPaidOnly": true,
+    "sampleTestCase": "[() => new Promise(res => setTimeout(res, 300)), () => new Promise(res => setTimeout(res, 400)), () => new Promise(res => setTimeout(res, 200))]\n2",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"14.6K\", \"totalSubmission\": \"18.4K\", \"totalAcceptedRaw\": 14596, \"totalSubmissionRaw\": 18367, \"acRate\": \"79.5%\"}",
+    "similarQuestions": "[{\"title\": \"Sleep\", \"titleSlug\": \"sleep\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Promise Time Limit\", \"titleSlug\": \"promise-time-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Cache With Time Limit\", \"titleSlug\": \"cache-with-time-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Throttle\", \"titleSlug\": \"throttle\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "14.6K",
+      "totalSubmission": "18.4K",
+      "totalAcceptedRaw": 14596,
+      "totalSubmissionRaw": 18367,
+      "acRate": "79.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Sleep",
+        "titleSlug": "sleep",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Cache With Time Limit",
+        "titleSlug": "cache-with-time-limit",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Throttle",
+        "titleSlug": "throttle",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,91 @@
+{
+  "basic": {
+    "title": "Remove All Ones With Row and Column Flips",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips",
+    "frontendQuestionId": 2268,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2268",
+    "title": "Remove All Ones With Row and Column Flips",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 481,
+    "dislikes": 188,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,1,0],[1,0,1],[0,1,0]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"34.4K\", \"totalSubmission\": \"45.2K\", \"totalAcceptedRaw\": 34411, \"totalSubmissionRaw\": 45157, \"acRate\": \"76.2%\"}",
+    "similarQuestions": "[{\"title\": \"Score After Flipping Matrix\", \"titleSlug\": \"score-after-flipping-matrix\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Flips to Convert Binary Matrix to Zero Matrix\", \"titleSlug\": \"minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Remove Adjacent Ones in Matrix\", \"titleSlug\": \"minimum-operations-to-remove-adjacent-ones-in-matrix\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Remove All Ones With Row and Column Flips II\", \"titleSlug\": \"remove-all-ones-with-row-and-column-flips-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Difference Between Ones and Zeros in Row and Column\", \"titleSlug\": \"difference-between-ones-and-zeros-in-row-and-column\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "34.4K",
+      "totalSubmission": "45.2K",
+      "totalAcceptedRaw": 34411,
+      "totalSubmissionRaw": 45157,
+      "acRate": "76.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Score After Flipping Matrix",
+        "titleSlug": "score-after-flipping-matrix",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

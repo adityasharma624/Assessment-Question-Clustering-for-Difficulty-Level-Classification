@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Squirrel Simulation",
+    "titleSlug": "squirrel-simulation",
+    "frontendQuestionId": 573,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "573",
+    "title": "Squirrel Simulation",
+    "titleSlug": "squirrel-simulation",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 420,
+    "dislikes": 40,
+    "isPaidOnly": true,
+    "sampleTestCase": "5\n7\n[2,2]\n[4,4]\n[[3,0], [2,5]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"23.9K\", \"totalSubmission\": \"41.7K\", \"totalAcceptedRaw\": 23887, \"totalSubmissionRaw\": 41676, \"acRate\": \"57.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "23.9K",
+      "totalSubmission": "41.7K",
+      "totalAcceptedRaw": 23887,
+      "totalSubmissionRaw": 41676,
+      "acRate": "57.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

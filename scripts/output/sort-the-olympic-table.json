@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Sort the Olympic Table",
+    "titleSlug": "sort-the-olympic-table",
+    "frontendQuestionId": 2516,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2516",
+    "title": "Sort the Olympic Table",
+    "titleSlug": "sort-the-olympic-table",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 40,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Olympic\":[\"country\",\"gold_medals\",\"silver_medals\",\"bronze_medals\"]},\"rows\":{\"Olympic\":[[\"China\",10,10,20],[\"South Sudan\",0,0,1],[\"USA\",10,10,20],[\"Israel\",2,2,3],[\"Egypt\",2,2,2]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"8.5K\", \"totalSubmission\": \"10.7K\", \"totalAcceptedRaw\": 8511, \"totalSubmissionRaw\": 10733, \"acRate\": \"79.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "8.5K",
+      "totalSubmission": "10.7K",
+      "totalAcceptedRaw": 8511,
+      "totalSubmissionRaw": 10733,
+      "acRate": "79.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

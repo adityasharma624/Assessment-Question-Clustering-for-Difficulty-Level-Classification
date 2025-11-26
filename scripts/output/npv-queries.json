@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "NPV Queries",
+    "titleSlug": "npv-queries",
+    "frontendQuestionId": 1551,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1551",
+    "title": "NPV Queries",
+    "titleSlug": "npv-queries",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 61,
+    "dislikes": 297,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"NPV\":[\"id\",\"year\",\"npv\"],\"Queries\":[\"id\",\"year\"]},\"rows\":{\"NPV\":[[1,2018,100],[7,2020,30],[13,2019,40],[1,2019,113],[2,2008,121],[3,2009,21],[11,2020,99],[7,2019,0]],\"Queries\":[[1,2019],[2,2008],[3,2009],[7,2018],[7,2019],[7,2020],[13,2019]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"30.8K\", \"totalSubmission\": \"37.1K\", \"totalAcceptedRaw\": 30815, \"totalSubmissionRaw\": 37149, \"acRate\": \"82.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "30.8K",
+      "totalSubmission": "37.1K",
+      "totalAcceptedRaw": 30815,
+      "totalSubmissionRaw": 37149,
+      "acRate": "82.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

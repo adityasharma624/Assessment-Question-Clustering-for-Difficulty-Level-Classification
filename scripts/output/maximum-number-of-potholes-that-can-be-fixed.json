@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "titleSlug": "maximum-number-of-potholes-that-can-be-fixed",
+    "frontendQuestionId": 3425,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3425",
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "titleSlug": "maximum-number-of-potholes-that-can-be-fixed",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 20,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"..\"\n5",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.6K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 3614, \"totalSubmissionRaw\": 6778, \"acRate\": \"53.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.6K",
+      "totalSubmission": "6.8K",
+      "totalAcceptedRaw": 3614,
+      "totalSubmissionRaw": 6778,
+      "acRate": "53.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

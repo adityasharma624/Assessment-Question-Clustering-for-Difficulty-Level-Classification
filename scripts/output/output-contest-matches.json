@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Output Contest Matches",
+    "titleSlug": "output-contest-matches",
+    "frontendQuestionId": 544,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "544",
+    "title": "Output Contest Matches",
+    "titleSlug": "output-contest-matches",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 398,
+    "dislikes": 140,
+    "isPaidOnly": true,
+    "sampleTestCase": "4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion",
+        "translatedName": null
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"28.2K\", \"totalSubmission\": \"36.5K\", \"totalAcceptedRaw\": 28246, \"totalSubmissionRaw\": 36475, \"acRate\": \"77.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "28.2K",
+      "totalSubmission": "36.5K",
+      "totalAcceptedRaw": 28246,
+      "totalSubmissionRaw": 36475,
+      "acRate": "77.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

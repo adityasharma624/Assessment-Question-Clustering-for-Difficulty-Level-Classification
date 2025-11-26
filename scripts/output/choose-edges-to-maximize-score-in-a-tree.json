@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+    "frontendQuestionId": 2517,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2517",
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 59,
+    "dislikes": 13,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[-1,-1],[0,5],[0,10],[2,6],[2,4]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"3.6K\", \"totalAcceptedRaw\": 2023, \"totalSubmissionRaw\": 3596, \"acRate\": \"56.3%\"}",
+    "similarQuestions": "[{\"title\": \"Binary Tree Cameras\", \"titleSlug\": \"binary-tree-cameras\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Path With Different Adjacent Characters\", \"titleSlug\": \"longest-path-with-different-adjacent-characters\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2K",
+      "totalSubmission": "3.6K",
+      "totalAcceptedRaw": 2023,
+      "totalSubmissionRaw": 3596,
+      "acRate": "56.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Binary Tree Cameras",
+        "titleSlug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Path With Different Adjacent Characters",
+        "titleSlug": "longest-path-with-different-adjacent-characters",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

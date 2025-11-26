@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Change Data Type",
+    "titleSlug": "change-data-type",
+    "frontendQuestionId": 3069,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3069",
+    "title": "Change Data Type",
+    "titleSlug": "change-data-type",
+    "content": "<pre>\nDataFrame <code>students</code>\n+-------------+--------+\n| Column Name | Type   |\n+-------------+--------+\n| student_id  | int    |\n| name        | object |\n| age         | int    |\n| grade       | float  |\n+-------------+--------+\n</pre>\n\n<p>Write a solution to correct the errors:</p>\n\n<p>The <code>grade</code> column is stored as floats,&nbsp;convert it to integers.</p>\n\n<p>The result format is in the following example.</p>\n\n<p>&nbsp;</p>\n<pre>\n<strong class=\"example\">Example 1:</strong>\n<strong>Input:\n</strong>DataFrame students:\n+------------+------+-----+-------+\n| student_id | name | age | grade |\n+------------+------+-----+-------+\n| 1          | Ava  | 6   | 73.0  |\n| 2          | Kate | 15  | 87.0  |\n+------------+------+-----+-------+\n<strong>Output:\n</strong>+------------+------+-----+-------+\n| student_id | name | age | grade |\n+------------+------+-----+-------+\n| 1          | Ava  | 6   | 73    |\n| 2          | Kate | 15  | 87    |\n+------------+------+-----+-------+\n<strong>Explanation:</strong> \nThe data types of the column grade is converted to int.</pre>\n",
+    "difficulty": "Easy",
+    "likes": 85,
+    "dislikes": 9,
+    "isPaidOnly": false,
+    "sampleTestCase": "{\"headers\":{\"students\":[\"student_id\",\"name\",\"age\",\"grade\"]},\"rows\":{\"students\":[[1,\"Ava\",6,73.0],[2,\"Kate\",15,87.0]]}}",
+    "codeSnippets": [
+      {
+        "lang": "Pandas",
+        "langSlug": "pythondata",
+        "code": "import pandas as pd\n\ndef changeDatatype(students: pd.DataFrame) -> pd.DataFrame:\n    "
+      }
+    ],
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"113.1K\", \"totalSubmission\": \"129.4K\", \"totalAcceptedRaw\": 113126, \"totalSubmissionRaw\": 129396, \"acRate\": \"87.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "113.1K",
+      "totalSubmission": "129.4K",
+      "totalAcceptedRaw": 113126,
+      "totalSubmissionRaw": 129396,
+      "acRate": "87.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Analyze User Website Visit Pattern",
+    "titleSlug": "analyze-user-website-visit-pattern",
+    "frontendQuestionId": 1108,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1108",
+    "title": "Analyze User Website Visit Pattern",
+    "titleSlug": "analyze-user-website-visit-pattern",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 561,
+    "dislikes": 3981,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"joe\",\"joe\",\"joe\",\"james\",\"james\",\"james\",\"james\",\"mary\",\"mary\",\"mary\"]\n[1,2,3,4,5,6,7,8,9,10]\n[\"home\",\"about\",\"career\",\"home\",\"cart\",\"maps\",\"home\",\"home\",\"about\",\"career\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"129.6K\", \"totalSubmission\": \"293.4K\", \"totalAcceptedRaw\": 129618, \"totalSubmissionRaw\": 293429, \"acRate\": \"44.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "129.6K",
+      "totalSubmission": "293.4K",
+      "totalAcceptedRaw": 129618,
+      "totalSubmissionRaw": 293429,
+      "acRate": "44.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

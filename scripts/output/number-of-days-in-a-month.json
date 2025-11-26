@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Number of Days in a Month",
+    "titleSlug": "number-of-days-in-a-month",
+    "frontendQuestionId": 1088,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1088",
+    "title": "Number of Days in a Month",
+    "titleSlug": "number-of-days-in-a-month",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 46,
+    "dislikes": 180,
+    "isPaidOnly": true,
+    "sampleTestCase": "1992\n7",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"9.5K\", \"totalSubmission\": \"16.1K\", \"totalAcceptedRaw\": 9527, \"totalSubmissionRaw\": 16097, \"acRate\": \"59.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "9.5K",
+      "totalSubmission": "16.1K",
+      "totalAcceptedRaw": 9527,
+      "totalSubmissionRaw": 16097,
+      "acRate": "59.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

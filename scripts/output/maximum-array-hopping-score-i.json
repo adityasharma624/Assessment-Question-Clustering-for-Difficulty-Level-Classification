@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Maximum Array Hopping Score I",
+    "titleSlug": "maximum-array-hopping-score-i",
+    "frontendQuestionId": 3513,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3513",
+    "title": "Maximum Array Hopping Score I",
+    "titleSlug": "maximum-array-hopping-score-i",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 27,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,5,8]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.3K\", \"totalSubmission\": \"3K\", \"totalAcceptedRaw\": 2333, \"totalSubmissionRaw\": 3016, \"acRate\": \"77.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.3K",
+      "totalSubmission": "3K",
+      "totalAcceptedRaw": 2333,
+      "totalSubmissionRaw": 3016,
+      "acRate": "77.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

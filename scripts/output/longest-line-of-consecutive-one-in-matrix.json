@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Longest Line of Consecutive One in Matrix",
+    "titleSlug": "longest-line-of-consecutive-one-in-matrix",
+    "frontendQuestionId": 562,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "562",
+    "title": "Longest Line of Consecutive One in Matrix",
+    "titleSlug": "longest-line-of-consecutive-one-in-matrix",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 903,
+    "dislikes": 119,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,1,1,0],[0,1,1,0],[0,0,0,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"80.4K\", \"totalSubmission\": \"159K\", \"totalAcceptedRaw\": 80355, \"totalSubmissionRaw\": 158972, \"acRate\": \"50.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "80.4K",
+      "totalSubmission": "159K",
+      "totalAcceptedRaw": 80355,
+      "totalSubmissionRaw": 158972,
+      "acRate": "50.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

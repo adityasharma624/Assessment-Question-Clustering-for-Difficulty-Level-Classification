@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Unique Orders and Customers Per Month",
+    "titleSlug": "unique-orders-and-customers-per-month",
+    "frontendQuestionId": 1712,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1712",
+    "title": "Unique Orders and Customers Per Month",
+    "titleSlug": "unique-orders-and-customers-per-month",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 81,
+    "dislikes": 47,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Orders\":[\"order_id\",\"order_date\",\"customer_id\",\"invoice\"]},\"rows\":{\"Orders\":[[1,\"2020-09-15\",1,30],[2,\"2020-09-17\",2,90],[3,\"2020-10-06\",3,20],[4,\"2020-10-20\",3,21],[5,\"2020-11-10\",1,10],[6,\"2020-11-21\",2,15],[7,\"2020-12-01\",4,55],[8,\"2020-12-03\",4,77],[9,\"2021-01-07\",3,31],[10,\"2021-01-15\",2,20]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"25.3K\", \"totalSubmission\": \"30.9K\", \"totalAcceptedRaw\": 25347, \"totalSubmissionRaw\": 30919, \"acRate\": \"82.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "25.3K",
+      "totalSubmission": "30.9K",
+      "totalAcceptedRaw": 25347,
+      "totalSubmissionRaw": 30919,
+      "acRate": "82.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

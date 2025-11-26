@@ -1,0 +1,58 @@
+{
+  "basic": {
+    "title": "Count Ways to Distribute Candies",
+    "titleSlug": "count-ways-to-distribute-candies",
+    "frontendQuestionId": 1828,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1828",
+    "title": "Count Ways to Distribute Candies",
+    "titleSlug": "count-ways-to-distribute-candies",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 77,
+    "dislikes": 9,
+    "isPaidOnly": true,
+    "sampleTestCase": "3\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.1K\", \"totalSubmission\": \"4.8K\", \"totalAcceptedRaw\": 3058, \"totalSubmissionRaw\": 4809, \"acRate\": \"63.6%\"}",
+    "similarQuestions": "[{\"title\": \"Distribute Candies Among Children I\", \"titleSlug\": \"distribute-candies-among-children-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Distribute Candies Among Children II\", \"titleSlug\": \"distribute-candies-among-children-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "3.1K",
+      "totalSubmission": "4.8K",
+      "totalAcceptedRaw": 3058,
+      "totalSubmissionRaw": 4809,
+      "acRate": "63.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Distribute Candies Among Children I",
+        "titleSlug": "distribute-candies-among-children-i",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Distribute Candies Among Children II",
+        "titleSlug": "distribute-candies-among-children-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

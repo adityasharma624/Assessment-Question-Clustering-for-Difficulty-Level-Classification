@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Largest Unique Number",
+    "titleSlug": "largest-unique-number",
+    "frontendQuestionId": 1098,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1098",
+    "title": "Largest Unique Number",
+    "titleSlug": "largest-unique-number",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 354,
+    "dislikes": 18,
+    "isPaidOnly": true,
+    "sampleTestCase": "[5,7,3,9,4,9,8,3,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"105.2K\", \"totalSubmission\": \"147.4K\", \"totalAcceptedRaw\": 105154, \"totalSubmissionRaw\": 147387, \"acRate\": \"71.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "105.2K",
+      "totalSubmission": "147.4K",
+      "totalAcceptedRaw": 105154,
+      "totalSubmissionRaw": 147387,
+      "acRate": "71.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

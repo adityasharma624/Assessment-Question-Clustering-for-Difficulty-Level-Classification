@@ -1,0 +1,84 @@
+{
+  "basic": {
+    "title": "Design In-Memory File System",
+    "titleSlug": "design-in-memory-file-system",
+    "frontendQuestionId": 588,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "588",
+    "title": "Design In-Memory File System",
+    "titleSlug": "design-in-memory-file-system",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 1569,
+    "dislikes": 175,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"FileSystem\",\"ls\",\"mkdir\",\"addContentToFile\",\"ls\",\"readContentFromFile\"]\n[[],[\"/\"],[\"/a/b/c\"],[\"/a/b/c/d\",\"hello\"],[\"/\"],[\"/a/b/c/d\"]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Trie",
+        "slug": "trie",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"133.5K\", \"totalSubmission\": \"276.4K\", \"totalAcceptedRaw\": 133471, \"totalSubmissionRaw\": 276378, \"acRate\": \"48.3%\"}",
+    "similarQuestions": "[{\"title\": \"LRU Cache\", \"titleSlug\": \"lru-cache\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"LFU Cache\", \"titleSlug\": \"lfu-cache\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Design Log Storage System\", \"titleSlug\": \"design-log-storage-system\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "133.5K",
+      "totalSubmission": "276.4K",
+      "totalAcceptedRaw": 133471,
+      "totalSubmissionRaw": 276378,
+      "acRate": "48.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "LFU Cache",
+        "titleSlug": "lfu-cache",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Design Log Storage System",
+        "titleSlug": "design-log-storage-system",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

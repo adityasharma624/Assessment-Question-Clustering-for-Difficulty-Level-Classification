@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Buildings With an Ocean View",
+    "titleSlug": "buildings-with-an-ocean-view",
+    "frontendQuestionId": 1909,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1909",
+    "title": "Buildings With an Ocean View",
+    "titleSlug": "buildings-with-an-ocean-view",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1313,
+    "dislikes": 151,
+    "isPaidOnly": true,
+    "sampleTestCase": "[4,2,3,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"333K\", \"totalSubmission\": \"411.8K\", \"totalAcceptedRaw\": 333013, \"totalSubmissionRaw\": 411763, \"acRate\": \"80.9%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Visible People in a Queue\", \"titleSlug\": \"number-of-visible-people-in-a-queue\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Finding the Number of Visible Mountains\", \"titleSlug\": \"finding-the-number-of-visible-mountains\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "333K",
+      "totalSubmission": "411.8K",
+      "totalAcceptedRaw": 333013,
+      "totalSubmissionRaw": 411763,
+      "acRate": "80.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Finding the Number of Visible Mountains",
+        "titleSlug": "finding-the-number-of-visible-mountains",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

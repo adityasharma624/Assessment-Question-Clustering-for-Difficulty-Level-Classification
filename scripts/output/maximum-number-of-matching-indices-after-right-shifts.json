@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Maximum Number of Matching Indices After Right Shifts",
+    "titleSlug": "maximum-number-of-matching-indices-after-right-shifts",
+    "frontendQuestionId": 3740,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3740",
+    "title": "Maximum Number of Matching Indices After Right Shifts",
+    "titleSlug": "maximum-number-of-matching-indices-after-right-shifts",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,1,2,3,1,2]\n[1,2,3,1,2,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1438, \"totalSubmissionRaw\": 1707, \"acRate\": \"84.2%\"}",
+    "similarQuestions": "[{\"title\": \"Rotate Array\", \"titleSlug\": \"rotate-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "1.4K",
+      "totalSubmission": "1.7K",
+      "totalAcceptedRaw": 1438,
+      "totalSubmissionRaw": 1707,
+      "acRate": "84.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Rotate Array",
+        "titleSlug": "rotate-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

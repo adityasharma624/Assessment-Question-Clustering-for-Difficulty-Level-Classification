@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Manager of the Largest Department",
+    "titleSlug": "manager-of-the-largest-department",
+    "frontendQuestionId": 3285,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3285",
+    "title": "Manager of the Largest Department",
+    "titleSlug": "manager-of-the-largest-department",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 7,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Employees\":[\"emp_id\",\"emp_name\",\"dep_id\",\"position\"]},\"rows\":{\"Employees\":[[156,\"Michael\",107,\"Manager\"],[112,\"Lucas\",107,\"Consultant\"],[8,\"Isabella\",101,\"Manager\"],[160,\"Joseph\",100,\"Manager\"],[80,\"Aiden\",100,\"Engineer\"],[190,\"Skylar\",100,\"Freelancer\"],[196,\"Stella\",101,\"Coordinator\"],[167,\"Audrey\",100,\"Consultant\"],[97,\"Nathan\",101,\"Supervisor\"],[128,\"Ian\",101,\"Administrator\"],[81,\"Ethan\",107,\"Administrator\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.2K\", \"totalSubmission\": \"5.2K\", \"totalAcceptedRaw\": 4189, \"totalSubmissionRaw\": 5211, \"acRate\": \"80.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "4.2K",
+      "totalSubmission": "5.2K",
+      "totalAcceptedRaw": 4189,
+      "totalSubmissionRaw": 5211,
+      "acRate": "80.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

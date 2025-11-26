@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Election Results",
+    "titleSlug": "election-results",
+    "frontendQuestionId": 3078,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3078",
+    "title": "Election Results",
+    "titleSlug": "election-results",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 26,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Votes\":[\"voter\",\"candidate\"]},\"rows\":{\"Votes\":[[\"Kathy\",null],[\"Charles\",\"Ryan\"],[\"Charles\",\"Christine\"],[\"Charles\",\"Kathy\"],[\"Benjamin\",\"Christine\"],[\"Anthony\",\"Ryan\"],[\"Edward\",\"Ryan\"],[\"Terry\",null],[\"Evelyn\",\"Kathy\"],[\"Arthur\",\"Christine\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"5.9K\", \"totalAcceptedRaw\": 3943, \"totalSubmissionRaw\": 5908, \"acRate\": \"66.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.9K",
+      "totalSubmission": "5.9K",
+      "totalAcceptedRaw": 3943,
+      "totalSubmissionRaw": 5908,
+      "acRate": "66.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

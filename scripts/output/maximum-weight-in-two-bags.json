@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Maximum Weight in Two Bags",
+    "titleSlug": "maximum-weight-in-two-bags",
+    "frontendQuestionId": 3987,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3987",
+    "title": "Maximum Weight in Two Bags",
+    "titleSlug": "maximum-weight-in-two-bags",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 5,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,4,3,2]\n5\n4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"513\", \"totalSubmission\": \"858\", \"totalAcceptedRaw\": 513, \"totalSubmissionRaw\": 858, \"acRate\": \"59.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "513",
+      "totalSubmission": "858",
+      "totalAcceptedRaw": 513,
+      "totalSubmissionRaw": 858,
+      "acRate": "59.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Put Boxes Into the Warehouse II",
+    "titleSlug": "put-boxes-into-the-warehouse-ii",
+    "frontendQuestionId": 1719,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1719",
+    "title": "Put Boxes Into the Warehouse II",
+    "titleSlug": "put-boxes-into-the-warehouse-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 227,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,2,3,4]\n[3,4,1,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"10.1K\", \"totalSubmission\": \"15.3K\", \"totalAcceptedRaw\": 10062, \"totalSubmissionRaw\": 15329, \"acRate\": \"65.6%\"}",
+    "similarQuestions": "[{\"title\": \"Put Boxes Into the Warehouse I\", \"titleSlug\": \"put-boxes-into-the-warehouse-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "10.1K",
+      "totalSubmission": "15.3K",
+      "totalAcceptedRaw": 10062,
+      "totalSubmissionRaw": 15329,
+      "acRate": "65.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Put Boxes Into the Warehouse I",
+        "titleSlug": "put-boxes-into-the-warehouse-i",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

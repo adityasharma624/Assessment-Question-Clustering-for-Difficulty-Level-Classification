@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Products With Three or More Orders in Two Consecutive Years",
+    "titleSlug": "products-with-three-or-more-orders-in-two-consecutive-years",
+    "frontendQuestionId": 2431,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2431",
+    "title": "Products With Three or More Orders in Two Consecutive Years",
+    "titleSlug": "products-with-three-or-more-orders-in-two-consecutive-years",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 65,
+    "dislikes": 29,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Orders\": [\"order_id\", \"product_id\", \"quantity\", \"purchase_date\"]}, \"rows\": {\"Orders\": [[1, 1, 7, \"2020-03-16\"], [2, 1, 4, \"2020-12-02\"], [3, 1, 7, \"2020-05-10\"], [4, 1, 6, \"2021-12-23\"], [5, 1, 5, \"2021-05-21\"], [6, 1, 6, \"2021-10-11\"], [7, 2, 6, \"2022-10-11\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"10.1K\", \"totalSubmission\": \"24.9K\", \"totalAcceptedRaw\": 10069, \"totalSubmissionRaw\": 24927, \"acRate\": \"40.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "10.1K",
+      "totalSubmission": "24.9K",
+      "totalAcceptedRaw": 10069,
+      "totalSubmissionRaw": 24927,
+      "acRate": "40.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

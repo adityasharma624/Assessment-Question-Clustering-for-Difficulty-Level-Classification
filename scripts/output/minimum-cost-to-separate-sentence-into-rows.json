@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Minimum Cost to Separate Sentence Into Rows",
+    "titleSlug": "minimum-cost-to-separate-sentence-into-rows",
+    "frontendQuestionId": 2082,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2082",
+    "title": "Minimum Cost to Separate Sentence Into Rows",
+    "titleSlug": "minimum-cost-to-separate-sentence-into-rows",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 45,
+    "dislikes": 14,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"i love leetcode\"\n12",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.4K\", \"totalSubmission\": \"4.7K\", \"totalAcceptedRaw\": 2391, \"totalSubmissionRaw\": 4696, \"acRate\": \"50.9%\"}",
+    "similarQuestions": "[{\"title\": \"Sentence Screen Fitting\", \"titleSlug\": \"sentence-screen-fitting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.4K",
+      "totalSubmission": "4.7K",
+      "totalAcceptedRaw": 2391,
+      "totalSubmissionRaw": 4696,
+      "acRate": "50.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Sentence Screen Fitting",
+        "titleSlug": "sentence-screen-fitting",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

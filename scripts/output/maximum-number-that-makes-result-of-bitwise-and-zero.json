@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+    "titleSlug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+    "frontendQuestionId": 3433,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3433",
+    "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+    "titleSlug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 12,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "7",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 1248, \"totalSubmissionRaw\": 1785, \"acRate\": \"69.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.2K",
+      "totalSubmission": "1.8K",
+      "totalAcceptedRaw": 1248,
+      "totalSubmissionRaw": 1785,
+      "acRate": "69.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

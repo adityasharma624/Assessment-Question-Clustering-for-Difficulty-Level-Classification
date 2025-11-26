@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Maximum Alternating Subarray Sum",
+    "titleSlug": "maximum-alternating-subarray-sum",
+    "frontendQuestionId": 512,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "512",
+    "title": "Maximum Alternating Subarray Sum",
+    "titleSlug": "maximum-alternating-subarray-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 103,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,-1,1,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.3K\", \"totalSubmission\": \"10.7K\", \"totalAcceptedRaw\": 4266, \"totalSubmissionRaw\": 10662, \"acRate\": \"40.0%\"}",
+    "similarQuestions": "[{\"title\": \"Maximum Alternating Subsequence Sum\", \"titleSlug\": \"maximum-alternating-subsequence-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "4.3K",
+      "totalSubmission": "10.7K",
+      "totalAcceptedRaw": 4266,
+      "totalSubmissionRaw": 10662,
+      "acRate": "40.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Maximum Alternating Subsequence Sum",
+        "titleSlug": "maximum-alternating-subsequence-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

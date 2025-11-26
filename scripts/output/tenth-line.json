@@ -1,0 +1,51 @@
+{
+  "basic": {
+    "title": "Tenth Line",
+    "titleSlug": "tenth-line",
+    "frontendQuestionId": 195,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "195",
+    "title": "Tenth Line",
+    "titleSlug": "tenth-line",
+    "content": "<p>Given a text file&nbsp;<code>file.txt</code>, print&nbsp;just the 10th line of the&nbsp;file.</p>\r\n\r\n<p><strong class=\"example\">Example:</strong></p>\r\n\r\n<p>Assume that <code>file.txt</code> has the following content:</p>\r\n\r\n<pre>\r\nLine 1\r\nLine 2\r\nLine 3\r\nLine 4\r\nLine 5\r\nLine 6\r\nLine 7\r\nLine 8\r\nLine 9\r\nLine 10\r\n</pre>\r\n\r\n<p>Your script should output the tenth line, which is:</p>\r\n\r\n<pre>\r\nLine 10\r\n</pre>\r\n\r\n<div class=\"spoilers\"><b>Note:</b><br />\r\n1. If the file contains less than 10 lines, what should you output?<br />\r\n2. There&#39;s at least three different solutions. Try to explore all possibilities.</div>\r\n",
+    "difficulty": "Easy",
+    "likes": 417,
+    "dislikes": 483,
+    "isPaidOnly": false,
+    "sampleTestCase": "Line 1\\nLine 2\\nLine 3\\nLine 4\\nLine 5\\nLine 6\\nLine 7\\nLine 8\\nLine 9\\nLine 10",
+    "codeSnippets": [
+      {
+        "lang": "Bash",
+        "langSlug": "bash",
+        "code": "# Read from the file file.txt and output the tenth line to stdout.\n"
+      }
+    ],
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"146.3K\", \"totalSubmission\": \"411.3K\", \"totalAcceptedRaw\": 146266, \"totalSubmissionRaw\": 411323, \"acRate\": \"35.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "146.3K",
+      "totalSubmission": "411.3K",
+      "totalAcceptedRaw": 146266,
+      "totalSubmissionRaw": 411323,
+      "acRate": "35.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

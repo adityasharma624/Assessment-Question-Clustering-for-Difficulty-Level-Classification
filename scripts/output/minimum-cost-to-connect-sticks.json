@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Minimum Cost to Connect Sticks",
+    "titleSlug": "minimum-cost-to-connect-sticks",
+    "frontendQuestionId": 1126,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1126",
+    "title": "Minimum Cost to Connect Sticks",
+    "titleSlug": "minimum-cost-to-connect-sticks",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1346,
+    "dislikes": 158,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,4,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"145K\", \"totalSubmission\": \"202.6K\", \"totalAcceptedRaw\": 145020, \"totalSubmissionRaw\": 202576, \"acRate\": \"71.6%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Cost to Merge Stones\", \"titleSlug\": \"minimum-cost-to-merge-stones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "145K",
+      "totalSubmission": "202.6K",
+      "totalAcceptedRaw": 145020,
+      "totalSubmissionRaw": 202576,
+      "acRate": "71.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Cost to Merge Stones",
+        "titleSlug": "minimum-cost-to-merge-stones",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

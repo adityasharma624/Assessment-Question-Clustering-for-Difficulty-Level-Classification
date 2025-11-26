@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Encode String with Shortest Length",
+    "titleSlug": "encode-string-with-shortest-length",
+    "frontendQuestionId": 471,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "471",
+    "title": "Encode String with Shortest Length",
+    "titleSlug": "encode-string-with-shortest-length",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 630,
+    "dislikes": 55,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"aaa\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"31.8K\", \"totalSubmission\": \"63K\", \"totalAcceptedRaw\": 31848, \"totalSubmissionRaw\": 63050, \"acRate\": \"50.5%\"}",
+    "similarQuestions": "[{\"title\": \"Decode String\", \"titleSlug\": \"decode-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Atoms\", \"titleSlug\": \"number-of-atoms\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "31.8K",
+      "totalSubmission": "63K",
+      "totalAcceptedRaw": 31848,
+      "totalSubmissionRaw": 63050,
+      "acRate": "50.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Decode String",
+        "titleSlug": "decode-string",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Atoms",
+        "titleSlug": "number-of-atoms",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

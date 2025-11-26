@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Lexicographically Smallest String After Reverse II",
+    "titleSlug": "lexicographically-smallest-string-after-reverse-ii",
+    "frontendQuestionId": 4106,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "4106",
+    "title": "Lexicographically Smallest String After Reverse II",
+    "titleSlug": "lexicographically-smallest-string-after-reverse-ii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 2,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"dcab\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash",
+        "translatedName": null
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"200\", \"totalSubmission\": \"443\", \"totalAcceptedRaw\": 200, \"totalSubmissionRaw\": 443, \"acRate\": \"45.1%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "200",
+      "totalSubmission": "443",
+      "totalAcceptedRaw": 200,
+      "totalSubmissionRaw": 443,
+      "acRate": "45.1%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

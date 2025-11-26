@@ -1,0 +1,75 @@
+{
+  "basic": {
+    "title": "Choose Numbers From Two Arrays in Range",
+    "titleSlug": "choose-numbers-from-two-arrays-in-range",
+    "frontendQuestionId": 2282,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2282",
+    "title": "Choose Numbers From Two Arrays in Range",
+    "titleSlug": "choose-numbers-from-two-arrays-in-range",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 40,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,5]\n[2,6,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.5K\", \"totalAcceptedRaw\": 1316, \"totalSubmissionRaw\": 2502, \"acRate\": \"52.6%\"}",
+    "similarQuestions": "[{\"title\": \"Intersection of Two Arrays\", \"titleSlug\": \"intersection-of-two-arrays\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Intersection of Two Arrays II\", \"titleSlug\": \"intersection-of-two-arrays-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum XOR Sum of Two Arrays\", \"titleSlug\": \"minimum-xor-sum-of-two-arrays\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimize Product Sum of Two Arrays\", \"titleSlug\": \"minimize-product-sum-of-two-arrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "2.5K",
+      "totalAcceptedRaw": 1316,
+      "totalSubmissionRaw": 2502,
+      "acRate": "52.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Intersection of Two Arrays II",
+        "titleSlug": "intersection-of-two-arrays-ii",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum XOR Sum of Two Arrays",
+        "titleSlug": "minimum-xor-sum-of-two-arrays",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimize Product Sum of Two Arrays",
+        "titleSlug": "minimize-product-sum-of-two-arrays",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

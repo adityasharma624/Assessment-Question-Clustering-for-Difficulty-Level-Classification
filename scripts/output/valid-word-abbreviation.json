@@ -1,0 +1,69 @@
+{
+  "basic": {
+    "title": "Valid Word Abbreviation",
+    "titleSlug": "valid-word-abbreviation",
+    "frontendQuestionId": 408,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "408",
+    "title": "Valid Word Abbreviation",
+    "titleSlug": "valid-word-abbreviation",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 904,
+    "dislikes": 2396,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"internationalization\"\n\"i12iz4n\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"346.6K\", \"totalSubmission\": \"937.1K\", \"totalAcceptedRaw\": 346585, \"totalSubmissionRaw\": 937133, \"acRate\": \"37.0%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Unique Word Abbreviation\", \"titleSlug\": \"minimum-unique-word-abbreviation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Word Abbreviation\", \"titleSlug\": \"word-abbreviation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Check if an Original String Exists Given Two Encoded Strings\", \"titleSlug\": \"check-if-an-original-string-exists-given-two-encoded-strings\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "346.6K",
+      "totalSubmission": "937.1K",
+      "totalAcceptedRaw": 346585,
+      "totalSubmissionRaw": 937133,
+      "acRate": "37.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Unique Word Abbreviation",
+        "titleSlug": "minimum-unique-word-abbreviation",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Word Abbreviation",
+        "titleSlug": "word-abbreviation",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Check if an Original String Exists Given Two Encoded Strings",
+        "titleSlug": "check-if-an-original-string-exists-given-two-encoded-strings",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

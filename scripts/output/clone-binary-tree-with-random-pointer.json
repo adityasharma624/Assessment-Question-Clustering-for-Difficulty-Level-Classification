@@ -1,0 +1,84 @@
+{
+  "basic": {
+    "title": "Clone Binary Tree With Random Pointer",
+    "titleSlug": "clone-binary-tree-with-random-pointer",
+    "frontendQuestionId": 1624,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1624",
+    "title": "Clone Binary Tree With Random Pointer",
+    "titleSlug": "clone-binary-tree-with-random-pointer",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 432,
+    "dislikes": 92,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,null],null,[4,3],[7,0]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"35.2K\", \"totalSubmission\": \"43.5K\", \"totalAcceptedRaw\": 35194, \"totalSubmissionRaw\": 43522, \"acRate\": \"80.9%\"}",
+    "similarQuestions": "[{\"title\": \"Clone Graph\", \"titleSlug\": \"clone-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Copy List with Random Pointer\", \"titleSlug\": \"copy-list-with-random-pointer\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Clone N-ary Tree\", \"titleSlug\": \"clone-n-ary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "35.2K",
+      "totalSubmission": "43.5K",
+      "totalAcceptedRaw": 35194,
+      "totalSubmissionRaw": 43522,
+      "acRate": "80.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Clone Graph",
+        "titleSlug": "clone-graph",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "titleSlug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Clone N-ary Tree",
+        "titleSlug": "clone-n-ary-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

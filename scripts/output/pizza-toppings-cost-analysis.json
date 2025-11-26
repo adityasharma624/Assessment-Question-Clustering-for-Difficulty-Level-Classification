@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Pizza Toppings Cost Analysis",
+    "titleSlug": "pizza-toppings-cost-analysis",
+    "frontendQuestionId": 3255,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3255",
+    "title": "Pizza Toppings Cost Analysis",
+    "titleSlug": "pizza-toppings-cost-analysis",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Toppings\":[\"topping_name\",\"cost\"]},\"rows\":{\"Toppings\":[[\"Pepperoni\",0.50],[\"Sausage\",0.70],[\"Chicken\",0.55],[\"Extra Cheese\",0.40]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"4.7K\", \"totalAcceptedRaw\": 3180, \"totalSubmissionRaw\": 4692, \"acRate\": \"67.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.2K",
+      "totalSubmission": "4.7K",
+      "totalAcceptedRaw": 3180,
+      "totalSubmissionRaw": 4692,
+      "acRate": "67.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

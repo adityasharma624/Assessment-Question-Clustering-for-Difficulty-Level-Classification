@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find Bursty Behavior",
+    "titleSlug": "find-bursty-behavior",
+    "frontendQuestionId": 3400,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3400",
+    "title": "Find Bursty Behavior",
+    "titleSlug": "find-bursty-behavior",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 10,
+    "dislikes": 20,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Posts\": [\"post_id\", \"user_id\", \"post_date\"]}, \"rows\": {\"Posts\": [[1, 1, \"2024-02-27\"], [2, 5, \"2024-02-06\"], [3, 3, \"2024-02-25\"], [4, 3, \"2024-02-14\"], [5, 3, \"2024-02-06\"], [6, 2, \"2024-02-25\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.2K\", \"totalSubmission\": \"5.8K\", \"totalAcceptedRaw\": 2170, \"totalSubmissionRaw\": 5827, \"acRate\": \"37.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.2K",
+      "totalSubmission": "5.8K",
+      "totalAcceptedRaw": 2170,
+      "totalSubmissionRaw": 5827,
+      "acRate": "37.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

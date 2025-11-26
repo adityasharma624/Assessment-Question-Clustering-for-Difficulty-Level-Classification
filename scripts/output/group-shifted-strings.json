@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Group Shifted Strings",
+    "titleSlug": "group-shifted-strings",
+    "frontendQuestionId": 249,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "249",
+    "title": "Group Shifted Strings",
+    "titleSlug": "group-shifted-strings",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1770,
+    "dislikes": 440,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"abc\",\"bcd\",\"acef\",\"xyz\",\"az\",\"ba\",\"a\",\"z\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"308.4K\", \"totalSubmission\": \"456K\", \"totalAcceptedRaw\": 308369, \"totalSubmissionRaw\": 456041, \"acRate\": \"67.6%\"}",
+    "similarQuestions": "[{\"title\": \"Group Anagrams\", \"titleSlug\": \"group-anagrams\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Maximum Number of String Pairs\", \"titleSlug\": \"find-maximum-number-of-string-pairs\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "308.4K",
+      "totalSubmission": "456K",
+      "totalAcceptedRaw": 308369,
+      "totalSubmissionRaw": 456041,
+      "acRate": "67.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find Maximum Number of String Pairs",
+        "titleSlug": "find-maximum-number-of-string-pairs",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

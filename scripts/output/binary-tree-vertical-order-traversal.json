@@ -1,0 +1,77 @@
+{
+  "basic": {
+    "title": "Binary Tree Vertical Order Traversal",
+    "titleSlug": "binary-tree-vertical-order-traversal",
+    "frontendQuestionId": 314,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "314",
+    "title": "Binary Tree Vertical Order Traversal",
+    "titleSlug": "binary-tree-vertical-order-traversal",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 3453,
+    "dislikes": 354,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,9,20,null,null,15,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"582.5K\", \"totalSubmission\": \"1M\", \"totalAcceptedRaw\": 582495, \"totalSubmissionRaw\": 1010733, \"acRate\": \"57.6%\"}",
+    "similarQuestions": "[{\"title\": \"Binary Tree Level Order Traversal\", \"titleSlug\": \"binary-tree-level-order-traversal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "582.5K",
+      "totalSubmission": "1M",
+      "totalAcceptedRaw": 582495,
+      "totalSubmissionRaw": 1010733,
+      "acRate": "57.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Binary Tree Level Order Traversal",
+        "titleSlug": "binary-tree-level-order-traversal",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

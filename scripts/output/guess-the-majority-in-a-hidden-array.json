@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Guess the Majority in a Hidden Array",
+    "titleSlug": "guess-the-majority-in-a-hidden-array",
+    "frontendQuestionId": 1681,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1681",
+    "title": "Guess the Majority in a Hidden Array",
+    "titleSlug": "guess-the-majority-in-a-hidden-array",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 147,
+    "dislikes": 122,
+    "isPaidOnly": true,
+    "sampleTestCase": "[0,0,1,0,1,1,1,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5K\", \"totalSubmission\": \"7.3K\", \"totalAcceptedRaw\": 5045, \"totalSubmissionRaw\": 7283, \"acRate\": \"69.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5K",
+      "totalSubmission": "7.3K",
+      "totalAcceptedRaw": 5045,
+      "totalSubmissionRaw": 7283,
+      "acRate": "69.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

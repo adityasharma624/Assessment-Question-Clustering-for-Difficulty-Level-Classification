@@ -1,0 +1,73 @@
+{
+  "basic": {
+    "title": "Shortest Way to Form String",
+    "titleSlug": "shortest-way-to-form-string",
+    "frontendQuestionId": 1051,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1051",
+    "title": "Shortest Way to Form String",
+    "titleSlug": "shortest-way-to-form-string",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1328,
+    "dislikes": 75,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abc\"\n\"abcbc\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"107.5K\", \"totalSubmission\": \"175K\", \"totalAcceptedRaw\": 107528, \"totalSubmissionRaw\": 174987, \"acRate\": \"61.4%\"}",
+    "similarQuestions": "[{\"title\": \"Is Subsequence\", \"titleSlug\": \"is-subsequence\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Matching Subsequences\", \"titleSlug\": \"number-of-matching-subsequences\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "107.5K",
+      "totalSubmission": "175K",
+      "totalAcceptedRaw": 107528,
+      "totalSubmissionRaw": 174987,
+      "acRate": "61.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Is Subsequence",
+        "titleSlug": "is-subsequence",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Matching Subsequences",
+        "titleSlug": "number-of-matching-subsequences",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

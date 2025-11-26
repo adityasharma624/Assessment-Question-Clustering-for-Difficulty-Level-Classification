@@ -1,0 +1,69 @@
+{
+  "basic": {
+    "title": "Nested List Weight Sum",
+    "titleSlug": "nested-list-weight-sum",
+    "frontendQuestionId": 339,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "339",
+    "title": "Nested List Weight Sum",
+    "titleSlug": "nested-list-weight-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1854,
+    "dislikes": 483,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1],2,[1,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"402.6K\", \"totalSubmission\": \"469.1K\", \"totalAcceptedRaw\": 402611, \"totalSubmissionRaw\": 469120, \"acRate\": \"85.8%\"}",
+    "similarQuestions": "[{\"title\": \"Nested List Weight Sum II\", \"titleSlug\": \"nested-list-weight-sum-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Array Nesting\", \"titleSlug\": \"array-nesting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Employee Importance\", \"titleSlug\": \"employee-importance\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "402.6K",
+      "totalSubmission": "469.1K",
+      "totalAcceptedRaw": 402611,
+      "totalSubmissionRaw": 469120,
+      "acRate": "85.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Nested List Weight Sum II",
+        "titleSlug": "nested-list-weight-sum-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Array Nesting",
+        "titleSlug": "array-nesting",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Employee Importance",
+        "titleSlug": "employee-importance",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

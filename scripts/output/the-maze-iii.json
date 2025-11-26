@@ -1,0 +1,93 @@
+{
+  "basic": {
+    "title": "The Maze III",
+    "titleSlug": "the-maze-iii",
+    "frontendQuestionId": 499,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "499",
+    "title": "The Maze III",
+    "titleSlug": "the-maze-iii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 507,
+    "dislikes": 75,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,0,0,0,0],[1,1,0,0,1],[0,0,0,0,0],[0,1,0,0,1],[0,1,0,0,0]]\n[4,3]\n[0,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"37.4K\", \"totalSubmission\": \"73.1K\", \"totalAcceptedRaw\": 37372, \"totalSubmissionRaw\": 73115, \"acRate\": \"51.1%\"}",
+    "similarQuestions": "[{\"title\": \"The Maze\", \"titleSlug\": \"the-maze\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"The Maze II\", \"titleSlug\": \"the-maze-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "37.4K",
+      "totalSubmission": "73.1K",
+      "totalAcceptedRaw": 37372,
+      "totalSubmissionRaw": 73115,
+      "acRate": "51.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "The Maze",
+        "titleSlug": "the-maze",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "The Maze II",
+        "titleSlug": "the-maze-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

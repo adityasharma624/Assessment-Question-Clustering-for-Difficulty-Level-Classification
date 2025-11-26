@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Closest Leaf in a Binary Tree",
+    "titleSlug": "closest-leaf-in-a-binary-tree",
+    "frontendQuestionId": 743,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "743",
+    "title": "Closest Leaf in a Binary Tree",
+    "titleSlug": "closest-leaf-in-a-binary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 886,
+    "dislikes": 189,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,3,2]\n1",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"54.6K\", \"totalSubmission\": \"115.4K\", \"totalAcceptedRaw\": 54562, \"totalSubmissionRaw\": 115366, \"acRate\": \"47.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "54.6K",
+      "totalSubmission": "115.4K",
+      "totalAcceptedRaw": 54562,
+      "totalSubmissionRaw": 115366,
+      "acRate": "47.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

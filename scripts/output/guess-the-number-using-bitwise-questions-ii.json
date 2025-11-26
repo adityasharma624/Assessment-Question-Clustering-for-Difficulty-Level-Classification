@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Guess the Number Using Bitwise Questions II",
+    "titleSlug": "guess-the-number-using-bitwise-questions-ii",
+    "frontendQuestionId": 3401,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3401",
+    "title": "Guess the Number Using Bitwise Questions II",
+    "titleSlug": "guess-the-number-using-bitwise-questions-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 14,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "31",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"977\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 977, \"totalSubmissionRaw\": 1179, \"acRate\": \"82.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "977",
+      "totalSubmission": "1.2K",
+      "totalAcceptedRaw": 977,
+      "totalSubmissionRaw": 1179,
+      "acRate": "82.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

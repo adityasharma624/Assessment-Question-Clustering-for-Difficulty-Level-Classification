@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Coin Path",
+    "titleSlug": "coin-path",
+    "frontendQuestionId": 656,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "656",
+    "title": "Coin Path",
+    "titleSlug": "coin-path",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 259,
+    "dislikes": 114,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,4,-1,2]\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"17K\", \"totalSubmission\": \"49.9K\", \"totalAcceptedRaw\": 17042, \"totalSubmissionRaw\": 49885, \"acRate\": \"34.2%\"}",
+    "similarQuestions": "[{\"title\": \"House Robber\", \"titleSlug\": \"house-robber\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber II\", \"titleSlug\": \"house-robber-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "17K",
+      "totalSubmission": "49.9K",
+      "totalAcceptedRaw": 17042,
+      "totalSubmissionRaw": 49885,
+      "acRate": "34.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "House Robber II",
+        "titleSlug": "house-robber-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

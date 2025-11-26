@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Count Nodes That Are Great Enough",
+    "titleSlug": "count-nodes-that-are-great-enough",
+    "frontendQuestionId": 3016,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3016",
+    "title": "Count Nodes That Are Great Enough",
+    "titleSlug": "count-nodes-that-are-great-enough",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 24,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "[7,6,5,4,3,2,1]\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.3K\", \"totalAcceptedRaw\": 1311, \"totalSubmissionRaw\": 2327, \"acRate\": \"56.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "2.3K",
+      "totalAcceptedRaw": 1311,
+      "totalSubmissionRaw": 2327,
+      "acRate": "56.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

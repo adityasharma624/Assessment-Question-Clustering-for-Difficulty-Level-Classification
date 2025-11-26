@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Sales Analysis I",
+    "titleSlug": "sales-analysis-i",
+    "frontendQuestionId": 1172,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1172",
+    "title": "Sales Analysis I",
+    "titleSlug": "sales-analysis-i",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 202,
+    "dislikes": 81,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Product\":[\"product_id\",\"product_name\",\"unit_price\"],\"Sales\":[\"seller_id\",\"product_id\",\"buyer_id\",\"sale_date\",\"quantity\",\"price\"]},\"rows\":{\"Product\":[[1,\"S8\",1000],[2,\"G4\",800],[3,\"iPhone\",1400]],\"Sales\":[[1,1,1,\"2019-01-21\",2,2000],[1,2,2,\"2019-02-17\",1,800],[2,2,3,\"2019-06-02\",1,800],[3,3,4,\"2019-05-13\",2,2800]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"66.6K\", \"totalSubmission\": \"89.2K\", \"totalAcceptedRaw\": 66626, \"totalSubmissionRaw\": 89179, \"acRate\": \"74.7%\"}",
+    "similarQuestions": "[{\"title\": \"Sales Analysis II\", \"titleSlug\": \"sales-analysis-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "66.6K",
+      "totalSubmission": "89.2K",
+      "totalAcceptedRaw": 66626,
+      "totalSubmissionRaw": 89179,
+      "acRate": "74.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Sales Analysis II",
+        "titleSlug": "sales-analysis-ii",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

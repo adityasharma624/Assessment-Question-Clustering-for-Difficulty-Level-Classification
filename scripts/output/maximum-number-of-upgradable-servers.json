@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Maximum Number of Upgradable Servers",
+    "titleSlug": "maximum-number-of-upgradable-servers",
+    "frontendQuestionId": 3458,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3458",
+    "title": "Maximum Number of Upgradable Servers",
+    "titleSlug": "maximum-number-of-upgradable-servers",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 20,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[4,3]\n[3,5]\n[4,2]\n[8,9]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.9K\", \"totalSubmission\": \"7K\", \"totalAcceptedRaw\": 2948, \"totalSubmissionRaw\": 6952, \"acRate\": \"42.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.9K",
+      "totalSubmission": "7K",
+      "totalAcceptedRaw": 2948,
+      "totalSubmissionRaw": 6952,
+      "acRate": "42.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

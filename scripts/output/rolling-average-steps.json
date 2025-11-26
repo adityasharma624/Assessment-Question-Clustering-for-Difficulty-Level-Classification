@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Rolling Average Steps",
+    "titleSlug": "rolling-average-steps",
+    "frontendQuestionId": 3156,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3156",
+    "title": "Rolling Average Steps",
+    "titleSlug": "rolling-average-steps",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 27,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Steps\": [\"user_id\", \"steps_count\", \"steps_date\"]}, \"rows\": {\"Steps\": [[1,687,\"2021-09-02\"],[1,395,\"2021-09-04\"],[1,499,\"2021-09-05\"],[1,712,\"2021-09-06\"],[1,576,\"2021-09-07\"],[2,153,\"2021-09-06\"],[2,171,\"2021-09-07\"],[2,530,\"2021-09-08\"],[3,945,\"2021-09-04\"],[3,120,\"2021-09-07\"],[3,557,\"2021-09-08\"],[3,840,\"2021-09-09\"],[3,627,\"2021-09-10\"],[5,382,\"2021-09-05\"],[6,480,\"2021-09-01\"],[6,191,\"2021-09-02\"],[6,303,\"2021-09-05\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.8K\", \"totalSubmission\": \"6.9K\", \"totalAcceptedRaw\": 4787, \"totalSubmissionRaw\": 6938, \"acRate\": \"69.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "4.8K",
+      "totalSubmission": "6.9K",
+      "totalAcceptedRaw": 4787,
+      "totalSubmissionRaw": 6938,
+      "acRate": "69.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "IP to CIDR",
+    "titleSlug": "ip-to-cidr",
+    "frontendQuestionId": 752,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "752",
+    "title": "IP to CIDR",
+    "titleSlug": "ip-to-cidr",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 106,
+    "dislikes": 352,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"255.0.0.7\"\n10",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"35.3K\", \"totalSubmission\": \"66.1K\", \"totalAcceptedRaw\": 35258, \"totalSubmissionRaw\": 66068, \"acRate\": \"53.4%\"}",
+    "similarQuestions": "[{\"title\": \"Restore IP Addresses\", \"titleSlug\": \"restore-ip-addresses\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Validate IP Address\", \"titleSlug\": \"validate-ip-address\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "35.3K",
+      "totalSubmission": "66.1K",
+      "totalAcceptedRaw": 35258,
+      "totalSubmissionRaw": 66068,
+      "acRate": "53.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Restore IP Addresses",
+        "titleSlug": "restore-ip-addresses",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Validate IP Address",
+        "titleSlug": "validate-ip-address",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

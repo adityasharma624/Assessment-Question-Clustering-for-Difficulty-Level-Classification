@@ -1,0 +1,84 @@
+{
+  "basic": {
+    "title": "Brace Expansion",
+    "titleSlug": "brace-expansion",
+    "frontendQuestionId": 1076,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1076",
+    "title": "Brace Expansion",
+    "titleSlug": "brace-expansion",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 658,
+    "dislikes": 57,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"{a,b}c{d,e}f\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"62.6K\", \"totalSubmission\": \"93.8K\", \"totalAcceptedRaw\": 62613, \"totalSubmissionRaw\": 93782, \"acRate\": \"66.8%\"}",
+    "similarQuestions": "[{\"title\": \"Decode String\", \"titleSlug\": \"decode-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Letter Case Permutation\", \"titleSlug\": \"letter-case-permutation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Brace Expansion II\", \"titleSlug\": \"brace-expansion-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "62.6K",
+      "totalSubmission": "93.8K",
+      "totalAcceptedRaw": 62613,
+      "totalSubmissionRaw": 93782,
+      "acRate": "66.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Decode String",
+        "titleSlug": "decode-string",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Letter Case Permutation",
+        "titleSlug": "letter-case-permutation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Brace Expansion II",
+        "titleSlug": "brace-expansion-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

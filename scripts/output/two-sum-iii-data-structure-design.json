@@ -1,0 +1,84 @@
+{
+  "basic": {
+    "title": "Two Sum III - Data structure design",
+    "titleSlug": "two-sum-iii-data-structure-design",
+    "frontendQuestionId": 170,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "170",
+    "title": "Two Sum III - Data structure design",
+    "titleSlug": "two-sum-iii-data-structure-design",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 708,
+    "dislikes": 463,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"TwoSum\",\"add\",\"add\",\"add\",\"find\",\"find\"]\n[[],[1],[3],[5],[4],[7]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"178.1K\", \"totalSubmission\": \"456.8K\", \"totalAcceptedRaw\": 178145, \"totalSubmissionRaw\": 456831, \"acRate\": \"39.0%\"}",
+    "similarQuestions": "[{\"title\": \"Two Sum\", \"titleSlug\": \"two-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Unique Word Abbreviation\", \"titleSlug\": \"unique-word-abbreviation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Two Sum IV - Input is a BST\", \"titleSlug\": \"two-sum-iv-input-is-a-bst\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "178.1K",
+      "totalSubmission": "456.8K",
+      "totalAcceptedRaw": 178145,
+      "totalSubmissionRaw": 456831,
+      "acRate": "39.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Unique Word Abbreviation",
+        "titleSlug": "unique-word-abbreviation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Two Sum IV - Input is a BST",
+        "titleSlug": "two-sum-iv-input-is-a-bst",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

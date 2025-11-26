@@ -1,0 +1,69 @@
+{
+  "basic": {
+    "title": "Make Array Non-decreasing or Non-increasing",
+    "titleSlug": "make-array-non-decreasing-or-non-increasing",
+    "frontendQuestionId": 1419,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1419",
+    "title": "Make Array Non-decreasing or Non-increasing",
+    "titleSlug": "make-array-non-decreasing-or-non-increasing",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 93,
+    "dislikes": 13,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,2,4,5,0]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.7K\", \"totalSubmission\": \"7.1K\", \"totalAcceptedRaw\": 4652, \"totalSubmissionRaw\": 7103, \"acRate\": \"65.5%\"}",
+    "similarQuestions": "[{\"title\": \"Non-decreasing Array\", \"titleSlug\": \"non-decreasing-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Make Array Strictly Increasing\", \"titleSlug\": \"make-array-strictly-increasing\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make the Array Increasing\", \"titleSlug\": \"minimum-operations-to-make-the-array-increasing\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "4.7K",
+      "totalSubmission": "7.1K",
+      "totalAcceptedRaw": 4652,
+      "totalSubmissionRaw": 7103,
+      "acRate": "65.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Non-decreasing Array",
+        "titleSlug": "non-decreasing-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Make Array Strictly Increasing",
+        "titleSlug": "make-array-strictly-increasing",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

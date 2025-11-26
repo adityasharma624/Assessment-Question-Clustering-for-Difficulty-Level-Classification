@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Highest Grade For Each Student",
+    "titleSlug": "highest-grade-for-each-student",
+    "frontendQuestionId": 1214,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1214",
+    "title": "Highest Grade For Each Student",
+    "titleSlug": "highest-grade-for-each-student",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 312,
+    "dislikes": 15,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Enrollments\":[\"student_id\",\"course_id\",\"grade\"]},\"rows\":{\"Enrollments\":[[2,2,95],[2,3,95],[1,1,90],[1,2,99],[3,1,80],[3,2,75],[3,3,82]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"76K\", \"totalSubmission\": \"106.8K\", \"totalAcceptedRaw\": 75997, \"totalSubmissionRaw\": 106798, \"acRate\": \"71.2%\"}",
+    "similarQuestions": "[{\"title\": \"Department Highest Salary\", \"titleSlug\": \"department-highest-salary\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "76K",
+      "totalSubmission": "106.8K",
+      "totalAcceptedRaw": 75997,
+      "totalSubmissionRaw": 106798,
+      "acRate": "71.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Department Highest Salary",
+        "titleSlug": "department-highest-salary",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

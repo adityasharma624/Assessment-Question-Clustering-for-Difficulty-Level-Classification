@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Count Numbers With Unique Digits II",
+    "titleSlug": "count-numbers-with-unique-digits-ii",
+    "frontendQuestionId": 3343,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3343",
+    "title": "Count Numbers With Unique Digits II",
+    "titleSlug": "count-numbers-with-unique-digits-ii",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 35,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "1\n20",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.8K\", \"totalSubmission\": \"8.9K\", \"totalAcceptedRaw\": 7750, \"totalSubmissionRaw\": 8882, \"acRate\": \"87.3%\"}",
+    "similarQuestions": "[{\"title\": \"Count Numbers with Unique Digits\", \"titleSlug\": \"count-numbers-with-unique-digits\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "7.8K",
+      "totalSubmission": "8.9K",
+      "totalAcceptedRaw": 7750,
+      "totalSubmissionRaw": 8882,
+      "acRate": "87.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Count Numbers with Unique Digits",
+        "titleSlug": "count-numbers-with-unique-digits",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

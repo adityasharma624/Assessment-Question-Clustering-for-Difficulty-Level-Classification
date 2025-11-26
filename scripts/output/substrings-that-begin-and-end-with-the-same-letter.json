@@ -1,0 +1,90 @@
+{
+  "basic": {
+    "title": "Substrings That Begin and End With the Same Letter",
+    "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+    "frontendQuestionId": 2225,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2225",
+    "title": "Substrings That Begin and End With the Same Letter",
+    "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 137,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abcba\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"13.8K\", \"totalSubmission\": \"18.6K\", \"totalAcceptedRaw\": 13824, \"totalSubmissionRaw\": 18587, \"acRate\": \"74.4%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Good Pairs\", \"titleSlug\": \"number-of-good-pairs\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Sum of Beauty of All Substrings\", \"titleSlug\": \"sum-of-beauty-of-all-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Pairs in Two Arrays\", \"titleSlug\": \"count-pairs-in-two-arrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Unique Substrings With Equal Digit Frequency\", \"titleSlug\": \"unique-substrings-with-equal-digit-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "13.8K",
+      "totalSubmission": "18.6K",
+      "totalAcceptedRaw": 13824,
+      "totalSubmissionRaw": 18587,
+      "acRate": "74.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Good Pairs",
+        "titleSlug": "number-of-good-pairs",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Sum of Beauty of All Substrings",
+        "titleSlug": "sum-of-beauty-of-all-substrings",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Count Pairs in Two Arrays",
+        "titleSlug": "count-pairs-in-two-arrays",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Max Consecutive Ones II",
+    "titleSlug": "max-consecutive-ones-ii",
+    "frontendQuestionId": 487,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "487",
+    "title": "Max Consecutive Ones II",
+    "titleSlug": "max-consecutive-ones-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1596,
+    "dislikes": 27,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,0,1,1,0]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"178.6K\", \"totalSubmission\": \"344.9K\", \"totalAcceptedRaw\": 178624, \"totalSubmissionRaw\": 344863, \"acRate\": \"51.8%\"}",
+    "similarQuestions": "[{\"title\": \"Max Consecutive Ones\", \"titleSlug\": \"max-consecutive-ones\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Max Consecutive Ones III\", \"titleSlug\": \"max-consecutive-ones-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"All Divisions With the Highest Score of a Binary Array\", \"titleSlug\": \"all-divisions-with-the-highest-score-of-a-binary-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "178.6K",
+      "totalSubmission": "344.9K",
+      "totalAcceptedRaw": 178624,
+      "totalSubmissionRaw": 344863,
+      "acRate": "51.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Max Consecutive Ones",
+        "titleSlug": "max-consecutive-ones",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "All Divisions With the Highest Score of a Binary Array",
+        "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

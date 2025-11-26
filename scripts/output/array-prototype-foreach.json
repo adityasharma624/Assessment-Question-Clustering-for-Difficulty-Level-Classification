@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Array Prototype ForEach",
+    "titleSlug": "array-prototype-foreach",
+    "frontendQuestionId": 2907,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2907",
+    "title": "Array Prototype ForEach",
+    "titleSlug": "array-prototype-foreach",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 9,
+    "dislikes": 10,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3]\nfunction(val, i, arr){ arr[i] = val * 2 }\n{\"context\": true}",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"1.6K\", \"totalAcceptedRaw\": 1436, \"totalSubmissionRaw\": 1603, \"acRate\": \"89.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.4K",
+      "totalSubmission": "1.6K",
+      "totalAcceptedRaw": 1436,
+      "totalSubmissionRaw": 1603,
+      "acRate": "89.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

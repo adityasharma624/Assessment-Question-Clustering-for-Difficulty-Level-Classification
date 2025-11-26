@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Count Substrings with Only One Distinct Letter",
+    "titleSlug": "count-substrings-with-only-one-distinct-letter",
+    "frontendQuestionId": 1131,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1131",
+    "title": "Count Substrings with Only One Distinct Letter",
+    "titleSlug": "count-substrings-with-only-one-distinct-letter",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 363,
+    "dislikes": 52,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"aaaba\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"30.7K\", \"totalSubmission\": \"38K\", \"totalAcceptedRaw\": 30724, \"totalSubmissionRaw\": 38015, \"acRate\": \"80.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "30.7K",
+      "totalSubmission": "38K",
+      "totalAcceptedRaw": 30724,
+      "totalSubmissionRaw": 38015,
+      "acRate": "80.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

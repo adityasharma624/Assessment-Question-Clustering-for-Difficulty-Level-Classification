@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Counting Elements",
+    "titleSlug": "counting-elements",
+    "frontendQuestionId": 1391,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1391",
+    "title": "Counting Elements",
+    "titleSlug": "counting-elements",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 166,
+    "dislikes": 64,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"161K\", \"totalSubmission\": \"265.6K\", \"totalAcceptedRaw\": 161043, \"totalSubmissionRaw\": 265559, \"acRate\": \"60.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "161K",
+      "totalSubmission": "265.6K",
+      "totalAcceptedRaw": 161043,
+      "totalSubmissionRaw": 265559,
+      "acRate": "60.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

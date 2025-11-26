@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Binary Tree Nodes",
+    "titleSlug": "binary-tree-nodes",
+    "frontendQuestionId": 3259,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3259",
+    "title": "Binary Tree Nodes",
+    "titleSlug": "binary-tree-nodes",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 18,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Tree\":[\"N\",\"P\"]},\"rows\":{\"Tree\":[[1,2],[3,2],[6,8],[9,8],[2,5],[8,5],[5,null]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.5K\", \"totalSubmission\": \"4.4K\", \"totalAcceptedRaw\": 3490, \"totalSubmissionRaw\": 4443, \"acRate\": \"78.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.5K",
+      "totalSubmission": "4.4K",
+      "totalAcceptedRaw": 3490,
+      "totalSubmissionRaw": 4443,
+      "acRate": "78.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

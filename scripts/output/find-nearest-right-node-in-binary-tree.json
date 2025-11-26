@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Find Nearest Right Node in Binary Tree",
+    "titleSlug": "find-nearest-right-node-in-binary-tree",
+    "frontendQuestionId": 1745,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1745",
+    "title": "Find Nearest Right Node in Binary Tree",
+    "titleSlug": "find-nearest-right-node-in-binary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 332,
+    "dislikes": 10,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,null,4,5,6]\n4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"24.8K\", \"totalSubmission\": \"33K\", \"totalAcceptedRaw\": 24768, \"totalSubmissionRaw\": 33007, \"acRate\": \"75.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "24.8K",
+      "totalSubmission": "33K",
+      "totalAcceptedRaw": 24768,
+      "totalSubmissionRaw": 33007,
+      "acRate": "75.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

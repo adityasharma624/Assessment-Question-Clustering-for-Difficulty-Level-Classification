@@ -1,0 +1,72 @@
+{
+  "basic": {
+    "title": "Subtree Removal Game with Fibonacci Tree",
+    "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+    "frontendQuestionId": 2153,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2153",
+    "title": "Subtree Removal Game with Fibonacci Tree",
+    "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 16,
+    "dislikes": 49,
+    "isPaidOnly": true,
+    "sampleTestCase": "3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"869\", \"totalSubmission\": \"1.5K\", \"totalAcceptedRaw\": 869, \"totalSubmissionRaw\": 1517, \"acRate\": \"57.3%\"}",
+    "similarQuestions": "[{\"title\": \"Game of Nim\", \"titleSlug\": \"game-of-nim\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "869",
+      "totalSubmission": "1.5K",
+      "totalAcceptedRaw": 869,
+      "totalSubmissionRaw": 1517,
+      "acRate": "57.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Game of Nim",
+        "titleSlug": "game-of-nim",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

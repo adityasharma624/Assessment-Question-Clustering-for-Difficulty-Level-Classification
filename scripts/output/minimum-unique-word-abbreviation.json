@@ -1,0 +1,79 @@
+{
+  "basic": {
+    "title": "Minimum Unique Word Abbreviation",
+    "titleSlug": "minimum-unique-word-abbreviation",
+    "frontendQuestionId": 411,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "411",
+    "title": "Minimum Unique Word Abbreviation",
+    "titleSlug": "minimum-unique-word-abbreviation",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 183,
+    "dislikes": 146,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"apple\"\n[\"blade\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"15.5K\", \"totalSubmission\": \"38.5K\", \"totalAcceptedRaw\": 15527, \"totalSubmissionRaw\": 38522, \"acRate\": \"40.3%\"}",
+    "similarQuestions": "[{\"title\": \"Generalized Abbreviation\", \"titleSlug\": \"generalized-abbreviation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Valid Word Abbreviation\", \"titleSlug\": \"valid-word-abbreviation\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Word Abbreviation\", \"titleSlug\": \"word-abbreviation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "15.5K",
+      "totalSubmission": "38.5K",
+      "totalAcceptedRaw": 15527,
+      "totalSubmissionRaw": 38522,
+      "acRate": "40.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Generalized Abbreviation",
+        "titleSlug": "generalized-abbreviation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Valid Word Abbreviation",
+        "titleSlug": "valid-word-abbreviation",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Word Abbreviation",
+        "titleSlug": "word-abbreviation",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

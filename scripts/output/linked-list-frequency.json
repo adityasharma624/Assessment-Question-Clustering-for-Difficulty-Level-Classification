@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Linked List Frequency",
+    "titleSlug": "linked-list-frequency",
+    "frontendQuestionId": 3359,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3359",
+    "title": "Linked List Frequency",
+    "titleSlug": "linked-list-frequency",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 48,
+    "dislikes": 21,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,1,2,1,2,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"14.2K\", \"totalSubmission\": \"16.6K\", \"totalAcceptedRaw\": 14200, \"totalSubmissionRaw\": 16635, \"acRate\": \"85.4%\"}",
+    "similarQuestions": "[{\"title\": \"Top K Frequent Elements\", \"titleSlug\": \"top-k-frequent-elements\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "14.2K",
+      "totalSubmission": "16.6K",
+      "totalAcceptedRaw": 14200,
+      "totalSubmissionRaw": 16635,
+      "acRate": "85.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

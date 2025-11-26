@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Search in a Sorted Array of Unknown Size",
+    "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+    "frontendQuestionId": 786,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "786",
+    "title": "Search in a Sorted Array of Unknown Size",
+    "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 936,
+    "dislikes": 51,
+    "isPaidOnly": true,
+    "sampleTestCase": "[-1,0,3,5,9,12]\n9",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"110.9K\", \"totalSubmission\": \"151.9K\", \"totalAcceptedRaw\": 110880, \"totalSubmissionRaw\": 151906, \"acRate\": \"73.0%\"}",
+    "similarQuestions": "[{\"title\": \"Binary Search\", \"titleSlug\": \"binary-search\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Index of the Large Integer\", \"titleSlug\": \"find-the-index-of-the-large-integer\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "110.9K",
+      "totalSubmission": "151.9K",
+      "totalAcceptedRaw": 110880,
+      "totalSubmissionRaw": 151906,
+      "acRate": "73.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Binary Search",
+        "titleSlug": "binary-search",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find the Index of the Large Integer",
+        "titleSlug": "find-the-index-of-the-large-integer",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

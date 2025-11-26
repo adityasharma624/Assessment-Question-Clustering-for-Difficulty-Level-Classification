@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Count Univalue Subtrees",
+    "titleSlug": "count-univalue-subtrees",
+    "frontendQuestionId": 250,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "250",
+    "title": "Count Univalue Subtrees",
+    "titleSlug": "count-univalue-subtrees",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1243,
+    "dislikes": 453,
+    "isPaidOnly": true,
+    "sampleTestCase": "[5,1,5,5,5,null,5]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"168.1K\", \"totalSubmission\": \"293K\", \"totalAcceptedRaw\": 168059, \"totalSubmissionRaw\": 292981, \"acRate\": \"57.4%\"}",
+    "similarQuestions": "[{\"title\": \"Subtree of Another Tree\", \"titleSlug\": \"subtree-of-another-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Longest Univalue Path\", \"titleSlug\": \"longest-univalue-path\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "168.1K",
+      "totalSubmission": "293K",
+      "totalAcceptedRaw": 168059,
+      "totalSubmissionRaw": 292981,
+      "acRate": "57.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Subtree of Another Tree",
+        "titleSlug": "subtree-of-another-tree",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Univalue Path",
+        "titleSlug": "longest-univalue-path",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

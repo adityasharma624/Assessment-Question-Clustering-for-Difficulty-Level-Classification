@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Time Taken to Cross the Door",
+    "titleSlug": "time-taken-to-cross-the-door",
+    "frontendQuestionId": 2617,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2617",
+    "title": "Time Taken to Cross the Door",
+    "titleSlug": "time-taken-to-cross-the-door",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 113,
+    "dislikes": 24,
+    "isPaidOnly": true,
+    "sampleTestCase": "[0,1,1,2,4]\n[0,1,0,0,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Queue",
+        "slug": "queue",
+        "translatedName": null
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"13.4K\", \"totalSubmission\": \"27K\", \"totalAcceptedRaw\": 13415, \"totalSubmissionRaw\": 26951, \"acRate\": \"49.8%\"}",
+    "similarQuestions": "[{\"title\": \"The Latest Time to Catch a Bus\", \"titleSlug\": \"the-latest-time-to-catch-a-bus\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "13.4K",
+      "totalSubmission": "27K",
+      "totalAcceptedRaw": 13415,
+      "totalSubmissionRaw": 26951,
+      "acRate": "49.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "The Latest Time to Catch a Bus",
+        "titleSlug": "the-latest-time-to-catch-a-bus",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

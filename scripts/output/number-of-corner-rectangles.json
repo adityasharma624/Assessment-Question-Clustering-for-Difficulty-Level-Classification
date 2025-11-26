@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Number Of Corner Rectangles",
+    "titleSlug": "number-of-corner-rectangles",
+    "frontendQuestionId": 751,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "751",
+    "title": "Number Of Corner Rectangles",
+    "titleSlug": "number-of-corner-rectangles",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 632,
+    "dislikes": 92,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,0,0,1,0],[0,0,1,0,1],[0,0,0,1,0],[1,0,1,0,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"40.1K\", \"totalSubmission\": \"59.1K\", \"totalAcceptedRaw\": 40087, \"totalSubmissionRaw\": 59073, \"acRate\": \"67.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "40.1K",
+      "totalSubmission": "59.1K",
+      "totalAcceptedRaw": 40087,
+      "totalSubmissionRaw": 59073,
+      "acRate": "67.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

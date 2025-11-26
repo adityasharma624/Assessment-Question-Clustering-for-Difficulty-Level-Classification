@@ -1,0 +1,77 @@
+{
+  "basic": {
+    "title": "Minimize Maximum Value in a Grid",
+    "titleSlug": "minimize-maximum-value-in-a-grid",
+    "frontendQuestionId": 2506,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2506",
+    "title": "Minimize Maximum Value in a Grid",
+    "titleSlug": "minimize-maximum-value-in-a-grid",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 143,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[3,1],[2,5]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.2K\", \"totalSubmission\": \"10.3K\", \"totalAcceptedRaw\": 7221, \"totalSubmissionRaw\": 10259, \"acRate\": \"70.4%\"}",
+    "similarQuestions": "[{\"title\": \"Candy\", \"titleSlug\": \"candy\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "7.2K",
+      "totalSubmission": "10.3K",
+      "totalAcceptedRaw": 7221,
+      "totalSubmissionRaw": 10259,
+      "acRate": "70.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Candy",
+        "titleSlug": "candy",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

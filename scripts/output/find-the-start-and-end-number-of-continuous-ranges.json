@@ -1,0 +1,64 @@
+{
+  "basic": {
+    "title": "Find the Start and End Number of Continuous Ranges",
+    "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+    "frontendQuestionId": 1420,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1420",
+    "title": "Find the Start and End Number of Continuous Ranges",
+    "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 586,
+    "dislikes": 36,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Logs\":[\"log_id\"]},\"rows\":{\"Logs\":[[1],[2],[3],[7],[8],[10]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"48.2K\", \"totalSubmission\": \"58.8K\", \"totalAcceptedRaw\": 48177, \"totalSubmissionRaw\": 58761, \"acRate\": \"82.0%\"}",
+    "similarQuestions": "[{\"title\": \"Report Contiguous Dates\", \"titleSlug\": \"report-contiguous-dates\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find the Missing IDs\", \"titleSlug\": \"find-the-missing-ids\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Customers With Strictly Increasing Purchases\", \"titleSlug\": \"customers-with-strictly-increasing-purchases\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "48.2K",
+      "totalSubmission": "58.8K",
+      "totalAcceptedRaw": 48177,
+      "totalSubmissionRaw": 58761,
+      "acRate": "82.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Report Contiguous Dates",
+        "titleSlug": "report-contiguous-dates",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find the Missing IDs",
+        "titleSlug": "find-the-missing-ids",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Customers With Strictly Increasing Purchases",
+        "titleSlug": "customers-with-strictly-increasing-purchases",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

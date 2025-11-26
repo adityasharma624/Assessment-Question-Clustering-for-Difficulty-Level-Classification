@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Make a Positive Array",
+    "titleSlug": "make-a-positive-array",
+    "frontendQuestionId": 3855,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3855",
+    "title": "Make a Positive Array",
+    "titleSlug": "make-a-positive-array",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 7,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "[-10,15,-12]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"592\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 592, \"totalSubmissionRaw\": 1665, \"acRate\": \"35.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "592",
+      "totalSubmission": "1.7K",
+      "totalAcceptedRaw": 592,
+      "totalSubmissionRaw": 1665,
+      "acRate": "35.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

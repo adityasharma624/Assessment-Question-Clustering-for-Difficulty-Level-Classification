@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Subsequence of Size K With the Largest Even Sum",
+    "titleSlug": "subsequence-of-size-k-with-the-largest-even-sum",
+    "frontendQuestionId": 2242,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2242",
+    "title": "Subsequence of Size K With the Largest Even Sum",
+    "titleSlug": "subsequence-of-size-k-with-the-largest-even-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 97,
+    "dislikes": 8,
+    "isPaidOnly": true,
+    "sampleTestCase": "[4,1,5,3,1]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"12.9K\", \"totalAcceptedRaw\": 4596, \"totalSubmissionRaw\": 12895, \"acRate\": \"35.6%\"}",
+    "similarQuestions": "[{\"title\": \"Split Array Largest Sum\", \"titleSlug\": \"split-array-largest-sum\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Partition Array for Maximum Sum\", \"titleSlug\": \"partition-array-for-maximum-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Sub-arrays With Odd Sum\", \"titleSlug\": \"number-of-sub-arrays-with-odd-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "4.6K",
+      "totalSubmission": "12.9K",
+      "totalAcceptedRaw": 4596,
+      "totalSubmissionRaw": 12895,
+      "acRate": "35.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Split Array Largest Sum",
+        "titleSlug": "split-array-largest-sum",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Partition Array for Maximum Sum",
+        "titleSlug": "partition-array-for-maximum-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Sub-arrays With Odd Sum",
+        "titleSlug": "number-of-sub-arrays-with-odd-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

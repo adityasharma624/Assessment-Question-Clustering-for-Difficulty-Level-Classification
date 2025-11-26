@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find the Team Size",
+    "titleSlug": "find-the-team-size",
+    "frontendQuestionId": 1438,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1438",
+    "title": "Find the Team Size",
+    "titleSlug": "find-the-team-size",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 341,
+    "dislikes": 16,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Employee\":[\"employee_id\",\"team_id\"]},\"rows\":{\"Employee\":[[1,8],[2,8],[3,8],[4,7],[5,9],[6,9]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"79.9K\", \"totalSubmission\": \"89.1K\", \"totalAcceptedRaw\": 79861, \"totalSubmissionRaw\": 89133, \"acRate\": \"89.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "79.9K",
+      "totalSubmission": "89.1K",
+      "totalAcceptedRaw": 79861,
+      "totalSubmissionRaw": 89133,
+      "acRate": "89.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

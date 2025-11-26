@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Amount of New Area Painted Each Day",
+    "titleSlug": "amount-of-new-area-painted-each-day",
+    "frontendQuestionId": 2297,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2297",
+    "title": "Amount of New Area Painted Each Day",
+    "titleSlug": "amount-of-new-area-painted-each-day",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 439,
+    "dislikes": 44,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,4],[4,7],[5,8]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"32.5K\", \"totalSubmission\": \"58.6K\", \"totalAcceptedRaw\": 32532, \"totalSubmissionRaw\": 58599, \"acRate\": \"55.5%\"}",
+    "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Describe the Painting\", \"titleSlug\": \"describe-the-painting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Average Height of Buildings in Each Segment\", \"titleSlug\": \"average-height-of-buildings-in-each-segment\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "32.5K",
+      "totalSubmission": "58.6K",
+      "totalAcceptedRaw": 32532,
+      "totalSubmissionRaw": 58599,
+      "acRate": "55.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Describe the Painting",
+        "titleSlug": "describe-the-painting",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Average Height of Buildings in Each Segment",
+        "titleSlug": "average-height-of-buildings-in-each-segment",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,58 @@
+{
+  "basic": {
+    "title": "Remove Vowels from a String",
+    "titleSlug": "remove-vowels-from-a-string",
+    "frontendQuestionId": 1089,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1089",
+    "title": "Remove Vowels from a String",
+    "titleSlug": "remove-vowels-from-a-string",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 366,
+    "dislikes": 115,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"leetcodeisacommunityforcoders\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"116.9K\", \"totalSubmission\": \"128.1K\", \"totalAcceptedRaw\": 116863, \"totalSubmissionRaw\": 128067, \"acRate\": \"91.3%\"}",
+    "similarQuestions": "[{\"title\": \"Reverse Vowels of a String\", \"titleSlug\": \"reverse-vowels-of-a-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Remove Digit From Number to Maximize Result\", \"titleSlug\": \"remove-digit-from-number-to-maximize-result\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "116.9K",
+      "totalSubmission": "128.1K",
+      "totalAcceptedRaw": 116863,
+      "totalSubmissionRaw": 128067,
+      "acRate": "91.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Reverse Vowels of a String",
+        "titleSlug": "reverse-vowels-of-a-string",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Remove Digit From Number to Maximize Result",
+        "titleSlug": "remove-digit-from-number-to-maximize-result",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

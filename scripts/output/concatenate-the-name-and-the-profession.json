@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Concatenate the Name and the Profession",
+    "titleSlug": "concatenate-the-name-and-the-profession",
+    "frontendQuestionId": 2643,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2643",
+    "title": "Concatenate the Name and the Profession",
+    "titleSlug": "concatenate-the-name-and-the-profession",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 31,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Person\": [\"person_id\", \"name\", \"profession\"]}, \"rows\": {\"Person\": [[1, \"Alex\", \"Singer\"], [3, \"Alice\", \"Actor\"], [2, \"Bob\", \"Player\"], [4, \"Messi\", \"Doctor\"], [6, \"Tyson\", \"Engineer\"], [5, \"Meir\", \"Lawyer\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"6.6K\", \"totalSubmission\": \"8.3K\", \"totalAcceptedRaw\": 6595, \"totalSubmissionRaw\": 8278, \"acRate\": \"79.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "6.6K",
+      "totalSubmission": "8.3K",
+      "totalAcceptedRaw": 6595,
+      "totalSubmissionRaw": 8278,
+      "acRate": "79.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

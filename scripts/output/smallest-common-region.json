@@ -1,0 +1,83 @@
+{
+  "basic": {
+    "title": "Smallest Common Region",
+    "titleSlug": "smallest-common-region",
+    "frontendQuestionId": 1190,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1190",
+    "title": "Smallest Common Region",
+    "titleSlug": "smallest-common-region",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 494,
+    "dislikes": 42,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[\"Earth\",\"North America\",\"South America\"],[\"North America\",\"United States\",\"Canada\"],[\"United States\",\"New York\",\"Boston\"],[\"Canada\",\"Ontario\",\"Quebec\"],[\"South America\",\"Brazil\"]]\n\"Quebec\"\n\"New York\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"36.7K\", \"totalSubmission\": \"53.9K\", \"totalAcceptedRaw\": 36748, \"totalSubmissionRaw\": 53854, \"acRate\": \"68.2%\"}",
+    "similarQuestions": "[{\"title\": \"Lowest Common Ancestor of a Binary Search Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "36.7K",
+      "totalSubmission": "53.9K",
+      "totalAcceptedRaw": 36748,
+      "totalSubmissionRaw": 53854,
+      "acRate": "68.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

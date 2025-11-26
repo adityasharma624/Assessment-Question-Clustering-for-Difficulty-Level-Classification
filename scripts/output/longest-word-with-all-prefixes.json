@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Longest Word With All Prefixes",
+    "titleSlug": "longest-word-with-all-prefixes",
+    "frontendQuestionId": 2009,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2009",
+    "title": "Longest Word With All Prefixes",
+    "titleSlug": "longest-word-with-all-prefixes",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 204,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"k\",\"ki\",\"kir\",\"kira\",\"kiran\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Trie",
+        "slug": "trie",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"14.1K\", \"totalSubmission\": \"19.6K\", \"totalAcceptedRaw\": 14078, \"totalSubmissionRaw\": 19576, \"acRate\": \"71.9%\"}",
+    "similarQuestions": "[{\"title\": \"Longest Word in Dictionary\", \"titleSlug\": \"longest-word-in-dictionary\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "14.1K",
+      "totalSubmission": "19.6K",
+      "totalAcceptedRaw": 14078,
+      "totalSubmissionRaw": 19576,
+      "acRate": "71.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Longest Word in Dictionary",
+        "titleSlug": "longest-word-in-dictionary",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

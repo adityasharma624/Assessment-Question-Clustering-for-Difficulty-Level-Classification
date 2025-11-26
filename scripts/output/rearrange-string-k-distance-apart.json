@@ -1,0 +1,89 @@
+{
+  "basic": {
+    "title": "Rearrange String k Distance Apart",
+    "titleSlug": "rearrange-string-k-distance-apart",
+    "frontendQuestionId": 358,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "358",
+    "title": "Rearrange String k Distance Apart",
+    "titleSlug": "rearrange-string-k-distance-apart",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 987,
+    "dislikes": 39,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"aabbcc\"\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"71.1K\", \"totalSubmission\": \"180.1K\", \"totalAcceptedRaw\": 71072, \"totalSubmissionRaw\": 180109, \"acRate\": \"39.5%\"}",
+    "similarQuestions": "[{\"title\": \"Task Scheduler\", \"titleSlug\": \"task-scheduler\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Reorganize String\", \"titleSlug\": \"reorganize-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Construct String With Repeat Limit\", \"titleSlug\": \"construct-string-with-repeat-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "71.1K",
+      "totalSubmission": "180.1K",
+      "totalAcceptedRaw": 71072,
+      "totalSubmissionRaw": 180109,
+      "acRate": "39.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Task Scheduler",
+        "titleSlug": "task-scheduler",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Reorganize String",
+        "titleSlug": "reorganize-string",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Construct String With Repeat Limit",
+        "titleSlug": "construct-string-with-repeat-limit",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

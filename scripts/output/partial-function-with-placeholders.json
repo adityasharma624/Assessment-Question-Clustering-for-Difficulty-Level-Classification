@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Partial Function with Placeholders",
+    "titleSlug": "partial-function-with-placeholders",
+    "frontendQuestionId": 2900,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2900",
+    "title": "Partial Function with Placeholders",
+    "titleSlug": "partial-function-with-placeholders",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 11,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "(...args) => args\n[2,4,6]\n[8,10]",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"1.5K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1531, \"totalSubmissionRaw\": 1710, \"acRate\": \"89.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.5K",
+      "totalSubmission": "1.7K",
+      "totalAcceptedRaw": 1531,
+      "totalSubmissionRaw": 1710,
+      "acRate": "89.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

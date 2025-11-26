@@ -1,0 +1,84 @@
+{
+  "basic": {
+    "title": "Number of Distinct Islands",
+    "titleSlug": "number-of-distinct-islands",
+    "frontendQuestionId": 694,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "694",
+    "title": "Number of Distinct Islands",
+    "titleSlug": "number-of-distinct-islands",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 2323,
+    "dislikes": 152,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1,0,0,0],[1,1,0,0,0],[0,0,0,1,1],[0,0,0,1,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"201.8K\", \"totalSubmission\": \"322.4K\", \"totalAcceptedRaw\": 201813, \"totalSubmissionRaw\": 322389, \"acRate\": \"62.6%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Islands\", \"titleSlug\": \"number-of-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Distinct Islands II\", \"titleSlug\": \"number-of-distinct-islands-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Sub Islands\", \"titleSlug\": \"count-sub-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "201.8K",
+      "totalSubmission": "322.4K",
+      "totalAcceptedRaw": 201813,
+      "totalSubmissionRaw": 322389,
+      "acRate": "62.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Distinct Islands II",
+        "titleSlug": "number-of-distinct-islands-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Count Sub Islands",
+        "titleSlug": "count-sub-islands",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

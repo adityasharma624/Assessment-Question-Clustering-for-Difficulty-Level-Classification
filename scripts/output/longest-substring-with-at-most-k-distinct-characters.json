@@ -1,0 +1,92 @@
+{
+  "basic": {
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+    "frontendQuestionId": 340,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 2891,
+    "dislikes": 81,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"eceba\"\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"390.6K\", \"totalSubmission\": \"784.9K\", \"totalAcceptedRaw\": 390579, \"totalSubmissionRaw\": 784932, \"acRate\": \"49.8%\"}",
+    "similarQuestions": "[{\"title\": \"Longest Substring Without Repeating Characters\", \"titleSlug\": \"longest-substring-without-repeating-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring with At Most Two Distinct Characters\", \"titleSlug\": \"longest-substring-with-at-most-two-distinct-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Repeating Character Replacement\", \"titleSlug\": \"longest-repeating-character-replacement\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Subarrays with K Different Integers\", \"titleSlug\": \"subarrays-with-k-different-integers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Max Consecutive Ones III\", \"titleSlug\": \"max-consecutive-ones-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximize the Confusion of an Exam\", \"titleSlug\": \"maximize-the-confusion-of-an-exam\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "390.6K",
+      "totalSubmission": "784.9K",
+      "totalAcceptedRaw": 390579,
+      "totalSubmissionRaw": 784932,
+      "acRate": "49.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "titleSlug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "titleSlug": "maximize-the-confusion-of-an-exam",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

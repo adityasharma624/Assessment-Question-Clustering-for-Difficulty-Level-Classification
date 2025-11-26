@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Digit Count in Range",
+    "titleSlug": "digit-count-in-range",
+    "frontendQuestionId": 1068,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1068",
+    "title": "Digit Count in Range",
+    "titleSlug": "digit-count-in-range",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 95,
+    "dislikes": 25,
+    "isPaidOnly": true,
+    "sampleTestCase": "1\n1\n13",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"9.9K\", \"totalAcceptedRaw\": 4590, \"totalSubmissionRaw\": 9914, \"acRate\": \"46.3%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Digit One\", \"titleSlug\": \"number-of-digit-one\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sum of Numbers With Units Digit K\", \"titleSlug\": \"sum-of-numbers-with-units-digit-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "4.6K",
+      "totalSubmission": "9.9K",
+      "totalAcceptedRaw": 4590,
+      "totalSubmissionRaw": 9914,
+      "acRate": "46.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Digit One",
+        "titleSlug": "number-of-digit-one",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Sum of Numbers With Units Digit K",
+        "titleSlug": "sum-of-numbers-with-units-digit-k",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

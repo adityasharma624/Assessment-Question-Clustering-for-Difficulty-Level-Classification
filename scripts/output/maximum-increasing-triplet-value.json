@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Maximum Increasing Triplet Value",
+    "titleSlug": "maximum-increasing-triplet-value",
+    "frontendQuestionId": 3378,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3378",
+    "title": "Maximum Increasing Triplet Value",
+    "titleSlug": "maximum-increasing-triplet-value",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 22,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "[5,6,9]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"3.6K\", \"totalAcceptedRaw\": 1278, \"totalSubmissionRaw\": 3585, \"acRate\": \"35.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "3.6K",
+      "totalAcceptedRaw": 1278,
+      "totalSubmissionRaw": 3585,
+      "acRate": "35.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,79 @@
+{
+  "basic": {
+    "title": "Design Video Sharing Platform",
+    "titleSlug": "design-video-sharing-platform",
+    "frontendQuestionId": 2396,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2396",
+    "title": "Design Video Sharing Platform",
+    "titleSlug": "design-video-sharing-platform",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 85,
+    "dislikes": 14,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"VideoSharingPlatform\",\"upload\",\"upload\",\"remove\",\"remove\",\"upload\",\"watch\",\"watch\",\"like\",\"dislike\",\"dislike\",\"getLikesAndDislikes\",\"getViews\"]\n[[],[\"123\"],[\"456\"],[4],[0],[\"789\"],[1,0,5],[1,0,1],[1],[1],[1],[1],[1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.2K\", \"totalSubmission\": \"8.2K\", \"totalAcceptedRaw\": 5248, \"totalSubmissionRaw\": 8225, \"acRate\": \"63.8%\"}",
+    "similarQuestions": "[{\"title\": \"Tweet Counts Per Frequency\", \"titleSlug\": \"tweet-counts-per-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Design Browser History\", \"titleSlug\": \"design-browser-history\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Most Popular Video Creator\", \"titleSlug\": \"most-popular-video-creator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "5.2K",
+      "totalSubmission": "8.2K",
+      "totalAcceptedRaw": 5248,
+      "totalSubmissionRaw": 8225,
+      "acRate": "63.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Tweet Counts Per Frequency",
+        "titleSlug": "tweet-counts-per-frequency",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Design Browser History",
+        "titleSlug": "design-browser-history",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Most Popular Video Creator",
+        "titleSlug": "most-popular-video-creator",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

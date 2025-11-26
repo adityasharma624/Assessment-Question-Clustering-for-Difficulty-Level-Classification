@@ -1,0 +1,88 @@
+{
+  "basic": {
+    "title": "Count the Number of K-Big Indices",
+    "titleSlug": "count-the-number-of-k-big-indices",
+    "frontendQuestionId": 2658,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2658",
+    "title": "Count the Number of K-Big Indices",
+    "titleSlug": "count-the-number-of-k-big-indices",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 111,
+    "dislikes": 23,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,3,6,5,2,3]\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"9.5K\", \"totalSubmission\": \"17.9K\", \"totalAcceptedRaw\": 9539, \"totalSubmissionRaw\": 17850, \"acRate\": \"53.4%\"}",
+    "similarQuestions": "[{\"title\": \"Count of Smaller Numbers After Self\", \"titleSlug\": \"count-of-smaller-numbers-after-self\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find All Good Indices\", \"titleSlug\": \"find-all-good-indices\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "9.5K",
+      "totalSubmission": "17.9K",
+      "totalAcceptedRaw": 9539,
+      "totalSubmissionRaw": 17850,
+      "acRate": "53.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find All Good Indices",
+        "titleSlug": "find-all-good-indices",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

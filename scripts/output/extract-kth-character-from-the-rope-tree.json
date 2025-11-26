@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Extract Kth Character From The Rope Tree",
+    "titleSlug": "extract-kth-character-from-the-rope-tree",
+    "frontendQuestionId": 2843,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2843",
+    "title": "Extract Kth Character From The Rope Tree",
+    "titleSlug": "extract-kth-character-from-the-rope-tree",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 41,
+    "dislikes": 27,
+    "isPaidOnly": true,
+    "sampleTestCase": "[10,4,\"abcpoe\",\"g\",\"rta\"]\n6",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4.5K\", \"totalSubmission\": \"6.1K\", \"totalAcceptedRaw\": 4533, \"totalSubmissionRaw\": 6144, \"acRate\": \"73.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "4.5K",
+      "totalSubmission": "6.1K",
+      "totalAcceptedRaw": 4533,
+      "totalSubmissionRaw": 6144,
+      "acRate": "73.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

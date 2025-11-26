@@ -1,0 +1,51 @@
+{
+  "basic": {
+    "title": "Transpose File",
+    "titleSlug": "transpose-file",
+    "frontendQuestionId": 194,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "194",
+    "title": "Transpose File",
+    "titleSlug": "transpose-file",
+    "content": "<p>Given a text file <code>file.txt</code>, transpose its content.</p>\n\n<p>You may assume that each row has the same number of columns, and each field is separated by the <code>&#39; &#39;</code> character.</p>\n\n<p><strong class=\"example\">Example:</strong></p>\n\n<p>If <code>file.txt</code> has the following content:</p>\n\n<pre>\nname age\nalice 21\nryan 30\n</pre>\n\n<p>Output the following:</p>\n\n<pre>\nname alice ryan\nage 21 30\n</pre>\n",
+    "difficulty": "Medium",
+    "likes": 163,
+    "dislikes": 289,
+    "isPaidOnly": false,
+    "sampleTestCase": "a",
+    "codeSnippets": [
+      {
+        "lang": "Bash",
+        "langSlug": "bash",
+        "code": "# Read from the file file.txt and print its transposed content to stdout.\n"
+      }
+    ],
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"37.7K\", \"totalSubmission\": \"126.7K\", \"totalAcceptedRaw\": 37741, \"totalSubmissionRaw\": 126689, \"acRate\": \"29.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "37.7K",
+      "totalSubmission": "126.7K",
+      "totalAcceptedRaw": 37741,
+      "totalSubmissionRaw": 126689,
+      "acRate": "29.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

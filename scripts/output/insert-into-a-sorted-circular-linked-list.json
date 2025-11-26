@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Insert into a Sorted Circular Linked List",
+    "titleSlug": "insert-into-a-sorted-circular-linked-list",
+    "frontendQuestionId": 850,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "850",
+    "title": "Insert into a Sorted Circular Linked List",
+    "titleSlug": "insert-into-a-sorted-circular-linked-list",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1333,
+    "dislikes": 801,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,4,1]\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"241.3K\", \"totalSubmission\": \"627.3K\", \"totalAcceptedRaw\": 241264, \"totalSubmissionRaw\": 627274, \"acRate\": \"38.5%\"}",
+    "similarQuestions": "[{\"title\": \"Insertion Sort List\", \"titleSlug\": \"insertion-sort-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "241.3K",
+      "totalSubmission": "627.3K",
+      "totalAcceptedRaw": 241264,
+      "totalSubmissionRaw": 627274,
+      "acRate": "38.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Insertion Sort List",
+        "titleSlug": "insertion-sort-list",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

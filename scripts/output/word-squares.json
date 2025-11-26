@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Word Squares",
+    "titleSlug": "word-squares",
+    "frontendQuestionId": 425,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "425",
+    "title": "Word Squares",
+    "titleSlug": "word-squares",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 1120,
+    "dislikes": 75,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"area\",\"lead\",\"wall\",\"lady\",\"ball\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Trie",
+        "slug": "trie",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"82.2K\", \"totalSubmission\": \"150.7K\", \"totalAcceptedRaw\": 82191, \"totalSubmissionRaw\": 150686, \"acRate\": \"54.5%\"}",
+    "similarQuestions": "[{\"title\": \"Valid Word Square\", \"titleSlug\": \"valid-word-square\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "82.2K",
+      "totalSubmission": "150.7K",
+      "totalAcceptedRaw": 82191,
+      "totalSubmissionRaw": 150686,
+      "acRate": "54.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Valid Word Square",
+        "titleSlug": "valid-word-square",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

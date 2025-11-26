@@ -1,0 +1,158 @@
+{
+  "basic": {
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "titleSlug": "minimum-average-of-smallest-and-largest-elements",
+    "frontendQuestionId": 3471,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3471",
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "titleSlug": "minimum-average-of-smallest-and-largest-elements",
+    "content": "<p>You have an array of floating point numbers <code>averages</code> which is initially empty. You are given an array <code>nums</code> of <code>n</code> integers where <code>n</code> is even.</p>\n\n<p>You repeat the following procedure <code>n / 2</code> times:</p>\n\n<ul>\n\t<li>Remove the <strong>smallest</strong> element, <code>minElement</code>, and the <strong>largest</strong> element <code>maxElement</code>,&nbsp;from <code>nums</code>.</li>\n\t<li>Add <code>(minElement + maxElement) / 2</code> to <code>averages</code>.</li>\n</ul>\n\n<p>Return the <strong>minimum</strong> element in <code>averages</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [7,8,3,4,15,13,4,1]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">5.5</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>step</th>\n\t\t\t<th>nums</th>\n\t\t\t<th>averages</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>0</td>\n\t\t\t<td>[7,8,3,4,15,13,4,1]</td>\n\t\t\t<td>[]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1</td>\n\t\t\t<td>[7,8,3,4,13,4]</td>\n\t\t\t<td>[8]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2</td>\n\t\t\t<td>[7,8,4,4]</td>\n\t\t\t<td>[8,8]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3</td>\n\t\t\t<td>[7,4]</td>\n\t\t\t<td>[8,8,6]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4</td>\n\t\t\t<td>[]</td>\n\t\t\t<td>[8,8,6,5.5]</td>\n\t\t</tr>\n\t</tbody>\n</table>\nThe smallest element of averages, 5.5, is returned.</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,9,8,3,10,5]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">5.5</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>step</th>\n\t\t\t<th>nums</th>\n\t\t\t<th>averages</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>0</td>\n\t\t\t<td><span class=\"example-io\">[1,9,8,3,10,5]</span></td>\n\t\t\t<td>[]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1</td>\n\t\t\t<td><span class=\"example-io\">[9,8,3,5]</span></td>\n\t\t\t<td>[5.5]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2</td>\n\t\t\t<td><span class=\"example-io\">[8,5]</span></td>\n\t\t\t<td>[5.5,6]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3</td>\n\t\t\t<td>[]</td>\n\t\t\t<td>[5.5,6,6.5]</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,2,3,7,8,9]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">5.0</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>step</th>\n\t\t\t<th>nums</th>\n\t\t\t<th>averages</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>0</td>\n\t\t\t<td><span class=\"example-io\">[1,2,3,7,8,9]</span></td>\n\t\t\t<td>[]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1</td>\n\t\t\t<td><span class=\"example-io\">[2,3,7,8]</span></td>\n\t\t\t<td>[5]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2</td>\n\t\t\t<td><span class=\"example-io\">[3,7]</span></td>\n\t\t\t<td>[5,5]</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3</td>\n\t\t\t<td><span class=\"example-io\">[]</span></td>\n\t\t\t<td>[5,5,5]</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>2 &lt;= n == nums.length &lt;= 50</code></li>\n\t<li><code>n</code> is even.</li>\n\t<li><code>1 &lt;= nums[i] &lt;= 50</code></li>\n</ul>\n",
+    "difficulty": "Easy",
+    "likes": 190,
+    "dislikes": 15,
+    "isPaidOnly": false,
+    "sampleTestCase": "[7,8,3,4,15,13,4,1]",
+    "codeSnippets": [
+      {
+        "lang": "C++",
+        "langSlug": "cpp",
+        "code": "class Solution {\npublic:\n    double minimumAverage(vector<int>& nums) {\n        \n    }\n};"
+      },
+      {
+        "lang": "Java",
+        "langSlug": "java",
+        "code": "class Solution {\n    public double minimumAverage(int[] nums) {\n        \n    }\n}"
+      },
+      {
+        "lang": "Python3",
+        "langSlug": "python3",
+        "code": "class Solution:\n    def minimumAverage(self, nums: List[int]) -> float:\n        "
+      },
+      {
+        "lang": "Python",
+        "langSlug": "python",
+        "code": "class Solution(object):\n    def minimumAverage(self, nums):\n        \"\"\"\n        :type nums: List[int]\n        :rtype: float\n        \"\"\"\n        "
+      },
+      {
+        "lang": "JavaScript",
+        "langSlug": "javascript",
+        "code": "/**\n * @param {number[]} nums\n * @return {number}\n */\nvar minimumAverage = function(nums) {\n    \n};"
+      },
+      {
+        "lang": "TypeScript",
+        "langSlug": "typescript",
+        "code": "function minimumAverage(nums: number[]): number {\n    \n};"
+      },
+      {
+        "lang": "C#",
+        "langSlug": "csharp",
+        "code": "public class Solution {\n    public double MinimumAverage(int[] nums) {\n        \n    }\n}"
+      },
+      {
+        "lang": "C",
+        "langSlug": "c",
+        "code": "double minimumAverage(int* nums, int numsSize) {\n    \n}"
+      },
+      {
+        "lang": "Go",
+        "langSlug": "golang",
+        "code": "func minimumAverage(nums []int) float64 {\n    \n}"
+      },
+      {
+        "lang": "Kotlin",
+        "langSlug": "kotlin",
+        "code": "class Solution {\n    fun minimumAverage(nums: IntArray): Double {\n        \n    }\n}"
+      },
+      {
+        "lang": "Swift",
+        "langSlug": "swift",
+        "code": "class Solution {\n    func minimumAverage(_ nums: [Int]) -> Double {\n        \n    }\n}"
+      },
+      {
+        "lang": "Rust",
+        "langSlug": "rust",
+        "code": "impl Solution {\n    pub fn minimum_average(nums: Vec<i32>) -> f64 {\n        \n    }\n}"
+      },
+      {
+        "lang": "Ruby",
+        "langSlug": "ruby",
+        "code": "# @param {Integer[]} nums\n# @return {Float}\ndef minimum_average(nums)\n    \nend"
+      },
+      {
+        "lang": "PHP",
+        "langSlug": "php",
+        "code": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @return Float\n     */\n    function minimumAverage($nums) {\n        \n    }\n}"
+      },
+      {
+        "lang": "Dart",
+        "langSlug": "dart",
+        "code": "class Solution {\n  double minimumAverage(List<int> nums) {\n    \n  }\n}"
+      },
+      {
+        "lang": "Scala",
+        "langSlug": "scala",
+        "code": "object Solution {\n    def minimumAverage(nums: Array[Int]): Double = {\n        \n    }\n}"
+      },
+      {
+        "lang": "Elixir",
+        "langSlug": "elixir",
+        "code": "defmodule Solution do\n  @spec minimum_average(nums :: [integer]) :: float\n  def minimum_average(nums) do\n    \n  end\nend"
+      },
+      {
+        "lang": "Erlang",
+        "langSlug": "erlang",
+        "code": "-spec minimum_average(Nums :: [integer()]) -> float().\nminimum_average(Nums) ->\n  ."
+      },
+      {
+        "lang": "Racket",
+        "langSlug": "racket",
+        "code": "(define/contract (minimum-average nums)\n  (-> (listof exact-integer?) flonum?)\n  )"
+      }
+    ],
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"100.8K\", \"totalSubmission\": \"118.5K\", \"totalAcceptedRaw\": 100845, \"totalSubmissionRaw\": 118465, \"acRate\": \"85.1%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Distinct Averages\", \"titleSlug\": \"number-of-distinct-averages\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "100.8K",
+      "totalSubmission": "118.5K",
+      "totalAcceptedRaw": 100845,
+      "totalSubmissionRaw": 118465,
+      "acRate": "85.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Distinct Averages",
+        "titleSlug": "number-of-distinct-averages",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

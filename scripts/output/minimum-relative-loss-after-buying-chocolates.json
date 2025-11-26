@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Minimum Relative Loss After Buying Chocolates",
+    "titleSlug": "minimum-relative-loss-after-buying-chocolates",
+    "frontendQuestionId": 3077,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3077",
+    "title": "Minimum Relative Loss After Buying Chocolates",
+    "titleSlug": "minimum-relative-loss-after-buying-chocolates",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 17,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,9,22,10,19]\n[[18,4],[5,2]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"639\", \"totalSubmission\": \"1.4K\", \"totalAcceptedRaw\": 639, \"totalSubmissionRaw\": 1405, \"acRate\": \"45.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "639",
+      "totalSubmission": "1.4K",
+      "totalAcceptedRaw": 639,
+      "totalSubmissionRaw": 1405,
+      "acRate": "45.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

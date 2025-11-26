@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Generate Circular Array Values",
+    "titleSlug": "generate-circular-array-values",
+    "frontendQuestionId": 2814,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2814",
+    "title": "Generate Circular Array Values",
+    "titleSlug": "generate-circular-array-values",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 11,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,4,5]\n[1,2,6]\n0",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"641\", \"totalSubmission\": \"860\", \"totalAcceptedRaw\": 641, \"totalSubmissionRaw\": 860, \"acRate\": \"74.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "641",
+      "totalSubmission": "860",
+      "totalAcceptedRaw": 641,
+      "totalSubmissionRaw": 860,
+      "acRate": "74.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Maximum Sized Array",
+    "titleSlug": "maximum-sized-array",
+    "frontendQuestionId": 3679,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3679",
+    "title": "Maximum Sized Array",
+    "titleSlug": "maximum-sized-array",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 8,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "10",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"566\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 566, \"totalSubmissionRaw\": 1105, \"acRate\": \"51.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "566",
+      "totalSubmission": "1.1K",
+      "totalAcceptedRaw": 566,
+      "totalSubmissionRaw": 1105,
+      "acRate": "51.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

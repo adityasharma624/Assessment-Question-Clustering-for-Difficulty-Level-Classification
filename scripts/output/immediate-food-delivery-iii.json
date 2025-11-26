@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Immediate Food Delivery III",
+    "titleSlug": "immediate-food-delivery-iii",
+    "frontendQuestionId": 2840,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2840",
+    "title": "Immediate Food Delivery III",
+    "titleSlug": "immediate-food-delivery-iii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 16,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Delivery\":[\"delivery_id\",\"customer_id\",\"order_date\",\"customer_pref_delivery_date\"]},\"rows\":{\"Delivery\":[[1,1,\"2019-08-01\",\"2019-08-02\"],[2,2,\"2019-08-01\",\"2019-08-01\"],[3,1,\"2019-08-01\",\"2019-08-01\"],[4,3,\"2019-08-02\",\"2019-08-13\"],[5,3,\"2019-08-02\",\"2019-08-02\"],[6,2,\"2019-08-02\",\"2019-08-02\"],[7,4,\"2019-08-03\",\"2019-08-03\"],[8,1,\"2019-08-03\",\"2019-08-03\"],[9,5,\"2019-08-04\",\"2019-08-18\"],[10,2,\"2019-08-04\",\"2019-08-18\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.4K\", \"totalSubmission\": \"7.7K\", \"totalAcceptedRaw\": 5375, \"totalSubmissionRaw\": 7690, \"acRate\": \"69.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.4K",
+      "totalSubmission": "7.7K",
+      "totalAcceptedRaw": 5375,
+      "totalSubmissionRaw": 7690,
+      "acRate": "69.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

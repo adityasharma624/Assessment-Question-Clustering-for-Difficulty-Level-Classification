@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Query Batching",
+    "titleSlug": "query-batching",
+    "frontendQuestionId": 2806,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2806",
+    "title": "Query Batching",
+    "titleSlug": "query-batching",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 14,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "async function(keys) { return keys.map(key => key + '!'); }\n100\n[{\"key\": \"a\", \"time\": 10}, {\"key\": \"b\", \"time\": 20}, {\"key\": \"c\", \"time\": 30}]",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"496\", \"totalSubmission\": \"740\", \"totalAcceptedRaw\": 496, \"totalSubmissionRaw\": 740, \"acRate\": \"67.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "496",
+      "totalSubmission": "740",
+      "totalAcceptedRaw": 496,
+      "totalSubmissionRaw": 740,
+      "acRate": "67.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

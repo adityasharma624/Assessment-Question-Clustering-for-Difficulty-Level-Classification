@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Moving Average from Data Stream",
+    "titleSlug": "moving-average-from-data-stream",
+    "frontendQuestionId": 346,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "346",
+    "title": "Moving Average from Data Stream",
+    "titleSlug": "moving-average-from-data-stream",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 1748,
+    "dislikes": 192,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"MovingAverage\",\"next\",\"next\",\"next\",\"next\"]\n[[3],[1],[10],[3],[5]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Queue",
+        "slug": "queue",
+        "translatedName": null
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"516.9K\", \"totalSubmission\": \"645.1K\", \"totalAcceptedRaw\": 516916, \"totalSubmissionRaw\": 645066, \"acRate\": \"80.1%\"}",
+    "similarQuestions": "[{\"title\": \"K Radius Subarray Averages\", \"titleSlug\": \"k-radius-subarray-averages\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "516.9K",
+      "totalSubmission": "645.1K",
+      "totalAcceptedRaw": 516916,
+      "totalSubmissionRaw": 645066,
+      "acRate": "80.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

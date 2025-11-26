@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Find Expensive Cities",
+    "titleSlug": "find-expensive-cities",
+    "frontendQuestionId": 3284,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3284",
+    "title": "Find Expensive Cities",
+    "titleSlug": "find-expensive-cities",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 10,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Listings\":[\"listing_id\",\"city\",\"price\"]},\"rows\":{\"Listings\":[[113,\"LosAngeles\",7560386],[136,\"SanFrancisco\",2380268],[92,\"Chicago\",9833209],[60,\"Chicago\",5147582],[8,\"Chicago\",5274441],[79,\"SanFrancisco\",8372065],[37,\"Chicago\",7939595],[53,\"LosAngeles\",4965123],[178,\"SanFrancisco\",999207],[51,\"NewYork\",5951718],[121,\"NewYork\",2893760]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.2K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 5241, \"totalSubmissionRaw\": 6796, \"acRate\": \"77.1%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.2K",
+      "totalSubmission": "6.8K",
+      "totalAcceptedRaw": 5241,
+      "totalSubmissionRaw": 6796,
+      "acRate": "77.1%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

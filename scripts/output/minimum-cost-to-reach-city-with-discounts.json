@@ -1,0 +1,80 @@
+{
+  "basic": {
+    "title": "Minimum Cost to Reach City With Discounts",
+    "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+    "frontendQuestionId": 2230,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2230",
+    "title": "Minimum Cost to Reach City With Discounts",
+    "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 240,
+    "dislikes": 22,
+    "isPaidOnly": true,
+    "sampleTestCase": "5\n[[0,1,4],[2,1,3],[1,4,11],[3,2,3],[3,4,2]]\n1",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"11.9K\", \"totalSubmission\": \"19.9K\", \"totalAcceptedRaw\": 11905, \"totalSubmissionRaw\": 19864, \"acRate\": \"59.9%\"}",
+    "similarQuestions": "[{\"title\": \"Cheapest Flights Within K Stops\", \"titleSlug\": \"cheapest-flights-within-k-stops\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Connecting Cities With Minimum Cost\", \"titleSlug\": \"connecting-cities-with-minimum-cost\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Cost of Trip With K Highways\", \"titleSlug\": \"maximum-cost-of-trip-with-k-highways\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost to Reach Destination in Time\", \"titleSlug\": \"minimum-cost-to-reach-destination-in-time\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "11.9K",
+      "totalSubmission": "19.9K",
+      "totalAcceptedRaw": 11905,
+      "totalSubmissionRaw": 19864,
+      "acRate": "59.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "titleSlug": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Connecting Cities With Minimum Cost",
+        "titleSlug": "connecting-cities-with-minimum-cost",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximum Cost of Trip With K Highways",
+        "titleSlug": "maximum-cost-of-trip-with-k-highways",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

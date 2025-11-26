@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Count the Number of Experiments",
+    "titleSlug": "count-the-number-of-experiments",
+    "frontendQuestionId": 2143,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2143",
+    "title": "Count the Number of Experiments",
+    "titleSlug": "count-the-number-of-experiments",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 25,
+    "dislikes": 200,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Experiments\":[\"experiment_id\",\"platform\",\"experiment_name\"]},\"rows\":{\"Experiments\":[[4,\"IOS\",\"Programming\"],[13,\"IOS\",\"Sports\"],[14,\"Android\",\"Reading\"],[8,\"Web\",\"Reading\"],[12,\"Web\",\"Reading\"],[18,\"Web\",\"Programming\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"9.4K\", \"totalSubmission\": \"19.3K\", \"totalAcceptedRaw\": 9375, \"totalSubmissionRaw\": 19273, \"acRate\": \"48.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "9.4K",
+      "totalSubmission": "19.3K",
+      "totalAcceptedRaw": 9375,
+      "totalSubmissionRaw": 19273,
+      "acRate": "48.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

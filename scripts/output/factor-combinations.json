@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Factor Combinations",
+    "titleSlug": "factor-combinations",
+    "frontendQuestionId": 254,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "254",
+    "title": "Factor Combinations",
+    "titleSlug": "factor-combinations",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1174,
+    "dislikes": 76,
+    "isPaidOnly": true,
+    "sampleTestCase": "1",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"139.5K\", \"totalSubmission\": \"276.6K\", \"totalAcceptedRaw\": 139483, \"totalSubmissionRaw\": 276593, \"acRate\": \"50.4%\"}",
+    "similarQuestions": "[{\"title\": \"Combination Sum\", \"titleSlug\": \"combination-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "139.5K",
+      "totalSubmission": "276.6K",
+      "totalAcceptedRaw": 139483,
+      "totalSubmissionRaw": 276593,
+      "acRate": "50.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

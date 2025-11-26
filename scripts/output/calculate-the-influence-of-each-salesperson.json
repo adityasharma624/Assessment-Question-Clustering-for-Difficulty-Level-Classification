@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Calculate the Influence of Each Salesperson",
+    "titleSlug": "calculate-the-influence-of-each-salesperson",
+    "frontendQuestionId": 2515,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2515",
+    "title": "Calculate the Influence of Each Salesperson",
+    "titleSlug": "calculate-the-influence-of-each-salesperson",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 39,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Salesperson\":[\"salesperson_id\",\"name\"],\"Customer\":[\"customer_id\",\"salesperson_id\"],\"Sales\":[\"sale_id\",\"customer_id\",\"price\"]},\"rows\":{\"Salesperson\":[[1,\"Alice\"],[2,\"Bob\"],[3,\"Jerry\"]],\"Customer\":[[1,1],[2,1],[3,2]],\"Sales\":[[1,2,892],[2,1,354],[3,3,988],[4,3,856]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.6K\", \"totalSubmission\": \"9.1K\", \"totalAcceptedRaw\": 7630, \"totalSubmissionRaw\": 9080, \"acRate\": \"84.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "7.6K",
+      "totalSubmission": "9.1K",
+      "totalAcceptedRaw": 7630,
+      "totalSubmissionRaw": 9080,
+      "acRate": "84.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

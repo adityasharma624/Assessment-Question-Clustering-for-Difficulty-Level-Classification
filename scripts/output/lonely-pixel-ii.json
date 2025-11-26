@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Lonely Pixel II",
+    "titleSlug": "lonely-pixel-ii",
+    "frontendQuestionId": 533,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "533",
+    "title": "Lonely Pixel II",
+    "titleSlug": "lonely-pixel-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 91,
+    "dislikes": 786,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"W\",\"B\",\"W\",\"B\",\"W\"]]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"14.2K\", \"totalSubmission\": \"29.1K\", \"totalAcceptedRaw\": 14175, \"totalSubmissionRaw\": 29059, \"acRate\": \"48.8%\"}",
+    "similarQuestions": "[{\"title\": \"Lonely Pixel I\", \"titleSlug\": \"lonely-pixel-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "14.2K",
+      "totalSubmission": "29.1K",
+      "totalAcceptedRaw": 14175,
+      "totalSubmissionRaw": 29059,
+      "acRate": "48.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Lonely Pixel I",
+        "titleSlug": "lonely-pixel-i",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Confusing Number II",
+    "titleSlug": "confusing-number-ii",
+    "frontendQuestionId": 1077,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1077",
+    "title": "Confusing Number II",
+    "titleSlug": "confusing-number-ii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 495,
+    "dislikes": 144,
+    "isPaidOnly": true,
+    "sampleTestCase": "20",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"38.9K\", \"totalSubmission\": \"82.7K\", \"totalAcceptedRaw\": 38948, \"totalSubmissionRaw\": 82720, \"acRate\": \"47.1%\"}",
+    "similarQuestions": "[{\"title\": \"Confusing Number\", \"titleSlug\": \"confusing-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "38.9K",
+      "totalSubmission": "82.7K",
+      "totalAcceptedRaw": 38948,
+      "totalSubmissionRaw": 82720,
+      "acRate": "47.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Confusing Number",
+        "titleSlug": "confusing-number",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

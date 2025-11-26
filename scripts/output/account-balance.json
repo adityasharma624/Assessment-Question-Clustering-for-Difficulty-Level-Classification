@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Account Balance",
+    "titleSlug": "account-balance",
+    "frontendQuestionId": 2208,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2208",
+    "title": "Account Balance",
+    "titleSlug": "account-balance",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 73,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Transactions\":[\"account_id\",\"day\",\"type\",\"amount\"]},\"rows\":{\"Transactions\":[[1,\"2021-11-07\",\"Deposit\",2000],[1,\"2021-11-09\",\"Withdraw\",1000],[1,\"2021-11-11\",\"Deposit\",3000],[2,\"2021-12-07\",\"Deposit\",7000],[2,\"2021-12-12\",\"Withdraw\",7000]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12.3K\", \"totalSubmission\": \"15K\", \"totalAcceptedRaw\": 12309, \"totalSubmissionRaw\": 15037, \"acRate\": \"81.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "12.3K",
+      "totalSubmission": "15K",
+      "totalAcceptedRaw": 12309,
+      "totalSubmissionRaw": 15037,
+      "acRate": "81.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

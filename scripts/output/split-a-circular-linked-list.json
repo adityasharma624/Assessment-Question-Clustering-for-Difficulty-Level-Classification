@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Split a Circular Linked List",
+    "titleSlug": "split-a-circular-linked-list",
+    "frontendQuestionId": 2835,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2835",
+    "title": "Split a Circular Linked List",
+    "titleSlug": "split-a-circular-linked-list",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 45,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,5,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3K\", \"totalSubmission\": \"3.9K\", \"totalAcceptedRaw\": 3034, \"totalSubmissionRaw\": 3919, \"acRate\": \"77.4%\"}",
+    "similarQuestions": "[{\"title\": \"Split Linked List in Parts\", \"titleSlug\": \"split-linked-list-in-parts\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "3K",
+      "totalSubmission": "3.9K",
+      "totalAcceptedRaw": 3034,
+      "totalSubmissionRaw": 3919,
+      "acRate": "77.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Split Linked List in Parts",
+        "titleSlug": "split-linked-list-in-parts",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

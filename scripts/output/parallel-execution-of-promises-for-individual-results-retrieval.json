@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Parallel Execution of Promises for Individual Results Retrieval",
+    "titleSlug": "parallel-execution-of-promises-for-individual-results-retrieval",
+    "frontendQuestionId": 2898,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2898",
+    "title": "Parallel Execution of Promises for Individual Results Retrieval",
+    "titleSlug": "parallel-execution-of-promises-for-individual-results-retrieval",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[() => new Promise(resolve => setTimeout(() => resolve(15), 100))]",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"987\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 987, \"totalSubmissionRaw\": 1124, \"acRate\": \"87.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "987",
+      "totalSubmission": "1.1K",
+      "totalAcceptedRaw": 987,
+      "totalSubmissionRaw": 1124,
+      "acRate": "87.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

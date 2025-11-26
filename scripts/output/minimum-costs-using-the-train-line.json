@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Minimum Costs Using the Train Line",
+    "titleSlug": "minimum-costs-using-the-train-line",
+    "frontendQuestionId": 2500,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2500",
+    "title": "Minimum Costs Using the Train Line",
+    "titleSlug": "minimum-costs-using-the-train-line",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 195,
+    "dislikes": 32,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,6,9,5]\n[5,2,3,10]\n8",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"14.4K\", \"totalSubmission\": \"18.5K\", \"totalAcceptedRaw\": 14426, \"totalSubmissionRaw\": 18547, \"acRate\": \"77.8%\"}",
+    "similarQuestions": "[{\"title\": \"Bus Routes\", \"titleSlug\": \"bus-routes\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Distance Between Bus Stops\", \"titleSlug\": \"distance-between-bus-stops\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "14.4K",
+      "totalSubmission": "18.5K",
+      "totalAcceptedRaw": 14426,
+      "totalSubmissionRaw": 18547,
+      "acRate": "77.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Bus Routes",
+        "titleSlug": "bus-routes",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Distance Between Bus Stops",
+        "titleSlug": "distance-between-bus-stops",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

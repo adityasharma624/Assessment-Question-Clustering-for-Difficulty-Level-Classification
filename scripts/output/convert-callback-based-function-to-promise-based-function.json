@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Convert Callback Based Function to Promise Based Function",
+    "titleSlug": "convert-callback-based-function-to-promise-based-function",
+    "frontendQuestionId": 2782,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2782",
+    "title": "Convert Callback Based Function to Promise Based Function",
+    "titleSlug": "convert-callback-based-function-to-promise-based-function",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 19,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "(callback, a, b, c) => { callback(a * b * c) }\n[1, 2, 3]",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 1198, \"totalSubmissionRaw\": 1321, \"acRate\": \"90.7%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.2K",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 1198,
+      "totalSubmissionRaw": 1321,
+      "acRate": "90.7%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

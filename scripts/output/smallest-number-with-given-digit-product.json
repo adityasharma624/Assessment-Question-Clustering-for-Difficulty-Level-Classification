@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Smallest Number With Given Digit Product",
+    "titleSlug": "smallest-number-with-given-digit-product",
+    "frontendQuestionId": 3111,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3111",
+    "title": "Smallest Number With Given Digit Product",
+    "titleSlug": "smallest-number-with-given-digit-product",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 21,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "105",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"3K\", \"totalAcceptedRaw\": 1309, \"totalSubmissionRaw\": 3009, \"acRate\": \"43.5%\"}",
+    "similarQuestions": "[{\"title\": \"Smallest Divisible Digit Product I\", \"titleSlug\": \"smallest-divisible-digit-product-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Smallest Divisible Digit Product II\", \"titleSlug\": \"smallest-divisible-digit-product-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "3K",
+      "totalAcceptedRaw": 1309,
+      "totalSubmissionRaw": 3009,
+      "acRate": "43.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Smallest Divisible Digit Product I",
+        "titleSlug": "smallest-divisible-digit-product-i",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Smallest Divisible Digit Product II",
+        "titleSlug": "smallest-divisible-digit-product-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

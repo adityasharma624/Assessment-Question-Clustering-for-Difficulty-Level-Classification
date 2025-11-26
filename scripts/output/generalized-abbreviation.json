@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Generalized Abbreviation",
+    "titleSlug": "generalized-abbreviation",
+    "frontendQuestionId": 320,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "320",
+    "title": "Generalized Abbreviation",
+    "titleSlug": "generalized-abbreviation",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 711,
+    "dislikes": 232,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"word\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"75.1K\", \"totalSubmission\": \"124.7K\", \"totalAcceptedRaw\": 75136, \"totalSubmissionRaw\": 124723, \"acRate\": \"60.2%\"}",
+    "similarQuestions": "[{\"title\": \"Subsets\", \"titleSlug\": \"subsets\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Unique Word Abbreviation\", \"titleSlug\": \"unique-word-abbreviation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Unique Word Abbreviation\", \"titleSlug\": \"minimum-unique-word-abbreviation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "75.1K",
+      "totalSubmission": "124.7K",
+      "totalAcceptedRaw": 75136,
+      "totalSubmissionRaw": 124723,
+      "acRate": "60.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Unique Word Abbreviation",
+        "titleSlug": "unique-word-abbreviation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Unique Word Abbreviation",
+        "titleSlug": "minimum-unique-word-abbreviation",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

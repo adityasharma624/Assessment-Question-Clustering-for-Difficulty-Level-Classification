@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Determine if a Simple Graph Exists",
+    "titleSlug": "determine-if-a-simple-graph-exists",
+    "frontendQuestionId": 4006,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "4006",
+    "title": "Determine if a Simple Graph Exists",
+    "titleSlug": "determine-if-a-simple-graph-exists",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 7,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,1,2,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"263\", \"totalSubmission\": \"556\", \"totalAcceptedRaw\": 263, \"totalSubmissionRaw\": 556, \"acRate\": \"47.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "263",
+      "totalSubmission": "556",
+      "totalAcceptedRaw": 263,
+      "totalSubmissionRaw": 556,
+      "acRate": "47.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,71 @@
+{
+  "basic": {
+    "title": "Triangle Judgement",
+    "titleSlug": "triangle-judgement",
+    "frontendQuestionId": 610,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "610",
+    "title": "Triangle Judgement",
+    "titleSlug": "triangle-judgement",
+    "content": "<p>Table: <code>Triangle</code></p>\n\n<pre>\n+-------------+------+\n| Column Name | Type |\n+-------------+------+\n| x           | int  |\n| y           | int  |\n| z           | int  |\n+-------------+------+\nIn SQL, (x, y, z) is the primary key column for this table.\nEach row of this table contains the lengths of three line segments.\n</pre>\n\n<p>&nbsp;</p>\n\n<p>Report for every three line segments whether they can form a triangle.</p>\n\n<p>Return the result table in <strong>any order</strong>.</p>\n\n<p>The&nbsp;result format is in the following example.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> \nTriangle table:\n+----+----+----+\n| x  | y  | z  |\n+----+----+----+\n| 13 | 15 | 30 |\n| 10 | 20 | 15 |\n+----+----+----+\n<strong>Output:</strong> \n+----+----+----+----------+\n| x  | y  | z  | triangle |\n+----+----+----+----------+\n| 13 | 15 | 30 | No       |\n| 10 | 20 | 15 | Yes      |\n+----+----+----+----------+\n</pre>\n",
+    "difficulty": "Easy",
+    "likes": 791,
+    "dislikes": 227,
+    "isPaidOnly": false,
+    "sampleTestCase": "{\"headers\":{\"Triangle\":[\"x\",\"y\",\"z\"]},\"rows\":{\"Triangle\":[[13,15,30],[10,20,15]]}}",
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n"
+      },
+      {
+        "lang": "PostgreSQL",
+        "langSlug": "postgresql",
+        "code": "-- Write your PostgreSQL query statement below\n"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n"
+      },
+      {
+        "lang": "Pandas",
+        "langSlug": "pythondata",
+        "code": "import pandas as pd\n\ndef triangle_judgement(triangle: pd.DataFrame) -> pd.DataFrame:\n    "
+      }
+    ],
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"417.6K\", \"totalSubmission\": \"561.6K\", \"totalAcceptedRaw\": 417607, \"totalSubmissionRaw\": 561621, \"acRate\": \"74.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "417.6K",
+      "totalSubmission": "561.6K",
+      "totalAcceptedRaw": 417607,
+      "totalSubmissionRaw": 561621,
+      "acRate": "74.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

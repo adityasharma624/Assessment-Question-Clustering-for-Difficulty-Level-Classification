@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Create Hello World Function",
+    "titleSlug": "create-hello-world-function",
+    "frontendQuestionId": 2809,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2809",
+    "title": "Create Hello World Function",
+    "titleSlug": "create-hello-world-function",
+    "content": "Write a function&nbsp;<code>createHelloWorld</code>.&nbsp;It should return a new function that always returns&nbsp;<code>&quot;Hello World&quot;</code>.\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> args = []\n<strong>Output:</strong> &quot;Hello World&quot;\n<strong>Explanation:</strong>\nconst f = createHelloWorld();\nf(); // &quot;Hello World&quot;\n\nThe function returned by createHelloWorld should always return &quot;Hello World&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> args = [{},null,42]\n<strong>Output:</strong> &quot;Hello World&quot;\n<strong>Explanation:</strong>\nconst f = createHelloWorld();\nf({}, null, 42); // &quot;Hello World&quot;\n\nAny arguments could be passed to the function but it should still always return &quot;Hello World&quot;.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= args.length &lt;= 10</code></li>\n</ul>\n",
+    "difficulty": "Easy",
+    "likes": 1585,
+    "dislikes": 221,
+    "isPaidOnly": false,
+    "sampleTestCase": "[]",
+    "codeSnippets": [
+      {
+        "lang": "JavaScript",
+        "langSlug": "javascript",
+        "code": "/**\n * @return {Function}\n */\nvar createHelloWorld = function() {\n    \n    return function(...args) {\n        \n    }\n};\n\n/**\n * const f = createHelloWorld();\n * f(); // \"Hello World\"\n */"
+      },
+      {
+        "lang": "TypeScript",
+        "langSlug": "typescript",
+        "code": "function createHelloWorld() {\n    \n    return function(...args): string {\n        \n    };\n};\n\n/**\n * const f = createHelloWorld();\n * f(); // \"Hello World\"\n */"
+      }
+    ],
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"780.2K\", \"totalSubmission\": \"951.9K\", \"totalAcceptedRaw\": 780162, \"totalSubmissionRaw\": 951933, \"acRate\": \"82.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "780.2K",
+      "totalSubmission": "951.9K",
+      "totalAcceptedRaw": 780162,
+      "totalSubmissionRaw": 951933,
+      "acRate": "82.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

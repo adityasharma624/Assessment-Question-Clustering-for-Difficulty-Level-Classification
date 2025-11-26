@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Find Longest Self-Contained Substring",
+    "titleSlug": "find-longest-self-contained-substring",
+    "frontendQuestionId": 3410,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3410",
+    "title": "Find Longest Self-Contained Substring",
+    "titleSlug": "find-longest-self-contained-substring",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 19,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abba\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.9K\", \"totalSubmission\": \"4.9K\", \"totalAcceptedRaw\": 2856, \"totalSubmissionRaw\": 4865, \"acRate\": \"58.7%\"}",
+    "similarQuestions": "[{\"title\": \"Select K Disjoint Special Substrings\", \"titleSlug\": \"select-k-disjoint-special-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.9K",
+      "totalSubmission": "4.9K",
+      "totalAcceptedRaw": 2856,
+      "totalSubmissionRaw": 4865,
+      "acRate": "58.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Select K Disjoint Special Substrings",
+        "titleSlug": "select-k-disjoint-special-substrings",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

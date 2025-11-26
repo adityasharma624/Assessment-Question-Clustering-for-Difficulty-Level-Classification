@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "4 Keys Keyboard",
+    "titleSlug": "4-keys-keyboard",
+    "frontendQuestionId": 651,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "651",
+    "title": "4 Keys Keyboard",
+    "titleSlug": "4-keys-keyboard",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 731,
+    "dislikes": 93,
+    "isPaidOnly": true,
+    "sampleTestCase": "3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"33.1K\", \"totalSubmission\": \"59.2K\", \"totalAcceptedRaw\": 33096, \"totalSubmissionRaw\": 59165, \"acRate\": \"55.9%\"}",
+    "similarQuestions": "[{\"title\": \"2 Keys Keyboard\", \"titleSlug\": \"2-keys-keyboard\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "33.1K",
+      "totalSubmission": "59.2K",
+      "totalAcceptedRaw": 33096,
+      "totalSubmissionRaw": 59165,
+      "acRate": "55.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "2 Keys Keyboard",
+        "titleSlug": "2-keys-keyboard",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

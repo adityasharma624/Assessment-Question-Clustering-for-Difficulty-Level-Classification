@@ -1,0 +1,58 @@
+{
+  "basic": {
+    "title": "Product's Price for Each Store",
+    "titleSlug": "products-price-for-each-store",
+    "frontendQuestionId": 1926,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1926",
+    "title": "Product's Price for Each Store",
+    "titleSlug": "products-price-for-each-store",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 141,
+    "dislikes": 13,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Products\":[\"product_id\",\"store\",\"price\"]},\"rows\":{\"Products\":[[\"0\",\"store1\",\"95\"],[\"0\",\"store3\",\"105\"],[\"0\",\"store2\",\"100\"],[\"1\",\"store1\",\"70\"],[\"1\",\"store3\",\"80\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"24.2K\", \"totalSubmission\": \"29.5K\", \"totalAcceptedRaw\": 24195, \"totalSubmissionRaw\": 29462, \"acRate\": \"82.1%\"}",
+    "similarQuestions": "[{\"title\": \"Rearrange Products Table\", \"titleSlug\": \"rearrange-products-table\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Dynamic Pivoting of a Table\", \"titleSlug\": \"dynamic-pivoting-of-a-table\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "24.2K",
+      "totalSubmission": "29.5K",
+      "totalAcceptedRaw": 24195,
+      "totalSubmissionRaw": 29462,
+      "acRate": "82.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Rearrange Products Table",
+        "titleSlug": "rearrange-products-table",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Dynamic Pivoting of a Table",
+        "titleSlug": "dynamic-pivoting-of-a-table",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

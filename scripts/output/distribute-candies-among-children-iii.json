@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Distribute Candies Among Children III",
+    "titleSlug": "distribute-candies-among-children-iii",
+    "frontendQuestionId": 3216,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3216",
+    "title": "Distribute Candies Among Children III",
+    "titleSlug": "distribute-candies-among-children-iii",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 25,
+    "dislikes": 6,
+    "isPaidOnly": true,
+    "sampleTestCase": "5\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.9K\", \"totalSubmission\": \"5.1K\", \"totalAcceptedRaw\": 2929, \"totalSubmissionRaw\": 5126, \"acRate\": \"57.1%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.9K",
+      "totalSubmission": "5.1K",
+      "totalAcceptedRaw": 2929,
+      "totalSubmissionRaw": 5126,
+      "acRate": "57.1%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

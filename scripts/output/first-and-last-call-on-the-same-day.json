@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "First and Last Call On the Same Day",
+    "titleSlug": "first-and-last-call-on-the-same-day",
+    "frontendQuestionId": 2120,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2120",
+    "title": "First and Last Call On the Same Day",
+    "titleSlug": "first-and-last-call-on-the-same-day",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 139,
+    "dislikes": 44,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Calls\": [\"caller_id\", \"recipient_id\", \"call_time\"]}, \"rows\": {\"Calls\": [[8, 4, \"2021-08-24 17:46:07\"], [4, 8, \"2021-08-24 19:57:13\"], [5, 1, \"2021-08-11 05:28:44\"], [8, 3, \"2021-08-17 04:04:15\"], [11, 3, \"2021-08-17 13:07:00\"], [8, 11, \"2021-08-17 22:22:22\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12K\", \"totalSubmission\": \"23.5K\", \"totalAcceptedRaw\": 11974, \"totalSubmissionRaw\": 23508, \"acRate\": \"50.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "12K",
+      "totalSubmission": "23.5K",
+      "totalAcceptedRaw": 11974,
+      "totalSubmissionRaw": 23508,
+      "acRate": "50.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

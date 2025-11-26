@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Shortest Path to Get Food",
+    "titleSlug": "shortest-path-to-get-food",
+    "frontendQuestionId": 550,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "550",
+    "title": "Shortest Path to Get Food",
+    "titleSlug": "shortest-path-to-get-food",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 718,
+    "dislikes": 41,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[\"X\",\"X\",\"X\",\"X\",\"X\",\"X\"],[\"X\",\"*\",\"O\",\"O\",\"O\",\"X\"],[\"X\",\"O\",\"O\",\"#\",\"O\",\"X\"],[\"X\",\"X\",\"X\",\"X\",\"X\",\"X\"]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"81.2K\", \"totalSubmission\": \"142.5K\", \"totalAcceptedRaw\": 81191, \"totalSubmissionRaw\": 142527, \"acRate\": \"57.0%\"}",
+    "similarQuestions": "[{\"title\": \"01 Matrix\", \"titleSlug\": \"01-matrix\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Path in a Grid with Obstacles Elimination\", \"titleSlug\": \"shortest-path-in-a-grid-with-obstacles-elimination\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Amount of Time for Binary Tree to Be Infected\", \"titleSlug\": \"amount-of-time-for-binary-tree-to-be-infected\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "81.2K",
+      "totalSubmission": "142.5K",
+      "totalAcceptedRaw": 81191,
+      "totalSubmissionRaw": 142527,
+      "acRate": "57.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "01 Matrix",
+        "titleSlug": "01-matrix",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

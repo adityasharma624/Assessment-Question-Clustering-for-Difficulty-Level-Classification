@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Dot Product of Two Sparse Vectors",
+    "titleSlug": "dot-product-of-two-sparse-vectors",
+    "frontendQuestionId": 1713,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1713",
+    "title": "Dot Product of Two Sparse Vectors",
+    "titleSlug": "dot-product-of-two-sparse-vectors",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1305,
+    "dislikes": 170,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,0,0,2,3]\n[0,3,0,4,0]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"397.1K\", \"totalSubmission\": \"441.6K\", \"totalAcceptedRaw\": 397105, \"totalSubmissionRaw\": 441576, \"acRate\": \"89.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "397.1K",
+      "totalSubmission": "441.6K",
+      "totalAcceptedRaw": 397105,
+      "totalSubmissionRaw": 441576,
+      "acRate": "89.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

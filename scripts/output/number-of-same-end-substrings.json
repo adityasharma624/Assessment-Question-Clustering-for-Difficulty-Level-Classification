@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Number of Same-End Substrings",
+    "titleSlug": "number-of-same-end-substrings",
+    "frontendQuestionId": 3247,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3247",
+    "title": "Number of Same-End Substrings",
+    "titleSlug": "number-of-same-end-substrings",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 86,
+    "dislikes": 18,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abcaab\"\n[[0,0],[1,4],[2,5],[0,5]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"8.9K\", \"totalSubmission\": \"14.4K\", \"totalAcceptedRaw\": 8860, \"totalSubmissionRaw\": 14403, \"acRate\": \"61.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "8.9K",
+      "totalSubmission": "14.4K",
+      "totalAcceptedRaw": 8860,
+      "totalSubmissionRaw": 14403,
+      "acRate": "61.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

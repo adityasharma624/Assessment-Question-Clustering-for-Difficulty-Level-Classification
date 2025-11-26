@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Unit Conversion II",
+    "titleSlug": "unit-conversion-ii",
+    "frontendQuestionId": 3752,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3752",
+    "title": "Unit Conversion II",
+    "titleSlug": "unit-conversion-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 3,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,1,2],[0,2,6]]\n[[1,2],[1,0]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"505\", \"totalSubmission\": \"702\", \"totalAcceptedRaw\": 505, \"totalSubmissionRaw\": 702, \"acRate\": \"71.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "505",
+      "totalSubmission": "702",
+      "totalAcceptedRaw": 505,
+      "totalSubmissionRaw": 702,
+      "acRate": "71.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

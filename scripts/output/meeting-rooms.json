@@ -1,0 +1,75 @@
+{
+  "basic": {
+    "title": "Meeting Rooms",
+    "titleSlug": "meeting-rooms",
+    "frontendQuestionId": 252,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "252",
+    "title": "Meeting Rooms",
+    "titleSlug": "meeting-rooms",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 2106,
+    "dislikes": 114,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,30],[5,10],[15,20]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"494.6K\", \"totalSubmission\": \"835.8K\", \"totalAcceptedRaw\": 494635, \"totalSubmissionRaw\": 835808, \"acRate\": \"59.2%\"}",
+    "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Meeting Rooms II\", \"titleSlug\": \"meeting-rooms-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Meeting Rooms III\", \"titleSlug\": \"meeting-rooms-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Points That Intersect With Cars\", \"titleSlug\": \"points-that-intersect-with-cars\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "494.6K",
+      "totalSubmission": "835.8K",
+      "totalAcceptedRaw": 494635,
+      "totalSubmissionRaw": 835808,
+      "acRate": "59.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Meeting Rooms III",
+        "titleSlug": "meeting-rooms-iii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Points That Intersect With Cars",
+        "titleSlug": "points-that-intersect-with-cars",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

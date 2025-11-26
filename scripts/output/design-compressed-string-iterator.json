@@ -1,0 +1,73 @@
+{
+  "basic": {
+    "title": "Design Compressed String Iterator",
+    "titleSlug": "design-compressed-string-iterator",
+    "frontendQuestionId": 604,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "604",
+    "title": "Design Compressed String Iterator",
+    "titleSlug": "design-compressed-string-iterator",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 457,
+    "dislikes": 167,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"StringIterator\",\"next\",\"next\",\"next\",\"next\",\"next\",\"next\",\"hasNext\",\"next\",\"hasNext\"]\n[[\"L1e2t1C1o1d1e1\"],[],[],[],[],[],[],[],[],[]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"38.5K\", \"totalSubmission\": \"95.8K\", \"totalAcceptedRaw\": 38535, \"totalSubmissionRaw\": 95823, \"acRate\": \"40.2%\"}",
+    "similarQuestions": "[{\"title\": \"LRU Cache\", \"titleSlug\": \"lru-cache\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"String Compression\", \"titleSlug\": \"string-compression\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "38.5K",
+      "totalSubmission": "95.8K",
+      "totalAcceptedRaw": 38535,
+      "totalSubmissionRaw": 95823,
+      "acRate": "40.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

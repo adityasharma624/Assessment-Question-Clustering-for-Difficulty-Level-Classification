@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Maximum Length of Semi-Decreasing Subarrays",
+    "titleSlug": "maximum-length-of-semi-decreasing-subarrays",
+    "frontendQuestionId": 3158,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3158",
+    "title": "Maximum Length of Semi-Decreasing Subarrays",
+    "titleSlug": "maximum-length-of-semi-decreasing-subarrays",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 137,
+    "dislikes": 17,
+    "isPaidOnly": true,
+    "sampleTestCase": "[7,6,5,4,3,2,1,6,10,11]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"14.2K\", \"totalSubmission\": \"20.3K\", \"totalAcceptedRaw\": 14217, \"totalSubmissionRaw\": 20306, \"acRate\": \"70.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "14.2K",
+      "totalSubmission": "20.3K",
+      "totalAcceptedRaw": 14217,
+      "totalSubmissionRaw": 20306,
+      "acRate": "70.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

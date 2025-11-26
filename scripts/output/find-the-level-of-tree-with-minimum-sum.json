@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Find the Level of Tree with Minimum Sum",
+    "titleSlug": "find-the-level-of-tree-with-minimum-sum",
+    "frontendQuestionId": 3467,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3467",
+    "title": "Find the Level of Tree with Minimum Sum",
+    "titleSlug": "find-the-level-of-tree-with-minimum-sum",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 19,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[50,6,2,30,80,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.9K\", \"totalSubmission\": \"4.2K\", \"totalAcceptedRaw\": 2884, \"totalSubmissionRaw\": 4174, \"acRate\": \"69.1%\"}",
+    "similarQuestions": "[{\"title\": \"Kth Largest Sum in a Binary Tree\", \"titleSlug\": \"kth-largest-sum-in-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.9K",
+      "totalSubmission": "4.2K",
+      "totalAcceptedRaw": 2884,
+      "totalSubmissionRaw": 4174,
+      "acRate": "69.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Kth Largest Sum in a Binary Tree",
+        "titleSlug": "kth-largest-sum-in-a-binary-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

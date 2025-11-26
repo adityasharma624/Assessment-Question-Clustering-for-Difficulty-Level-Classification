@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Deep Merge of Two Objects",
+    "titleSlug": "deep-merge-of-two-objects",
+    "frontendQuestionId": 2795,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2795",
+    "title": "Deep Merge of Two Objects",
+    "titleSlug": "deep-merge-of-two-objects",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"a\": 1, \"c\": 3}\n{\"a\": 2, \"b\": 2}",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"833\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 833, \"totalSubmissionRaw\": 1294, \"acRate\": \"64.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "833",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 833,
+      "totalSubmissionRaw": 1294,
+      "acRate": "64.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

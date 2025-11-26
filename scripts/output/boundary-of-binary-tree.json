@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Boundary of Binary Tree",
+    "titleSlug": "boundary-of-binary-tree",
+    "frontendQuestionId": 545,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "545",
+    "title": "Boundary of Binary Tree",
+    "titleSlug": "boundary-of-binary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1405,
+    "dislikes": 2325,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,null,2,3,4]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"168.6K\", \"totalSubmission\": \"353.8K\", \"totalAcceptedRaw\": 168613, \"totalSubmissionRaw\": 353784, \"acRate\": \"47.7%\"}",
+    "similarQuestions": "[{\"title\": \"Binary Tree Right Side View\", \"titleSlug\": \"binary-tree-right-side-view\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "168.6K",
+      "totalSubmission": "353.8K",
+      "totalAcceptedRaw": 168613,
+      "totalSubmissionRaw": 353784,
+      "acRate": "47.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Binary Tree Right Side View",
+        "titleSlug": "binary-tree-right-side-view",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

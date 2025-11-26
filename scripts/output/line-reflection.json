@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Line Reflection",
+    "titleSlug": "line-reflection",
+    "frontendQuestionId": 356,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "356",
+    "title": "Line Reflection",
+    "titleSlug": "line-reflection",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 315,
+    "dislikes": 638,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1],[-1,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"45.2K\", \"totalSubmission\": \"125.1K\", \"totalAcceptedRaw\": 45225, \"totalSubmissionRaw\": 125071, \"acRate\": \"36.2%\"}",
+    "similarQuestions": "[{\"title\": \"Max Points on a Line\", \"titleSlug\": \"max-points-on-a-line\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Boomerangs\", \"titleSlug\": \"number-of-boomerangs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "45.2K",
+      "totalSubmission": "125.1K",
+      "totalAcceptedRaw": 45225,
+      "totalSubmissionRaw": 125071,
+      "acRate": "36.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Max Points on a Line",
+        "titleSlug": "max-points-on-a-line",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Number of Boomerangs",
+        "titleSlug": "number-of-boomerangs",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

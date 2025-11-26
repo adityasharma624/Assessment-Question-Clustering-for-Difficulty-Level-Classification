@@ -1,0 +1,73 @@
+{
+  "basic": {
+    "title": "The Maze",
+    "titleSlug": "the-maze",
+    "frontendQuestionId": 490,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "490",
+    "title": "The Maze",
+    "titleSlug": "the-maze",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1898,
+    "dislikes": 198,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]]\n[0,4]\n[4,4]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"201.8K\", \"totalSubmission\": \"336.9K\", \"totalAcceptedRaw\": 201791, \"totalSubmissionRaw\": 336947, \"acRate\": \"59.9%\"}",
+    "similarQuestions": "[{\"title\": \"The Maze III\", \"titleSlug\": \"the-maze-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"The Maze II\", \"titleSlug\": \"the-maze-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "201.8K",
+      "totalSubmission": "336.9K",
+      "totalAcceptedRaw": 201791,
+      "totalSubmissionRaw": 336947,
+      "acRate": "59.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "The Maze III",
+        "titleSlug": "the-maze-iii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "The Maze II",
+        "titleSlug": "the-maze-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

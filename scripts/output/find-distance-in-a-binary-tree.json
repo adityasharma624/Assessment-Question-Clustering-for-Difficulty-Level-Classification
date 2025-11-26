@@ -1,0 +1,72 @@
+{
+  "basic": {
+    "title": "Find Distance in a Binary Tree",
+    "titleSlug": "find-distance-in-a-binary-tree",
+    "frontendQuestionId": 1883,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1883",
+    "title": "Find Distance in a Binary Tree",
+    "titleSlug": "find-distance-in-a-binary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 482,
+    "dislikes": 19,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n5\n0",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"34.9K\", \"totalSubmission\": \"47K\", \"totalAcceptedRaw\": 34872, \"totalSubmissionRaw\": 47021, \"acRate\": \"74.2%\"}",
+    "similarQuestions": "[{\"title\": \"Step-By-Step Directions From a Binary Tree Node to Another\", \"titleSlug\": \"step-by-step-directions-from-a-binary-tree-node-to-another\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "34.9K",
+      "totalSubmission": "47K",
+      "totalAcceptedRaw": 34872,
+      "totalSubmissionRaw": 47021,
+      "acRate": "74.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

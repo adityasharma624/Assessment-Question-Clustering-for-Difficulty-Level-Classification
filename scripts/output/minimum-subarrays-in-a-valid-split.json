@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Minimum Subarrays in a Valid Split",
+    "titleSlug": "minimum-subarrays-in-a-valid-split",
+    "frontendQuestionId": 2607,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2607",
+    "title": "Minimum Subarrays in a Valid Split",
+    "titleSlug": "minimum-subarrays-in-a-valid-split",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 40,
+    "dislikes": 9,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,6,3,4,3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.4K\", \"totalSubmission\": \"5.3K\", \"totalAcceptedRaw\": 3413, \"totalSubmissionRaw\": 5260, \"acRate\": \"64.9%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Split Into Subarrays With GCD Greater Than One\", \"titleSlug\": \"minimum-split-into-subarrays-with-gcd-greater-than-one\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "3.4K",
+      "totalSubmission": "5.3K",
+      "totalAcceptedRaw": 3413,
+      "totalSubmissionRaw": 5260,
+      "acRate": "64.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "titleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

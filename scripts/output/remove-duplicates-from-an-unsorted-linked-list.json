@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Remove Duplicates From an Unsorted Linked List",
+    "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+    "frontendQuestionId": 1982,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1982",
+    "title": "Remove Duplicates From an Unsorted Linked List",
+    "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 408,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"39.2K\", \"totalSubmission\": \"51.9K\", \"totalAcceptedRaw\": 39194, \"totalSubmissionRaw\": 51854, \"acRate\": \"75.6%\"}",
+    "similarQuestions": "[{\"title\": \"Remove Duplicates from Sorted List II\", \"titleSlug\": \"remove-duplicates-from-sorted-list-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Remove Duplicates from Sorted List\", \"titleSlug\": \"remove-duplicates-from-sorted-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "39.2K",
+      "totalSubmission": "51.9K",
+      "totalAcceptedRaw": 39194,
+      "totalSubmissionRaw": 51854,
+      "acRate": "75.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Remove Duplicates from Sorted List II",
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Remove Duplicates from Sorted List",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

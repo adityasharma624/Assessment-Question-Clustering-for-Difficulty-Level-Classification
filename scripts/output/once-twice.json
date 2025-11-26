@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Once Twice",
+    "titleSlug": "once-twice",
+    "frontendQuestionId": 3935,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3935",
+    "title": "Once Twice",
+    "titleSlug": "once-twice",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 8,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "[2,2,3,2,5,5,5,7,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"507\", \"totalSubmission\": \"657\", \"totalAcceptedRaw\": 507, \"totalSubmissionRaw\": 657, \"acRate\": \"77.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "507",
+      "totalSubmission": "657",
+      "totalAcceptedRaw": 507,
+      "totalSubmissionRaw": 657,
+      "acRate": "77.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

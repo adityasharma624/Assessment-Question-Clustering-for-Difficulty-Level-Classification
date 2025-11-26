@@ -1,0 +1,99 @@
+{
+  "basic": {
+    "title": "Count Subarrays With More Ones Than Zeros",
+    "titleSlug": "count-subarrays-with-more-ones-than-zeros",
+    "frontendQuestionId": 510,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "510",
+    "title": "Count Subarrays With More Ones Than Zeros",
+    "titleSlug": "count-subarrays-with-more-ones-than-zeros",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 183,
+    "dislikes": 17,
+    "isPaidOnly": true,
+    "sampleTestCase": "[0,1,1,0,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree",
+        "translatedName": null
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"10.4K\", \"totalAcceptedRaw\": 5127, \"totalSubmissionRaw\": 10421, \"acRate\": \"49.2%\"}",
+    "similarQuestions": "[{\"title\": \"Ones and Zeroes\", \"titleSlug\": \"ones-and-zeroes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longer Contiguous Segments of Ones than Zeros\", \"titleSlug\": \"longer-contiguous-segments-of-ones-than-zeros\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"All Divisions With the Highest Score of a Binary Array\", \"titleSlug\": \"all-divisions-with-the-highest-score-of-a-binary-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "5.1K",
+      "totalSubmission": "10.4K",
+      "totalAcceptedRaw": 5127,
+      "totalSubmissionRaw": 10421,
+      "acRate": "49.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Ones and Zeroes",
+        "titleSlug": "ones-and-zeroes",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longer Contiguous Segments of Ones than Zeros",
+        "titleSlug": "longer-contiguous-segments-of-ones-than-zeros",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "All Divisions With the Highest Score of a Binary Array",
+        "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

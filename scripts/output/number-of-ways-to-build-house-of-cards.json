@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Number of Ways to Build House of Cards",
+    "titleSlug": "number-of-ways-to-build-house-of-cards",
+    "frontendQuestionId": 1385,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1385",
+    "title": "Number of Ways to Build House of Cards",
+    "titleSlug": "number-of-ways-to-build-house-of-cards",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 67,
+    "dislikes": 18,
+    "isPaidOnly": true,
+    "sampleTestCase": "16",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.6K\", \"totalSubmission\": \"5.7K\", \"totalAcceptedRaw\": 3557, \"totalSubmissionRaw\": 5688, \"acRate\": \"62.5%\"}",
+    "similarQuestions": "[{\"title\": \"Champagne Tower\", \"titleSlug\": \"champagne-tower\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "3.6K",
+      "totalSubmission": "5.7K",
+      "totalAcceptedRaw": 3557,
+      "totalSubmissionRaw": 5688,
+      "acRate": "62.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Champagne Tower",
+        "titleSlug": "champagne-tower",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

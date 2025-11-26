@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "The Number of Passengers in Each Bus I",
+    "titleSlug": "the-number-of-passengers-in-each-bus-i",
+    "frontendQuestionId": 2281,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2281",
+    "title": "The Number of Passengers in Each Bus I",
+    "titleSlug": "the-number-of-passengers-in-each-bus-i",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 116,
+    "dislikes": 12,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Buses\":[\"bus_id\",\"arrival_time\"],\"Passengers\":[\"passenger_id\",\"arrival_time\"]},\"rows\":{\"Buses\":[[1,2],[2,4],[3,7]],\"Passengers\":[[11,1],[12,5],[13,6],[14,7]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"11.6K\", \"totalSubmission\": \"23.7K\", \"totalAcceptedRaw\": 11588, \"totalSubmissionRaw\": 23666, \"acRate\": \"49.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "11.6K",
+      "totalSubmission": "23.7K",
+      "totalAcceptedRaw": 11588,
+      "totalSubmissionRaw": 23666,
+      "acRate": "49.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

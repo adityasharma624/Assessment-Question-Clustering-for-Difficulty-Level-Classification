@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Match Alphanumerical Pattern in Matrix I",
+    "titleSlug": "match-alphanumerical-pattern-in-matrix-i",
+    "frontendQuestionId": 3385,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3385",
+    "title": "Match Alphanumerical Pattern in Matrix I",
+    "titleSlug": "match-alphanumerical-pattern-in-matrix-i",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 11,
+    "dislikes": 4,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,2,2],[2,2,3],[2,3,3]]\n[\"ab\",\"bb\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.9K\", \"totalAcceptedRaw\": 1202, \"totalSubmissionRaw\": 1867, \"acRate\": \"64.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.2K",
+      "totalSubmission": "1.9K",
+      "totalAcceptedRaw": 1202,
+      "totalSubmissionRaw": 1867,
+      "acRate": "64.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

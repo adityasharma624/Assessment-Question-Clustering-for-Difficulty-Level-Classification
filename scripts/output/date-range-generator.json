@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Date Range Generator",
+    "titleSlug": "date-range-generator",
+    "frontendQuestionId": 2799,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2799",
+    "title": "Date Range Generator",
+    "titleSlug": "date-range-generator",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 11,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"2023-04-01\"\n\"2023-04-04\"\n1",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"633\", \"totalSubmission\": \"759\", \"totalAcceptedRaw\": 633, \"totalSubmissionRaw\": 759, \"acRate\": \"83.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "633",
+      "totalSubmission": "759",
+      "totalAcceptedRaw": 633,
+      "totalSubmissionRaw": 759,
+      "acRate": "83.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

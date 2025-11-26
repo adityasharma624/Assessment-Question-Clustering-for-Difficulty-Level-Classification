@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "titleSlug": "minimum-operations-to-make-numbers-non-positive",
+    "frontendQuestionId": 2729,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2729",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "titleSlug": "minimum-operations-to-make-numbers-non-positive",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 49,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,4,1,7,6]\n4\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.7K\", \"totalSubmission\": \"13.1K\", \"totalAcceptedRaw\": 5671, \"totalSubmissionRaw\": 13106, \"acRate\": \"43.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.7K",
+      "totalSubmission": "13.1K",
+      "totalAcceptedRaw": 5671,
+      "totalSubmissionRaw": 13106,
+      "acRate": "43.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,81 @@
+{
+  "basic": {
+    "title": "Paint House",
+    "titleSlug": "paint-house",
+    "frontendQuestionId": 256,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "256",
+    "title": "Paint House",
+    "titleSlug": "paint-house",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 2362,
+    "dislikes": 133,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[17,2,17],[16,16,5],[14,3,19]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"239.1K\", \"totalSubmission\": \"373.3K\", \"totalAcceptedRaw\": 239134, \"totalSubmissionRaw\": 373282, \"acRate\": \"64.1%\"}",
+    "similarQuestions": "[{\"title\": \"House Robber\", \"titleSlug\": \"house-robber\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber II\", \"titleSlug\": \"house-robber-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paint House II\", \"titleSlug\": \"paint-house-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Paint Fence\", \"titleSlug\": \"paint-fence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Path Cost in a Grid\", \"titleSlug\": \"minimum-path-cost-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "239.1K",
+      "totalSubmission": "373.3K",
+      "totalAcceptedRaw": 239134,
+      "totalSubmissionRaw": 373282,
+      "acRate": "64.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "House Robber II",
+        "titleSlug": "house-robber-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Paint House II",
+        "titleSlug": "paint-house-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Paint Fence",
+        "titleSlug": "paint-fence",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Minimum Path Cost in a Grid",
+        "titleSlug": "minimum-path-cost-in-a-grid",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

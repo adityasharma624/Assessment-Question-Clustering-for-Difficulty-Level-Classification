@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Binary Tree Upside Down",
+    "titleSlug": "binary-tree-upside-down",
+    "frontendQuestionId": 156,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "156",
+    "title": "Binary Tree Upside Down",
+    "titleSlug": "binary-tree-upside-down",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 299,
+    "dislikes": 386,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,3,4,5]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"116.3K\", \"totalSubmission\": \"178.8K\", \"totalAcceptedRaw\": 116330, \"totalSubmissionRaw\": 178817, \"acRate\": \"65.1%\"}",
+    "similarQuestions": "[{\"title\": \"Reverse Linked List\", \"titleSlug\": \"reverse-linked-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "116.3K",
+      "totalSubmission": "178.8K",
+      "totalAcceptedRaw": 116330,
+      "totalSubmissionRaw": 178817,
+      "acRate": "65.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

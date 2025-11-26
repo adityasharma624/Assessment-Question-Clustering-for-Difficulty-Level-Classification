@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Find the Last Marked Nodes in Tree",
+    "titleSlug": "find-the-last-marked-nodes-in-tree",
+    "frontendQuestionId": 3497,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3497",
+    "title": "Find the Last Marked Nodes in Tree",
+    "titleSlug": "find-the-last-marked-nodes-in-tree",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 7,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,1],[0,2]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"559\", \"totalSubmission\": \"1K\", \"totalAcceptedRaw\": 559, \"totalSubmissionRaw\": 1040, \"acRate\": \"53.8%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Time to Visit Disappearing Nodes\", \"titleSlug\": \"minimum-time-to-visit-disappearing-nodes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Time Taken to Mark All Nodes\", \"titleSlug\": \"time-taken-to-mark-all-nodes\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "559",
+      "totalSubmission": "1K",
+      "totalAcceptedRaw": 559,
+      "totalSubmissionRaw": 1040,
+      "acRate": "53.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Time to Visit Disappearing Nodes",
+        "titleSlug": "minimum-time-to-visit-disappearing-nodes",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Time Taken to Mark All Nodes",
+        "titleSlug": "time-taken-to-mark-all-nodes",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

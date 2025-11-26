@@ -1,0 +1,79 @@
+{
+  "basic": {
+    "title": "Number of Equal Count Substrings",
+    "titleSlug": "number-of-equal-count-substrings",
+    "frontendQuestionId": 2209,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2209",
+    "title": "Number of Equal Count Substrings",
+    "titleSlug": "number-of-equal-count-substrings",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 111,
+    "dislikes": 11,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"aaabcbbcc\"\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.8K\", \"totalSubmission\": \"8.5K\", \"totalAcceptedRaw\": 3803, \"totalSubmissionRaw\": 8466, \"acRate\": \"44.9%\"}",
+    "similarQuestions": "[{\"title\": \"Longest Substring Without Repeating Characters\", \"titleSlug\": \"longest-substring-without-repeating-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring with At Least K Repeating Characters\", \"titleSlug\": \"longest-substring-with-at-least-k-repeating-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Unique Substrings With Equal Digit Frequency\", \"titleSlug\": \"unique-substrings-with-equal-digit-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "3.8K",
+      "totalSubmission": "8.5K",
+      "totalAcceptedRaw": 3803,
+      "totalSubmissionRaw": 8466,
+      "acRate": "44.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

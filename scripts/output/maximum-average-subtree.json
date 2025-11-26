@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Maximum Average Subtree",
+    "titleSlug": "maximum-average-subtree",
+    "frontendQuestionId": 1091,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1091",
+    "title": "Maximum Average Subtree",
+    "titleSlug": "maximum-average-subtree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 857,
+    "dislikes": 36,
+    "isPaidOnly": true,
+    "sampleTestCase": "[5,6,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"73.3K\", \"totalSubmission\": \"109.6K\", \"totalAcceptedRaw\": 73285, \"totalSubmissionRaw\": 109590, \"acRate\": \"66.9%\"}",
+    "similarQuestions": "[{\"title\": \"Count Nodes Equal to Sum of Descendants\", \"titleSlug\": \"count-nodes-equal-to-sum-of-descendants\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Nodes Equal to Average of Subtree\", \"titleSlug\": \"count-nodes-equal-to-average-of-subtree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "73.3K",
+      "totalSubmission": "109.6K",
+      "totalAcceptedRaw": 73285,
+      "totalSubmissionRaw": 109590,
+      "acRate": "66.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

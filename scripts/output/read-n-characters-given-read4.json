@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Read N Characters Given Read4",
+    "titleSlug": "read-n-characters-given-read4",
+    "frontendQuestionId": 157,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "157",
+    "title": "Read N Characters Given Read4",
+    "titleSlug": "read-n-characters-given-read4",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 601,
+    "dislikes": 3595,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abc\"\n4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"206.8K\", \"totalSubmission\": \"487.6K\", \"totalAcceptedRaw\": 206840, \"totalSubmissionRaw\": 487647, \"acRate\": \"42.4%\"}",
+    "similarQuestions": "[{\"title\": \"Read N Characters Given read4 II - Call Multiple Times\", \"titleSlug\": \"read-n-characters-given-read4-ii-call-multiple-times\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "206.8K",
+      "totalSubmission": "487.6K",
+      "totalAcceptedRaw": 206840,
+      "totalSubmissionRaw": 487647,
+      "acRate": "42.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "titleSlug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

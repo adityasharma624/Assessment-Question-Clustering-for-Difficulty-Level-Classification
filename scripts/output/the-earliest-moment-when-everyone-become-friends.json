@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+    "frontendQuestionId": 1085,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1085",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1103,
+    "dislikes": 40,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[20190101,0,1],[20190104,3,4],[20190107,2,3],[20190211,1,5],[20190224,2,4],[20190301,0,3],[20190312,1,2],[20190322,4,5]]\n6",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"125.5K\", \"totalSubmission\": \"190.9K\", \"totalAcceptedRaw\": 125516, \"totalSubmissionRaw\": 190869, \"acRate\": \"65.8%\"}",
+    "similarQuestions": "[{\"title\": \"Number of Provinces\", \"titleSlug\": \"number-of-provinces\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "125.5K",
+      "totalSubmission": "190.9K",
+      "totalAcceptedRaw": 125516,
+      "totalSubmissionRaw": 190869,
+      "acRate": "65.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Number of Provinces",
+        "titleSlug": "number-of-provinces",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

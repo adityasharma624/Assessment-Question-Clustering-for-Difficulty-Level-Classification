@@ -1,0 +1,64 @@
+{
+  "basic": {
+    "title": "Number of Times a Driver Was a Passenger",
+    "titleSlug": "number-of-times-a-driver-was-a-passenger",
+    "frontendQuestionId": 2376,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2376",
+    "title": "Number of Times a Driver Was a Passenger",
+    "titleSlug": "number-of-times-a-driver-was-a-passenger",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 72,
+    "dislikes": 5,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Rides\":[\"ride_id\",\"driver_id\",\"passenger_id\"]},\"rows\":{\"Rides\":[[1,7,1],[2,7,2],[3,11,1],[4,11,7],[5,11,7],[6,11,3]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"10.8K\", \"totalSubmission\": \"15K\", \"totalAcceptedRaw\": 10797, \"totalSubmissionRaw\": 15049, \"acRate\": \"71.7%\"}",
+    "similarQuestions": "[{\"title\": \"Hopper Company Queries I\", \"titleSlug\": \"hopper-company-queries-i\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Hopper Company Queries II\", \"titleSlug\": \"hopper-company-queries-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Hopper Company Queries III\", \"titleSlug\": \"hopper-company-queries-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "10.8K",
+      "totalSubmission": "15K",
+      "totalAcceptedRaw": 10797,
+      "totalSubmissionRaw": 15049,
+      "acRate": "71.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Hopper Company Queries I",
+        "titleSlug": "hopper-company-queries-i",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Hopper Company Queries II",
+        "titleSlug": "hopper-company-queries-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Hopper Company Queries III",
+        "titleSlug": "hopper-company-queries-iii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

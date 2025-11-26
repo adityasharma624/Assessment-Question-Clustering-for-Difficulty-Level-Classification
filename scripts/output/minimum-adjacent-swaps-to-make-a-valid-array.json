@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Minimum Adjacent Swaps to Make a Valid Array",
+    "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+    "frontendQuestionId": 2474,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2474",
+    "title": "Minimum Adjacent Swaps to Make a Valid Array",
+    "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 195,
+    "dislikes": 27,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,4,5,5,3,1]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"40.3K\", \"totalSubmission\": \"55.8K\", \"totalAcceptedRaw\": 40307, \"totalSubmissionRaw\": 55809, \"acRate\": \"72.2%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Adjacent Swaps for K Consecutive Ones\", \"titleSlug\": \"minimum-adjacent-swaps-for-k-consecutive-ones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "40.3K",
+      "totalSubmission": "55.8K",
+      "totalAcceptedRaw": 40307,
+      "totalSubmissionRaw": 55809,
+      "acRate": "72.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

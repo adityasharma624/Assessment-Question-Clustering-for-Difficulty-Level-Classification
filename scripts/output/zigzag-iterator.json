@@ -1,0 +1,91 @@
+{
+  "basic": {
+    "title": "Zigzag Iterator",
+    "titleSlug": "zigzag-iterator",
+    "frontendQuestionId": 281,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "281",
+    "title": "Zigzag Iterator",
+    "titleSlug": "zigzag-iterator",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 706,
+    "dislikes": 43,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2]\n[3,4,5,6]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Queue",
+        "slug": "queue",
+        "translatedName": null
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"109.4K\", \"totalSubmission\": \"165.1K\", \"totalAcceptedRaw\": 109449, \"totalSubmissionRaw\": 165139, \"acRate\": \"66.3%\"}",
+    "similarQuestions": "[{\"title\": \"Binary Search Tree Iterator\", \"titleSlug\": \"binary-search-tree-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Flatten 2D Vector\", \"titleSlug\": \"flatten-2d-vector\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Peeking Iterator\", \"titleSlug\": \"peeking-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Flatten Nested List Iterator\", \"titleSlug\": \"flatten-nested-list-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Merge Strings Alternately\", \"titleSlug\": \"merge-strings-alternately\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "109.4K",
+      "totalSubmission": "165.1K",
+      "totalAcceptedRaw": 109449,
+      "totalSubmissionRaw": 165139,
+      "acRate": "66.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Flatten 2D Vector",
+        "titleSlug": "flatten-2d-vector",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Peeking Iterator",
+        "titleSlug": "peeking-iterator",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Merge Strings Alternately",
+        "titleSlug": "merge-strings-alternately",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

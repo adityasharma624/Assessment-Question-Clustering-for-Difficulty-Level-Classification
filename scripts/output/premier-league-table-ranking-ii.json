@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Premier League Table Ranking II",
+    "titleSlug": "premier-league-table-ranking-ii",
+    "frontendQuestionId": 3564,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3564",
+    "title": "Premier League Table Ranking II",
+    "titleSlug": "premier-league-table-ranking-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 10,
+    "dislikes": 10,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"TeamStats\": [\"team_id\", \"team_name\", \"matches_played\", \"wins\", \"draws\", \"losses\"]}, \"rows\": {\"TeamStats\": [[1, \"Chelsea\", 22, 13, 2, 7], [2, \"Nottingham Forest\", 27, 6, 6, 15], [3, \"Liverpool\", 17, 1, 8, 8], [4, \"Aston Villa\", 20, 1, 6, 13], [5, \"Fulham\", 31, 18, 1, 12], [6, \"Burnley\", 26, 6, 9, 11], [7, \"Newcastle United\", 33, 11, 10, 12], [8, \"Sheffield United\", 20, 18, 2, 0], [9, \"Luton Town\", 5, 4, 0, 1], [10, \"Everton\", 14, 2, 6, 6]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"3.2K\", \"totalAcceptedRaw\": 1766, \"totalSubmissionRaw\": 3183, \"acRate\": \"55.5%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.8K",
+      "totalSubmission": "3.2K",
+      "totalAcceptedRaw": 1766,
+      "totalSubmissionRaw": 3183,
+      "acRate": "55.5%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

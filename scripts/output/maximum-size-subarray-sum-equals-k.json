@@ -1,0 +1,92 @@
+{
+  "basic": {
+    "title": "Maximum Size Subarray Sum Equals k",
+    "titleSlug": "maximum-size-subarray-sum-equals-k",
+    "frontendQuestionId": 325,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "325",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "titleSlug": "maximum-size-subarray-sum-equals-k",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 2116,
+    "dislikes": 66,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,-1,5,-2,3]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"216.8K\", \"totalSubmission\": \"427.5K\", \"totalAcceptedRaw\": 216812, \"totalSubmissionRaw\": 427530, \"acRate\": \"50.7%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Size Subarray Sum\", \"titleSlug\": \"minimum-size-subarray-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Range Sum Query - Immutable\", \"titleSlug\": \"range-sum-query-immutable\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Contiguous Array\", \"titleSlug\": \"contiguous-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Subarray Product Less Than K\", \"titleSlug\": \"subarray-product-less-than-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Beauty of an Array After Applying Operation\", \"titleSlug\": \"maximum-beauty-of-an-array-after-applying-operation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Subarray With OR at Least K II\", \"titleSlug\": \"shortest-subarray-with-or-at-least-k-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "216.8K",
+      "totalSubmission": "427.5K",
+      "totalAcceptedRaw": 216812,
+      "totalSubmissionRaw": 427530,
+      "acRate": "50.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Contiguous Array",
+        "titleSlug": "contiguous-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "titleSlug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximum Beauty of an Array After Applying Operation",
+        "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Shortest Subarray With OR at Least K II",
+        "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

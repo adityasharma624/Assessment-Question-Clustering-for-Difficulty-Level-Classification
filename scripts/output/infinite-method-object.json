@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Infinite Method Object",
+    "titleSlug": "infinite-method-object",
+    "frontendQuestionId": 2772,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2772",
+    "title": "Infinite Method Object",
+    "titleSlug": "infinite-method-object",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 32,
+    "dislikes": 9,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abc123\"",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 1963, \"totalSubmissionRaw\": 2109, \"acRate\": \"93.1%\"}",
+    "similarQuestions": "[{\"title\": \"Immutability Helper\", \"titleSlug\": \"immutability-helper\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Make Object Immutable\", \"titleSlug\": \"make-object-immutable\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2K",
+      "totalSubmission": "2.1K",
+      "totalAcceptedRaw": 1963,
+      "totalSubmissionRaw": 2109,
+      "acRate": "93.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Immutability Helper",
+        "titleSlug": "immutability-helper",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Make Object Immutable",
+        "titleSlug": "make-object-immutable",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,63 @@
+{
+  "basic": {
+    "title": "Valid Word Square",
+    "titleSlug": "valid-word-square",
+    "frontendQuestionId": 422,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "422",
+    "title": "Valid Word Square",
+    "titleSlug": "valid-word-square",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 442,
+    "dislikes": 271,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"abcd\",\"bnrt\",\"crmy\",\"dtye\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"66.9K\", \"totalSubmission\": \"158.7K\", \"totalAcceptedRaw\": 66905, \"totalSubmissionRaw\": 158660, \"acRate\": \"42.2%\"}",
+    "similarQuestions": "[{\"title\": \"Word Squares\", \"titleSlug\": \"word-squares\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Toeplitz Matrix\", \"titleSlug\": \"toeplitz-matrix\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "66.9K",
+      "totalSubmission": "158.7K",
+      "totalAcceptedRaw": 66905,
+      "totalSubmissionRaw": 158660,
+      "acRate": "42.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Word Squares",
+        "titleSlug": "word-squares",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Toeplitz Matrix",
+        "titleSlug": "toeplitz-matrix",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

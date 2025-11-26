@@ -1,0 +1,97 @@
+{
+  "basic": {
+    "title": "Maximum Number of Integers to Choose From a Range II",
+    "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+    "frontendQuestionId": 2702,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2702",
+    "title": "Maximum Number of Integers to Choose From a Range II",
+    "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 42,
+    "dislikes": 26,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,4,6]\n6\n4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.7K\", \"totalSubmission\": \"7.8K\", \"totalAcceptedRaw\": 2743, \"totalSubmissionRaw\": 7844, \"acRate\": \"35.0%\"}",
+    "similarQuestions": "[{\"title\": \"First Missing Positive\", \"titleSlug\": \"first-missing-positive\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find All Numbers Disappeared in an Array\", \"titleSlug\": \"find-all-numbers-disappeared-in-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Append K Integers With Minimal Sum\", \"titleSlug\": \"append-k-integers-with-minimal-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Replace Elements in an Array\", \"titleSlug\": \"replace-elements-in-an-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Number of Integers to Choose From a Range I\", \"titleSlug\": \"maximum-number-of-integers-to-choose-from-a-range-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximize the Distance Between Points on a Square\", \"titleSlug\": \"maximize-the-distance-between-points-on-a-square\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.7K",
+      "totalSubmission": "7.8K",
+      "totalAcceptedRaw": 2743,
+      "totalSubmissionRaw": 7844,
+      "acRate": "35.0%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Find All Numbers Disappeared in an Array",
+        "titleSlug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Append K Integers With Minimal Sum",
+        "titleSlug": "append-k-integers-with-minimal-sum",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Replace Elements in an Array",
+        "titleSlug": "replace-elements-in-an-array",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximum Number of Integers to Choose From a Range I",
+        "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Maximize the Distance Between Points on a Square",
+        "titleSlug": "maximize-the-distance-between-points-on-a-square",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

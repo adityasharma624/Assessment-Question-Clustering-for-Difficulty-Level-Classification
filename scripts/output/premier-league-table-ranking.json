@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Premier League Table Ranking",
+    "titleSlug": "premier-league-table-ranking",
+    "frontendQuestionId": 3554,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3554",
+    "title": "Premier League Table Ranking",
+    "titleSlug": "premier-league-table-ranking",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 11,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"TeamStats\":[\"team_id\",\"team_name\",\"matches_played\",\"wins\",\"draws\",\"losses\"]},\"rows\":{\"TeamStats\":[[1,\"Manchester City\",10,6,2,2],[2,\"Liverpool\",10,6,2,2],[3,\"Chelsea\",10,5,3,2],[4,\"Arsenal\",10,4,4,2],[5,\"Tottenham\",10,3,5,2]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"4K\", \"totalAcceptedRaw\": 3197, \"totalSubmissionRaw\": 4017, \"acRate\": \"79.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.2K",
+      "totalSubmission": "4K",
+      "totalAcceptedRaw": 3197,
+      "totalSubmissionRaw": 4017,
+      "acRate": "79.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,93 @@
+{
+  "basic": {
+    "title": "Minimum Path Cost in a Hidden Grid",
+    "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+    "frontendQuestionId": 1959,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1959",
+    "title": "Minimum Path Cost in a Hidden Grid",
+    "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 95,
+    "dislikes": 32,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[2,3],[1,1]]\n0\n1\n1\n0",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.3K\", \"totalSubmission\": \"9.1K\", \"totalAcceptedRaw\": 5328, \"totalSubmissionRaw\": 9114, \"acRate\": \"58.5%\"}",
+    "similarQuestions": "[{\"title\": \"Robot Room Cleaner\", \"titleSlug\": \"robot-room-cleaner\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Shortest Path in a Hidden Grid\", \"titleSlug\": \"shortest-path-in-a-hidden-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "5.3K",
+      "totalSubmission": "9.1K",
+      "totalAcceptedRaw": 5328,
+      "totalSubmissionRaw": 9114,
+      "acRate": "58.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Robot Room Cleaner",
+        "titleSlug": "robot-room-cleaner",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Shortest Path in a Hidden Grid",
+        "titleSlug": "shortest-path-in-a-hidden-grid",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,70 @@
+{
+  "basic": {
+    "title": "Synonymous Sentences",
+    "titleSlug": "synonymous-sentences",
+    "frontendQuestionId": 1191,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1191",
+    "title": "Synonymous Sentences",
+    "titleSlug": "synonymous-sentences",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 372,
+    "dislikes": 171,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[\"happy\",\"joy\"],[\"sad\",\"sorrow\"],[\"joy\",\"cheerful\"]]\n\"I am happy today but was sad yesterday\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Sort",
+        "slug": "sort",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"28.5K\", \"totalSubmission\": \"50.1K\", \"totalAcceptedRaw\": 28502, \"totalSubmissionRaw\": 50065, \"acRate\": \"56.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "28.5K",
+      "totalSubmission": "50.1K",
+      "totalAcceptedRaw": 28502,
+      "totalSubmissionRaw": 50065,
+      "acRate": "56.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

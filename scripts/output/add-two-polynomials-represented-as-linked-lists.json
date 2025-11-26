@@ -1,0 +1,74 @@
+{
+  "basic": {
+    "title": "Add Two Polynomials Represented as Linked Lists",
+    "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+    "frontendQuestionId": 1774,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1774",
+    "title": "Add Two Polynomials Represented as Linked Lists",
+    "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 173,
+    "dislikes": 14,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1]]\n[[1,0]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"16.2K\", \"totalSubmission\": \"26.6K\", \"totalAcceptedRaw\": 16176, \"totalSubmissionRaw\": 26561, \"acRate\": \"60.9%\"}",
+    "similarQuestions": "[{\"title\": \"Add Two Numbers\", \"titleSlug\": \"add-two-numbers\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Merge Two Sorted Lists\", \"titleSlug\": \"merge-two-sorted-lists\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Add Two Numbers II\", \"titleSlug\": \"add-two-numbers-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "16.2K",
+      "totalSubmission": "26.6K",
+      "totalAcceptedRaw": 16176,
+      "totalSubmissionRaw": 26561,
+      "acRate": "60.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Add Two Numbers II",
+        "titleSlug": "add-two-numbers-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

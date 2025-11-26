@@ -1,0 +1,97 @@
+{
+  "basic": {
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+    "frontendQuestionId": 1816,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1816",
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 498,
+    "dislikes": 16,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n[4,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"60.8K\", \"totalSubmission\": \"76.6K\", \"totalAcceptedRaw\": 60777, \"totalSubmissionRaw\": 76553, \"acRate\": \"79.4%\"}",
+    "similarQuestions": "[{\"title\": \"Lowest Common Ancestor of a Binary Search Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of Deepest Leaves\", \"titleSlug\": \"lowest-common-ancestor-of-deepest-leaves\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree II\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree III\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree IV\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "60.8K",
+      "totalSubmission": "76.6K",
+      "totalAcceptedRaw": 60777,
+      "totalSubmissionRaw": 76553,
+      "acRate": "79.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of Deepest Leaves",
+        "titleSlug": "lowest-common-ancestor-of-deepest-leaves",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

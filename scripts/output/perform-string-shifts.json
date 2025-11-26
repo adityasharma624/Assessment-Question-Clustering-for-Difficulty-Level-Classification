@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Perform String Shifts",
+    "titleSlug": "perform-string-shifts",
+    "frontendQuestionId": 1345,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1345",
+    "title": "Perform String Shifts",
+    "titleSlug": "perform-string-shifts",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 275,
+    "dislikes": 15,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abc\"\n[[0,1],[1,2]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"92.9K\", \"totalSubmission\": \"166.1K\", \"totalAcceptedRaw\": 92874, \"totalSubmissionRaw\": 166109, \"acRate\": \"55.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "92.9K",
+      "totalSubmission": "166.1K",
+      "totalAcceptedRaw": 92874,
+      "totalSubmissionRaw": 166109,
+      "acRate": "55.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

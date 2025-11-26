@@ -1,0 +1,68 @@
+{
+  "basic": {
+    "title": "Minimum Window Subsequence",
+    "titleSlug": "minimum-window-subsequence",
+    "frontendQuestionId": 727,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "727",
+    "title": "Minimum Window Subsequence",
+    "titleSlug": "minimum-window-subsequence",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 1479,
+    "dislikes": 95,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abcdebdde\"\n\"bde\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"97.7K\", \"totalSubmission\": \"223.6K\", \"totalAcceptedRaw\": 97690, \"totalSubmissionRaw\": 223614, \"acRate\": \"43.7%\"}",
+    "similarQuestions": "[{\"title\": \"Minimum Window Substring\", \"titleSlug\": \"minimum-window-substring\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Continuous Increasing Subsequence\", \"titleSlug\": \"longest-continuous-increasing-subsequence\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "97.7K",
+      "totalSubmission": "223.6K",
+      "totalAcceptedRaw": 97690,
+      "totalSubmissionRaw": 223614,
+      "acRate": "43.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Longest Continuous Increasing Subsequence",
+        "titleSlug": "longest-continuous-increasing-subsequence",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

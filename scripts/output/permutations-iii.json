@@ -1,0 +1,57 @@
+{
+  "basic": {
+    "title": "Permutations III",
+    "titleSlug": "permutations-iii",
+    "frontendQuestionId": 3780,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3780",
+    "title": "Permutations III",
+    "titleSlug": "permutations-iii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.7K\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 2683, \"totalSubmissionRaw\": 3096, \"acRate\": \"86.7%\"}",
+    "similarQuestions": "[{\"title\": \"Permutations IV\", \"titleSlug\": \"permutations-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "2.7K",
+      "totalSubmission": "3.1K",
+      "totalAcceptedRaw": 2683,
+      "totalSubmissionRaw": 3096,
+      "acRate": "86.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Permutations IV",
+        "titleSlug": "permutations-iv",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

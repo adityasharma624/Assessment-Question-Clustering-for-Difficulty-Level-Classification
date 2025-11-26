@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Display the First Three Rows",
+    "titleSlug": "display-the-first-three-rows",
+    "frontendQuestionId": 3065,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": false,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3065",
+    "title": "Display the First Three Rows",
+    "titleSlug": "display-the-first-three-rows",
+    "content": "<pre>\nDataFrame: <code>employees</code>\n+-------------+--------+\n| Column Name | Type   |\n+-------------+--------+\n| employee_id | int    |\n| name        | object |\n| department  | object |\n| salary      | int    |\n+-------------+--------+\n</pre>\n\n<p>Write a solution to display the <strong>first <code>3</code> </strong>rows<strong> </strong>of this DataFrame.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:\n</strong>DataFrame employees\n+-------------+-----------+-----------------------+--------+\n| employee_id | name      | department            | salary |\n+-------------+-----------+-----------------------+--------+\n| 3           | Bob       | Operations            | 48675  |\n| 90          | Alice     | Sales                 | 11096  |\n| 9           | Tatiana   | Engineering           | 33805  |\n| 60          | Annabelle | InformationTechnology | 37678  |\n| 49          | Jonathan  | HumanResources        | 23793  |\n| 43          | Khaled    | Administration        | 40454  |\n+-------------+-----------+-----------------------+--------+\n<strong>Output:</strong>\n+-------------+---------+-------------+--------+\n| employee_id | name    | department  | salary |\n+-------------+---------+-------------+--------+\n| 3           | Bob     | Operations  | 48675  |\n| 90          | Alice   | Sales       | 11096  |\n| 9           | Tatiana | Engineering | 33805  |\n+-------------+---------+-------------+--------+\n<strong>Explanation:</strong> \nOnly the first 3 rows are displayed.</pre>\n",
+    "difficulty": "Easy",
+    "likes": 118,
+    "dislikes": 24,
+    "isPaidOnly": false,
+    "sampleTestCase": "{\"headers\":{\"employees\":[\"employee_id\",\"name\",\"department\",\"salary\"]},\"rows\":{\"employees\":[[3,\"Bob\",\"Operations\",48675],[90,\"Alice\",\"Sales\",11096],[9,\"Tatiana\",\"Engineering\",33805],[60,\"Annabelle\",\"InformationTechnology\",37678],[49,\"Jonathan\",\"HumanResources\",23793],[43,\"Khaled\",\"Administration\",40454]]}}",
+    "codeSnippets": [
+      {
+        "lang": "Pandas",
+        "langSlug": "pythondata",
+        "code": "import pandas as pd\n\ndef selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:\n    "
+      }
+    ],
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"194.8K\", \"totalSubmission\": \"209.3K\", \"totalAcceptedRaw\": 194837, \"totalSubmissionRaw\": 209347, \"acRate\": \"93.1%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "194.8K",
+      "totalSubmission": "209.3K",
+      "totalAcceptedRaw": 194837,
+      "totalSubmissionRaw": 209347,
+      "acRate": "93.1%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

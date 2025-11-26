@@ -1,0 +1,58 @@
+{
+  "basic": {
+    "title": "Page Recommendations",
+    "titleSlug": "page-recommendations",
+    "frontendQuestionId": 1399,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1399",
+    "title": "Page Recommendations",
+    "titleSlug": "page-recommendations",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 263,
+    "dislikes": 25,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Friendship\":[\"user1_id\",\"user2_id\"],\"Likes\":[\"user_id\",\"page_id\"]},\"rows\":{\"Friendship\":[[1,2],[1,3],[1,4],[2,3],[2,4],[2,5],[6,1]],\"Likes\":[[1,88],[2,23],[3,24],[4,56],[5,11],[6,33],[2,77],[3,77],[6,88]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"52.8K\", \"totalSubmission\": \"80.7K\", \"totalAcceptedRaw\": 52789, \"totalSubmissionRaw\": 80715, \"acRate\": \"65.4%\"}",
+    "similarQuestions": "[{\"title\": \"Page Recommendations II\", \"titleSlug\": \"page-recommendations-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Strong Friendship\", \"titleSlug\": \"strong-friendship\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "52.8K",
+      "totalSubmission": "80.7K",
+      "totalAcceptedRaw": 52789,
+      "totalSubmissionRaw": 80715,
+      "acRate": "65.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Page Recommendations II",
+        "titleSlug": "page-recommendations-ii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Strong Friendship",
+        "titleSlug": "strong-friendship",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,70 @@
+{
+  "basic": {
+    "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "frontendQuestionId": 3735,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3735",
+    "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 8,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"Matrix3D\",\"setCell\",\"largestMatrix\",\"setCell\",\"largestMatrix\",\"setCell\",\"largestMatrix\"]\n[[3],[0,0,0],[],[1,1,2],[],[0,0,1],[]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"962\", \"totalSubmission\": \"1.4K\", \"totalAcceptedRaw\": 962, \"totalSubmissionRaw\": 1418, \"acRate\": \"67.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "962",
+      "totalSubmission": "1.4K",
+      "totalAcceptedRaw": 962,
+      "totalSubmissionRaw": 1418,
+      "acRate": "67.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

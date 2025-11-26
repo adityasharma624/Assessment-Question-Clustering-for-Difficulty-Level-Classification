@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Before and After Puzzle",
+    "titleSlug": "before-and-after-puzzle",
+    "frontendQuestionId": 1132,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1132",
+    "title": "Before and After Puzzle",
+    "titleSlug": "before-and-after-puzzle",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 92,
+    "dislikes": 158,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"writing code\",\"code rocks\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12.9K\", \"totalSubmission\": \"25.1K\", \"totalAcceptedRaw\": 12936, \"totalSubmissionRaw\": 25069, \"acRate\": \"51.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "12.9K",
+      "totalSubmission": "25.1K",
+      "totalAcceptedRaw": 12936,
+      "totalSubmissionRaw": 25069,
+      "acRate": "51.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

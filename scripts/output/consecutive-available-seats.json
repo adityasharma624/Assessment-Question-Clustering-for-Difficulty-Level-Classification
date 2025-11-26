@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Consecutive Available Seats",
+    "titleSlug": "consecutive-available-seats",
+    "frontendQuestionId": 603,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "603",
+    "title": "Consecutive Available Seats",
+    "titleSlug": "consecutive-available-seats",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 655,
+    "dislikes": 80,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Cinema\":[\"seat_id\",\"free\"]},\"rows\":{\"Cinema\":[[1,1],[2,0],[3,1],[4,1],[5,1]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"100.4K\", \"totalSubmission\": \"154K\", \"totalAcceptedRaw\": 100355, \"totalSubmissionRaw\": 154042, \"acRate\": \"65.1%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "100.4K",
+      "totalSubmission": "154K",
+      "totalAcceptedRaw": 100355,
+      "totalSubmissionRaw": 154042,
+      "acRate": "65.1%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Minimum Total Operations",
+    "titleSlug": "minimum-total-operations",
+    "frontendQuestionId": 3694,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3694",
+    "title": "Minimum Total Operations",
+    "titleSlug": "minimum-total-operations",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 14,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,4,2]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.9K\", \"totalAcceptedRaw\": 1187, \"totalSubmissionRaw\": 1866, \"acRate\": \"63.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.2K",
+      "totalSubmission": "1.9K",
+      "totalAcceptedRaw": 1187,
+      "totalSubmissionRaw": 1866,
+      "acRate": "63.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

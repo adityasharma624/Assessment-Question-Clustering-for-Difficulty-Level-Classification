@@ -1,0 +1,82 @@
+{
+  "basic": {
+    "title": "Path With Maximum Minimum Value",
+    "titleSlug": "path-with-maximum-minimum-value",
+    "frontendQuestionId": 1099,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1099",
+    "title": "Path With Maximum Minimum Value",
+    "titleSlug": "path-with-maximum-minimum-value",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1348,
+    "dislikes": 126,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[5,4,5],[1,2,6],[7,4,6]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"70.6K\", \"totalSubmission\": \"129.8K\", \"totalAcceptedRaw\": 70616, \"totalSubmissionRaw\": 129846, \"acRate\": \"54.4%\"}",
+    "similarQuestions": "[{\"title\": \"Path With Minimum Effort\", \"titleSlug\": \"path-with-minimum-effort\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "70.6K",
+      "totalSubmission": "129.8K",
+      "totalAcceptedRaw": 70616,
+      "totalSubmissionRaw": 129846,
+      "acRate": "54.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Path With Minimum Effort",
+        "titleSlug": "path-with-minimum-effort",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

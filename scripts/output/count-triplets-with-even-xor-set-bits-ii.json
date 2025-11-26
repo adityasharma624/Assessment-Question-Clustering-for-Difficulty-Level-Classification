@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Count Triplets with Even XOR Set Bits II",
+    "titleSlug": "count-triplets-with-even-xor-set-bits-ii",
+    "frontendQuestionId": 3521,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3521",
+    "title": "Count Triplets with Even XOR Set Bits II",
+    "titleSlug": "count-triplets-with-even-xor-set-bits-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 16,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1]\n[2]\n[3]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"741\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 741, \"totalSubmissionRaw\": 1222, \"acRate\": \"60.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "741",
+      "totalSubmission": "1.2K",
+      "totalAcceptedRaw": 741,
+      "totalSubmissionRaw": 1222,
+      "acRate": "60.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

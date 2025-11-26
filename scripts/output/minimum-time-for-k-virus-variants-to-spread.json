@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Minimum Time For K Virus Variants to Spread",
+    "titleSlug": "minimum-time-for-k-virus-variants-to-spread",
+    "frontendQuestionId": 2073,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2073",
+    "title": "Minimum Time For K Virus Variants to Spread",
+    "titleSlug": "minimum-time-for-k-virus-variants-to-spread",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 32,
+    "dislikes": 7,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[1,1],[6,1]]\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry",
+        "translatedName": null
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.6K\", \"totalAcceptedRaw\": 1295, \"totalSubmissionRaw\": 2573, \"acRate\": \"50.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "2.6K",
+      "totalAcceptedRaw": 1295,
+      "totalSubmissionRaw": 2573,
+      "acRate": "50.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

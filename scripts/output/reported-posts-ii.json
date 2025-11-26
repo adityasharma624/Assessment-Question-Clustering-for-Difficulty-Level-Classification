@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Reported Posts II",
+    "titleSlug": "reported-posts-ii",
+    "frontendQuestionId": 1237,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1237",
+    "title": "Reported Posts II",
+    "titleSlug": "reported-posts-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 172,
+    "dislikes": 577,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Actions\":[\"user_id\",\"post_id\",\"action_date\",\"action\",\"extra\"],\"Removals\":[\"post_id\",\"remove_date\"]},\"rows\":{\"Actions\":[[1,1,\"2019-07-01\",\"view\",null],[1,1,\"2019-07-01\",\"like\",null],[1,1,\"2019-07-01\",\"share\",null],[2,2,\"2019-07-04\",\"view\",null],[2,2,\"2019-07-04\",\"report\",\"spam\"],[3,4,\"2019-07-04\",\"view\",null],[3,4,\"2019-07-04\",\"report\",\"spam\"],[4,3,\"2019-07-02\",\"view\",null],[4,3,\"2019-07-02\",\"report\",\"spam\"],[5,2,\"2019-07-03\",\"view\",null],[5,2,\"2019-07-03\",\"report\",\"racism\"],[5,5,\"2019-07-03\",\"view\",null],[5,5,\"2019-07-03\",\"report\",\"racism\"]],\"Removals\":[[2,\"2019-07-20\"],[3,\"2019-07-18\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"44K\", \"totalSubmission\": \"137.2K\", \"totalAcceptedRaw\": 43963, \"totalSubmissionRaw\": 137180, \"acRate\": \"32.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "44K",
+      "totalSubmission": "137.2K",
+      "totalAcceptedRaw": 43963,
+      "totalSubmissionRaw": 137180,
+      "acRate": "32.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "The Number of Rich Customers",
+    "titleSlug": "the-number-of-rich-customers",
+    "frontendQuestionId": 2223,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2223",
+    "title": "The Number of Rich Customers",
+    "titleSlug": "the-number-of-rich-customers",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 101,
+    "dislikes": 25,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Store\":[\"bill_id\",\"customer_id\",\"amount\"]},\"rows\":{\"Store\":[[6,1,549],[8,1,834],[4,2,394],[11,3,657],[13,3,257]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"29.4K\", \"totalSubmission\": \"38K\", \"totalAcceptedRaw\": 29432, \"totalSubmissionRaw\": 38041, \"acRate\": \"77.4%\"}",
+    "similarQuestions": "[{\"title\": \"The Winner University\", \"titleSlug\": \"the-winner-university\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "29.4K",
+      "totalSubmission": "38K",
+      "totalAcceptedRaw": 29432,
+      "totalSubmissionRaw": 38041,
+      "acRate": "77.4%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "The Winner University",
+        "titleSlug": "the-winner-university",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

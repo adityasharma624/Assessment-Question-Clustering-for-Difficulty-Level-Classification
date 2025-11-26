@@ -1,0 +1,64 @@
+{
+  "basic": {
+    "title": "Product Sales Analysis IV",
+    "titleSlug": "product-sales-analysis-iv",
+    "frontendQuestionId": 2451,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2451",
+    "title": "Product Sales Analysis IV",
+    "titleSlug": "product-sales-analysis-iv",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 58,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Sales\": [\"sale_id\", \"product_id\", \"user_id\", \"quantity\"], \"Product\": [\"product_id\", \"price\"]}, \"rows\": {\"Sales\": [[1, 1, 101, 10], [2, 3, 101, 7], [3, 1, 102, 9], [4, 2, 102, 6], [5, 3, 102, 10], [6, 1, 102, 6]], \"Product\": [[1, 10], [2, 25], [3, 15]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"10.8K\", \"totalSubmission\": \"14.2K\", \"totalAcceptedRaw\": 10768, \"totalSubmissionRaw\": 14207, \"acRate\": \"75.8%\"}",
+    "similarQuestions": "[{\"title\": \"Product Sales Analysis I\", \"titleSlug\": \"product-sales-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis II\", \"titleSlug\": \"product-sales-analysis-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis III\", \"titleSlug\": \"product-sales-analysis-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "10.8K",
+      "totalSubmission": "14.2K",
+      "totalAcceptedRaw": 10768,
+      "totalSubmissionRaw": 14207,
+      "acRate": "75.8%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Product Sales Analysis I",
+        "titleSlug": "product-sales-analysis-i",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Product Sales Analysis II",
+        "titleSlug": "product-sales-analysis-ii",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Product Sales Analysis III",
+        "titleSlug": "product-sales-analysis-iii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

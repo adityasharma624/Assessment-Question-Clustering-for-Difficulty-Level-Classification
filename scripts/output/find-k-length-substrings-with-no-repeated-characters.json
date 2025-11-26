@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Find K-Length Substrings With No Repeated Characters",
+    "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+    "frontendQuestionId": 1084,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1084",
+    "title": "Find K-Length Substrings With No Repeated Characters",
+    "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 603,
+    "dislikes": 11,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"havefunonleetcode\"\n5",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"54.8K\", \"totalSubmission\": \"71.7K\", \"totalAcceptedRaw\": 54766, \"totalSubmissionRaw\": 71723, \"acRate\": \"76.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "54.8K",
+      "totalSubmission": "71.7K",
+      "totalAcceptedRaw": 54766,
+      "totalSubmissionRaw": 71723,
+      "acRate": "76.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

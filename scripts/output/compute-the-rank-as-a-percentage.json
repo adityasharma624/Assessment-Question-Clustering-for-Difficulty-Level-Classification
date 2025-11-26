@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Compute the Rank as a Percentage",
+    "titleSlug": "compute-the-rank-as-a-percentage",
+    "frontendQuestionId": 2484,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2484",
+    "title": "Compute the Rank as a Percentage",
+    "titleSlug": "compute-the-rank-as-a-percentage",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 30,
+    "dislikes": 78,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Students\": [\"student_id\", \"department_id\", \"mark\"]}, \"rows\": {\"Students\": [[2, 2, 650], [8, 2, 650], [7, 1, 920], [1, 1, 610], [3, 1, 530]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7K\", \"totalSubmission\": \"20.8K\", \"totalAcceptedRaw\": 7031, \"totalSubmissionRaw\": 20786, \"acRate\": \"33.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "7K",
+      "totalSubmission": "20.8K",
+      "totalAcceptedRaw": 7031,
+      "totalSubmissionRaw": 20786,
+      "acRate": "33.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

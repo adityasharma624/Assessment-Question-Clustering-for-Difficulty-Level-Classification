@@ -1,0 +1,77 @@
+{
+  "basic": {
+    "title": "Alien Dictionary",
+    "titleSlug": "alien-dictionary",
+    "frontendQuestionId": 269,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "269",
+    "title": "Alien Dictionary",
+    "titleSlug": "alien-dictionary",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 4652,
+    "dislikes": 1033,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"wrt\",\"wrf\",\"er\",\"ett\",\"rftt\"]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Graph",
+        "slug": "graph",
+        "translatedName": null
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"468K\", \"totalSubmission\": \"1.3M\", \"totalAcceptedRaw\": 467953, \"totalSubmissionRaw\": 1267036, \"acRate\": \"36.9%\"}",
+    "similarQuestions": "[{\"title\": \"Course Schedule II\", \"titleSlug\": \"course-schedule-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "468K",
+      "totalSubmission": "1.3M",
+      "totalAcceptedRaw": 467953,
+      "totalSubmissionRaw": 1267036,
+      "acRate": "36.9%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Course Schedule II",
+        "titleSlug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

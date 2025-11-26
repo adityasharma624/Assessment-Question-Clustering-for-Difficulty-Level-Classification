@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Hexspeak",
+    "titleSlug": "hexspeak",
+    "frontendQuestionId": 1199,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1199",
+    "title": "Hexspeak",
+    "titleSlug": "hexspeak",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 80,
+    "dislikes": 126,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"257\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12.8K\", \"totalSubmission\": \"21.9K\", \"totalAcceptedRaw\": 12771, \"totalSubmissionRaw\": 21882, \"acRate\": \"58.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "12.8K",
+      "totalSubmission": "21.9K",
+      "totalAcceptedRaw": 12771,
+      "totalSubmissionRaw": 21882,
+      "acRate": "58.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

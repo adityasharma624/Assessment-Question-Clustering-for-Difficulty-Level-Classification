@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Sellers With No Sales",
+    "titleSlug": "sellers-with-no-sales",
+    "frontendQuestionId": 1749,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1749",
+    "title": "Sellers With No Sales",
+    "titleSlug": "sellers-with-no-sales",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 144,
+    "dislikes": 14,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Customer\": [\"customer_id\", \"customer_name\"], \"Orders\": [\"order_id\", \"sale_date\", \"order_cost\", \"customer_id\", \"seller_id\"], \"Seller\": [\"seller_id\", \"seller_name\"]}, \"rows\": {\"Customer\": [[101, \"Alice\"], [102, \"Bob\"], [103, \"Charlie\"]], \"Orders\": [[1, \"2020-03-01\", 1500, 101, 1], [2, \"2020-05-25\", 2400, 102, 2], [3, \"2019-05-25\", 800, 101, 3], [4, \"2020-09-13\", 1000, 103, 2], [5, \"2019-02-11\", 700, 101, 2]], \"Seller\": [[1, \"Daniel\"], [2, \"Elizabeth\"], [3, \"Frank\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"44K\", \"totalSubmission\": \"81.1K\", \"totalAcceptedRaw\": 43981, \"totalSubmissionRaw\": 81066, \"acRate\": \"54.3%\"}",
+    "similarQuestions": "[{\"title\": \"Customer Who Visited but Did Not Make Any Transactions\", \"titleSlug\": \"customer-who-visited-but-did-not-make-any-transactions\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "44K",
+      "totalSubmission": "81.1K",
+      "totalAcceptedRaw": 43981,
+      "totalSubmissionRaw": 81066,
+      "acRate": "54.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Customer Who Visited but Did Not Make Any Transactions",
+        "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

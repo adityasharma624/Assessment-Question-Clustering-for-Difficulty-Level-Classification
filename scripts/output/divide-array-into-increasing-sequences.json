@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Divide Array Into Increasing Sequences",
+    "titleSlug": "divide-array-into-increasing-sequences",
+    "frontendQuestionId": 1118,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1118",
+    "title": "Divide Array Into Increasing Sequences",
+    "titleSlug": "divide-array-into-increasing-sequences",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 132,
+    "dislikes": 32,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,2,3,3,4,4]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.2K\", \"totalSubmission\": \"11K\", \"totalAcceptedRaw\": 7193, \"totalSubmissionRaw\": 11029, \"acRate\": \"65.2%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "7.2K",
+      "totalSubmission": "11K",
+      "totalAcceptedRaw": 7193,
+      "totalSubmissionRaw": 11029,
+      "acRate": "65.2%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

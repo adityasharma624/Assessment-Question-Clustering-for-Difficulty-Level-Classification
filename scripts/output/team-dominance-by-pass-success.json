@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Team Dominance by Pass Success",
+    "titleSlug": "team-dominance-by-pass-success",
+    "frontendQuestionId": 3719,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3719",
+    "title": "Team Dominance by Pass Success",
+    "titleSlug": "team-dominance-by-pass-success",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 4,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Teams\":[\"player_id\",\"team_name\"],\"Passes\":[\"pass_from\",\"time_stamp\",\"pass_to\"]},\"rows\":{\"Teams\":[[1,\"Arsenal\"],[2,\"Arsenal\"],[3,\"Arsenal\"],[4,\"Chelsea\"],[5,\"Chelsea\"],[6,\"Chelsea\"]],\"Passes\":[[1,\"00:15\",2],[2,\"00:45\",3],[3,\"01:15\",1],[4,\"00:30\",1],[2,\"46:00\",3],[3,\"46:15\",4],[1,\"46:45\",2],[5,\"46:30\",6]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1254, \"totalSubmissionRaw\": 1728, \"acRate\": \"72.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "1.3K",
+      "totalSubmission": "1.7K",
+      "totalAcceptedRaw": 1254,
+      "totalSubmissionRaw": 1728,
+      "acRate": "72.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

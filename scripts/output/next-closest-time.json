@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Next Closest Time",
+    "titleSlug": "next-closest-time",
+    "frontendQuestionId": 681,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "681",
+    "title": "Next Closest Time",
+    "titleSlug": "next-closest-time",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 742,
+    "dislikes": 1077,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"19:34\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking",
+        "translatedName": null
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"116.7K\", \"totalSubmission\": \"248.6K\", \"totalAcceptedRaw\": 116719, \"totalSubmissionRaw\": 248608, \"acRate\": \"46.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "116.7K",
+      "totalSubmission": "248.6K",
+      "totalAcceptedRaw": 116719,
+      "totalSubmissionRaw": 248608,
+      "acRate": "46.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

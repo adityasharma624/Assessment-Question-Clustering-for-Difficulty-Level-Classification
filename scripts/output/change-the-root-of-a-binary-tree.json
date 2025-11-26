@@ -1,0 +1,55 @@
+{
+  "basic": {
+    "title": "Change the Root of a Binary Tree",
+    "titleSlug": "change-the-root-of-a-binary-tree",
+    "frontendQuestionId": 1810,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1810",
+    "title": "Change the Root of a Binary Tree",
+    "titleSlug": "change-the-root-of-a-binary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 69,
+    "dislikes": 198,
+    "isPaidOnly": true,
+    "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n7",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"5.8K\", \"totalSubmission\": \"7.7K\", \"totalAcceptedRaw\": 5761, \"totalSubmissionRaw\": 7686, \"acRate\": \"75.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "5.8K",
+      "totalSubmission": "7.7K",
+      "totalAcceptedRaw": 5761,
+      "totalSubmissionRaw": 7686,
+      "acRate": "75.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

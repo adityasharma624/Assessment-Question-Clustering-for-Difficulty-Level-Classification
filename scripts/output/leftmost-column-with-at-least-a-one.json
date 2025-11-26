@@ -1,0 +1,60 @@
+{
+  "basic": {
+    "title": "Leftmost Column with at Least a One",
+    "titleSlug": "leftmost-column-with-at-least-a-one",
+    "frontendQuestionId": 1374,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1374",
+    "title": "Leftmost Column with at Least a One",
+    "titleSlug": "leftmost-column-with-at-least-a-one",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1251,
+    "dislikes": 152,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,0],[1,1]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix",
+        "translatedName": null
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"194.5K\", \"totalSubmission\": \"354K\", \"totalAcceptedRaw\": 194538, \"totalSubmissionRaw\": 353989, \"acRate\": \"55.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "194.5K",
+      "totalSubmission": "354K",
+      "totalAcceptedRaw": 194538,
+      "totalSubmissionRaw": 353989,
+      "acRate": "55.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

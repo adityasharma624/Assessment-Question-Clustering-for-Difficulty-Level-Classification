@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Undefined to Null",
+    "titleSlug": "undefined-to-null",
+    "frontendQuestionId": 2781,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2781",
+    "title": "Undefined to Null",
+    "titleSlug": "undefined-to-null",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 15,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"a\": undefined, \"b\":3}",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"924\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 924, \"totalSubmissionRaw\": 1296, \"acRate\": \"71.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "924",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 924,
+      "totalSubmissionRaw": 1296,
+      "acRate": "71.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

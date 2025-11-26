@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Second Highest Salary II",
+    "titleSlug": "second-highest-salary-ii",
+    "frontendQuestionId": 3660,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3660",
+    "title": "Second Highest Salary II",
+    "titleSlug": "second-highest-salary-ii",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 12,
+    "dislikes": 0,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"employees\":[\"emp_id\",\"salary\",\"dept\"]},\"rows\":{\"employees\":[[1,70000,\"Sales\"],[2,80000,\"Sales\"],[3,80000,\"Sales\"],[4,90000,\"Sales\"],[5,55000,\"IT\"],[6,65000,\"IT\"],[7,65000,\"IT\"],[8,50000,\"Marketing\"],[9,55000,\"Marketing\"],[10,55000,\"HR\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.6K\", \"totalSubmission\": \"3K\", \"totalAcceptedRaw\": 2552, \"totalSubmissionRaw\": 2954, \"acRate\": \"86.4%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.6K",
+      "totalSubmission": "3K",
+      "totalAcceptedRaw": 2552,
+      "totalSubmissionRaw": 2954,
+      "acRate": "86.4%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

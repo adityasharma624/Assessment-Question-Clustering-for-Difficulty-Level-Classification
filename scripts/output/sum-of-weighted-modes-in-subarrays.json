@@ -1,0 +1,65 @@
+{
+  "basic": {
+    "title": "Sum of Weighted Modes in Subarrays",
+    "titleSlug": "sum-of-weighted-modes-in-subarrays",
+    "frontendQuestionId": 4036,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "4036",
+    "title": "Sum of Weighted Modes in Subarrays",
+    "titleSlug": "sum-of-weighted-modes-in-subarrays",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 7,
+    "dislikes": 1,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,2,2,3]\n3",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window",
+        "translatedName": null
+      },
+      {
+        "name": "Counting",
+        "slug": "counting",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"311\", \"totalSubmission\": \"580\", \"totalAcceptedRaw\": 311, \"totalSubmissionRaw\": 580, \"acRate\": \"53.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "311",
+      "totalSubmission": "580",
+      "totalAcceptedRaw": 311,
+      "totalSubmissionRaw": 580,
+      "acRate": "53.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

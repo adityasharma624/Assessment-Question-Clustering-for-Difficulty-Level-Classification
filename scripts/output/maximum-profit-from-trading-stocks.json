@@ -1,0 +1,75 @@
+{
+  "basic": {
+    "title": "Maximum Profit From Trading Stocks",
+    "titleSlug": "maximum-profit-from-trading-stocks",
+    "frontendQuestionId": 2426,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2426",
+    "title": "Maximum Profit From Trading Stocks",
+    "titleSlug": "maximum-profit-from-trading-stocks",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 189,
+    "dislikes": 9,
+    "isPaidOnly": true,
+    "sampleTestCase": "[5,4,6,2,3]\n[8,5,4,3,5]\n10",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"16K\", \"totalSubmission\": \"33.9K\", \"totalAcceptedRaw\": 16034, \"totalSubmissionRaw\": 33886, \"acRate\": \"47.3%\"}",
+    "similarQuestions": "[{\"title\": \"Best Time to Buy and Sell Stock\", \"titleSlug\": \"best-time-to-buy-and-sell-stock\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock II\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock III\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock IV\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "16K",
+      "totalSubmission": "33.9K",
+      "totalAcceptedRaw": 16034,
+      "totalSubmissionRaw": 33886,
+      "acRate": "47.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "translatedTitle": null
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock III",
+        "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock IV",
+        "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

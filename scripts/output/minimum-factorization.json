@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Minimum Factorization",
+    "titleSlug": "minimum-factorization",
+    "frontendQuestionId": 625,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "625",
+    "title": "Minimum Factorization",
+    "titleSlug": "minimum-factorization",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 132,
+    "dislikes": 112,
+    "isPaidOnly": true,
+    "sampleTestCase": "48",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"12.1K\", \"totalSubmission\": \"35.7K\", \"totalAcceptedRaw\": 12071, \"totalSubmissionRaw\": 35660, \"acRate\": \"33.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "12.1K",
+      "totalSubmission": "35.7K",
+      "totalAcceptedRaw": 12071,
+      "totalSubmissionRaw": 35660,
+      "acRate": "33.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

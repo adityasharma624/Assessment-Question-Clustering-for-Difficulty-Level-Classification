@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Minimum Time to Build Blocks",
+    "titleSlug": "minimum-time-to-build-blocks",
+    "frontendQuestionId": 1167,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1167",
+    "title": "Minimum Time to Build Blocks",
+    "titleSlug": "minimum-time-to-build-blocks",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 239,
+    "dislikes": 32,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1]\n1",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.1K\", \"totalSubmission\": \"15.3K\", \"totalAcceptedRaw\": 7062, \"totalSubmissionRaw\": 15251, \"acRate\": \"46.3%\"}",
+    "similarQuestions": "[{\"title\": \"Find Time Required to Eliminate Bacterial Strains\", \"titleSlug\": \"find-time-required-to-eliminate-bacterial-strains\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "7.1K",
+      "totalSubmission": "15.3K",
+      "totalAcceptedRaw": 7062,
+      "totalSubmissionRaw": 15251,
+      "acRate": "46.3%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Find Time Required to Eliminate Bacterial Strains",
+        "titleSlug": "find-time-required-to-eliminate-bacterial-strains",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

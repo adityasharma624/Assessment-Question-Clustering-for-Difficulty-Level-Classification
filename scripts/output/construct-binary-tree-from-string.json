@@ -1,0 +1,72 @@
+{
+  "basic": {
+    "title": "Construct Binary Tree from String",
+    "titleSlug": "construct-binary-tree-from-string",
+    "frontendQuestionId": 536,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "536",
+    "title": "Construct Binary Tree from String",
+    "titleSlug": "construct-binary-tree-from-string",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1131,
+    "dislikes": 184,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"4(2(3)(1))(6(5))\"",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"125.9K\", \"totalSubmission\": \"214.7K\", \"totalAcceptedRaw\": 125887, \"totalSubmissionRaw\": 214683, \"acRate\": \"58.6%\"}",
+    "similarQuestions": "[{\"title\": \"Construct String from Binary Tree\", \"titleSlug\": \"construct-string-from-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "125.9K",
+      "totalSubmission": "214.7K",
+      "totalAcceptedRaw": 125887,
+      "totalSubmissionRaw": 214683,
+      "acRate": "58.6%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Construct String from Binary Tree",
+        "titleSlug": "construct-string-from-binary-tree",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

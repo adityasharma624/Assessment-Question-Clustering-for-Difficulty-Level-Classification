@@ -1,0 +1,72 @@
+{
+  "basic": {
+    "title": "Max Stack",
+    "titleSlug": "max-stack",
+    "frontendQuestionId": 716,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "716",
+    "title": "Max Stack",
+    "titleSlug": "max-stack",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 2004,
+    "dislikes": 512,
+    "isPaidOnly": true,
+    "sampleTestCase": "[\"MaxStack\",\"push\",\"push\",\"push\",\"top\",\"popMax\",\"top\",\"peekMax\",\"pop\",\"top\"]\n[[],[5],[1],[5],[],[],[],[],[],[]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Stack",
+        "slug": "stack",
+        "translatedName": null
+      },
+      {
+        "name": "Design",
+        "slug": "design",
+        "translatedName": null
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list",
+        "translatedName": null
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"178.8K\", \"totalSubmission\": \"391K\", \"totalAcceptedRaw\": 178787, \"totalSubmissionRaw\": 390958, \"acRate\": \"45.7%\"}",
+    "similarQuestions": "[{\"title\": \"Min Stack\", \"titleSlug\": \"min-stack\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "178.8K",
+      "totalSubmission": "391K",
+      "totalAcceptedRaw": 178787,
+      "totalSubmissionRaw": 390958,
+      "acRate": "45.7%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Min Stack",
+        "titleSlug": "min-stack",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

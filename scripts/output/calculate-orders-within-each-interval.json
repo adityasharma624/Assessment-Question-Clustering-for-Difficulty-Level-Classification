@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Calculate Orders Within Each Interval",
+    "titleSlug": "calculate-orders-within-each-interval",
+    "frontendQuestionId": 3160,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3160",
+    "title": "Calculate Orders Within Each Interval",
+    "titleSlug": "calculate-orders-within-each-interval",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 23,
+    "dislikes": 3,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\": {\"Orders\": [\"minute\", \"order_count\"]}, \"rows\": {\"Orders\":[[1,0],[2,2],[3,4],[4,6],[5,1],[6,4],[7,1],[8,2],[9,4],[10,1],[11,4],[12,6]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"5.8K\", \"totalAcceptedRaw\": 3891, \"totalSubmissionRaw\": 5784, \"acRate\": \"67.3%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "3.9K",
+      "totalSubmission": "5.8K",
+      "totalAcceptedRaw": 3891,
+      "totalSubmissionRaw": 5784,
+      "acRate": "67.3%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

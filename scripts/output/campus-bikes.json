@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Campus Bikes",
+    "titleSlug": "campus-bikes",
+    "frontendQuestionId": 1052,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1052",
+    "title": "Campus Bikes",
+    "titleSlug": "campus-bikes",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 1002,
+    "dislikes": 198,
+    "isPaidOnly": true,
+    "sampleTestCase": "[[0,0],[2,1]]\n[[1,2],[3,3]]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting",
+        "translatedName": null
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"77.1K\", \"totalSubmission\": \"130.5K\", \"totalAcceptedRaw\": 77071, \"totalSubmissionRaw\": 130471, \"acRate\": \"59.1%\"}",
+    "similarQuestions": "[{\"title\": \"Campus Bikes II\", \"titleSlug\": \"campus-bikes-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "77.1K",
+      "totalSubmission": "130.5K",
+      "totalAcceptedRaw": 77071,
+      "totalSubmissionRaw": 130471,
+      "acRate": "59.1%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Campus Bikes II",
+        "titleSlug": "campus-bikes-ii",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

@@ -1,0 +1,52 @@
+{
+  "basic": {
+    "title": "Number of Good Binary Strings",
+    "titleSlug": "number-of-good-binary-strings",
+    "frontendQuestionId": 2672,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2672",
+    "title": "Number of Good Binary Strings",
+    "titleSlug": "number-of-good-binary-strings",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 58,
+    "dislikes": 23,
+    "isPaidOnly": true,
+    "sampleTestCase": "2\n3\n1\n2",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"7.5K\", \"totalSubmission\": \"14.2K\", \"totalAcceptedRaw\": 7469, \"totalSubmissionRaw\": 14225, \"acRate\": \"52.5%\"}",
+    "similarQuestions": "[{\"title\": \"Special Binary String\", \"titleSlug\": \"special-binary-string\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "7.5K",
+      "totalSubmission": "14.2K",
+      "totalAcceptedRaw": 7469,
+      "totalSubmissionRaw": 14225,
+      "acRate": "52.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Special Binary String",
+        "titleSlug": "special-binary-string",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

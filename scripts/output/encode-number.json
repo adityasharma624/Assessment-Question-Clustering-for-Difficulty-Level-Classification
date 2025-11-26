@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "title": "Encode Number",
+    "titleSlug": "encode-number",
+    "frontendQuestionId": 1189,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1189",
+    "title": "Encode Number",
+    "titleSlug": "encode-number",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 82,
+    "dislikes": 257,
+    "isPaidOnly": true,
+    "sampleTestCase": "23",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"8.5K\", \"totalSubmission\": \"12K\", \"totalAcceptedRaw\": 8456, \"totalSubmissionRaw\": 12047, \"acRate\": \"70.2%\"}",
+    "similarQuestions": "[{\"title\": \"Convert to Base -2\", \"titleSlug\": \"convert-to-base-2\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "8.5K",
+      "totalSubmission": "12K",
+      "totalAcceptedRaw": 8456,
+      "totalSubmissionRaw": 12047,
+      "acRate": "70.2%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Convert to Base -2",
+        "titleSlug": "convert-to-base-2",
+        "difficulty": "Medium",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

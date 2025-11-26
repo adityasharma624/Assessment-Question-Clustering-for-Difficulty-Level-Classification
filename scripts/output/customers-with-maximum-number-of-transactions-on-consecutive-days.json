@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "Customers with Maximum Number of Transactions on Consecutive Days",
+    "titleSlug": "customers-with-maximum-number-of-transactions-on-consecutive-days",
+    "frontendQuestionId": 2852,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "2852",
+    "title": "Customers with Maximum Number of Transactions on Consecutive Days",
+    "titleSlug": "customers-with-maximum-number-of-transactions-on-consecutive-days",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 16,
+    "dislikes": 34,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Transactions\":[\"transaction_id\",\"customer_id\",\"transaction_date\",\"amount\"]},\"rows\":{\"Transactions\":[[1,101,\"2023-05-01\",100],[2,101,\"2023-05-02\",150],[3,101,\"2023-05-03\",200],[4,102,\"2023-05-01\",50],[5,102,\"2023-05-03\",100],[6,102,\"2023-05-04\",200],[7,105,\"2023-05-01\",100],[8,105,\"2023-05-02\",150],[9,105,\"2023-05-03\",200]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"2.8K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 2838, \"totalSubmissionRaw\": 6775, \"acRate\": \"41.9%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "2.8K",
+      "totalSubmission": "6.8K",
+      "totalAcceptedRaw": 2838,
+      "totalSubmissionRaw": 6775,
+      "acRate": "41.9%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

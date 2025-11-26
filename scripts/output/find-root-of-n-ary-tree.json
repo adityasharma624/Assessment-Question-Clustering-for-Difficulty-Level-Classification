@@ -1,0 +1,67 @@
+{
+  "basic": {
+    "title": "Find Root of N-Ary Tree",
+    "titleSlug": "find-root-of-n-ary-tree",
+    "frontendQuestionId": 1650,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1650",
+    "title": "Find Root of N-Ary Tree",
+    "titleSlug": "find-root-of-n-ary-tree",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 491,
+    "dislikes": 212,
+    "isPaidOnly": true,
+    "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table",
+        "translatedName": null
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation",
+        "translatedName": null
+      },
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"40.1K\", \"totalSubmission\": \"51.1K\", \"totalAcceptedRaw\": 40109, \"totalSubmissionRaw\": 51093, \"acRate\": \"78.5%\"}",
+    "similarQuestions": "[{\"title\": \"Move Sub-Tree of N-Ary Tree\", \"titleSlug\": \"move-sub-tree-of-n-ary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "stats_parsed": {
+      "totalAccepted": "40.1K",
+      "totalSubmission": "51.1K",
+      "totalAcceptedRaw": 40109,
+      "totalSubmissionRaw": 51093,
+      "acRate": "78.5%"
+    },
+    "similarQuestions_parsed": [
+      {
+        "title": "Move Sub-Tree of N-Ary Tree",
+        "titleSlug": "move-sub-tree-of-n-ary-tree",
+        "difficulty": "Hard",
+        "translatedTitle": null
+      }
+    ]
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

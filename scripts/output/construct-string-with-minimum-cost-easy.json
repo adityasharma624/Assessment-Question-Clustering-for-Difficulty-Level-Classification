@@ -1,0 +1,39 @@
+{
+  "basic": {
+    "title": "Construct String with Minimum Cost (Easy)",
+    "titleSlug": "construct-string-with-minimum-cost-easy",
+    "frontendQuestionId": 3480,
+    "acRate": null,
+    "difficulty": {
+      "level": 2
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "3480",
+    "title": "Construct String with Minimum Cost (Easy)",
+    "titleSlug": "construct-string-with-minimum-cost-easy",
+    "content": null,
+    "difficulty": "Medium",
+    "likes": 10,
+    "dislikes": 2,
+    "isPaidOnly": true,
+    "sampleTestCase": "\"abcdef\"\n[\"abdef\",\"abc\",\"d\",\"def\",\"ef\"]\n[100,1,1,10,5]",
+    "codeSnippets": null,
+    "topicTags": [],
+    "stats": "{\"totalAccepted\": \"750\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 750, \"totalSubmissionRaw\": 1272, \"acRate\": \"59.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "750",
+      "totalSubmission": "1.3K",
+      "totalAcceptedRaw": 750,
+      "totalSubmissionRaw": 1272,
+      "acRate": "59.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

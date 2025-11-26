@@ -1,0 +1,45 @@
+{
+  "basic": {
+    "title": "User Activity for the Past 30 Days II",
+    "titleSlug": "user-activity-for-the-past-30-days-ii",
+    "frontendQuestionId": 1246,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1246",
+    "title": "User Activity for the Past 30 Days II",
+    "titleSlug": "user-activity-for-the-past-30-days-ii",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 105,
+    "dislikes": 380,
+    "isPaidOnly": true,
+    "sampleTestCase": "{\"headers\":{\"Activity\":[\"user_id\",\"session_id\",\"activity_date\",\"activity_type\"]},\"rows\":{\"Activity\":[[1,1,\"2019-07-20\",\"open_session\"],[1,1,\"2019-07-20\",\"scroll_down\"],[1,1,\"2019-07-20\",\"end_session\"],[2,4,\"2019-07-20\",\"open_session\"],[2,4,\"2019-07-21\",\"send_message\"],[2,4,\"2019-07-21\",\"end_session\"],[3,2,\"2019-07-21\",\"open_session\"],[3,2,\"2019-07-21\",\"send_message\"],[3,2,\"2019-07-21\",\"end_session\"],[3,5,\"2019-07-21\",\"open_session\"],[3,5,\"2019-07-21\",\"scroll_down\"],[3,5,\"2019-07-21\",\"end_session\"],[4,3,\"2019-06-25\",\"open_session\"],[4,3,\"2019-06-25\",\"end_session\"]]}}",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"48.2K\", \"totalSubmission\": \"135.3K\", \"totalAcceptedRaw\": 48187, \"totalSubmissionRaw\": 135286, \"acRate\": \"35.6%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "48.2K",
+      "totalSubmission": "135.3K",
+      "totalAcceptedRaw": 48187,
+      "totalSubmissionRaw": 135286,
+      "acRate": "35.6%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

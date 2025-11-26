@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Handshakes That Don't Cross",
+    "titleSlug": "handshakes-that-dont-cross",
+    "frontendQuestionId": 1213,
+    "acRate": null,
+    "difficulty": {
+      "level": 3
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1213",
+    "title": "Handshakes That Don't Cross",
+    "titleSlug": "handshakes-that-dont-cross",
+    "content": null,
+    "difficulty": "Hard",
+    "likes": 250,
+    "dislikes": 17,
+    "isPaidOnly": true,
+    "sampleTestCase": "4",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"13.5K\", \"totalSubmission\": \"22.5K\", \"totalAcceptedRaw\": 13511, \"totalSubmissionRaw\": 22515, \"acRate\": \"60.0%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "13.5K",
+      "totalSubmission": "22.5K",
+      "totalAcceptedRaw": 13511,
+      "totalSubmissionRaw": 22515,
+      "acRate": "60.0%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}

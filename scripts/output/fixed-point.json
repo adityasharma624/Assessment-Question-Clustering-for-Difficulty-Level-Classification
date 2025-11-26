@@ -1,0 +1,50 @@
+{
+  "basic": {
+    "title": "Fixed Point",
+    "titleSlug": "fixed-point",
+    "frontendQuestionId": 1066,
+    "acRate": null,
+    "difficulty": {
+      "level": 1
+    },
+    "paidOnly": true,
+    "isFavor": false,
+    "status": null
+  },
+  "detail": {
+    "questionId": "1066",
+    "title": "Fixed Point",
+    "titleSlug": "fixed-point",
+    "content": null,
+    "difficulty": "Easy",
+    "likes": 441,
+    "dislikes": 67,
+    "isPaidOnly": true,
+    "sampleTestCase": "[-10,-5,0,3,7]",
+    "codeSnippets": null,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search",
+        "translatedName": null
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"48.6K\", \"totalSubmission\": \"76.2K\", \"totalAcceptedRaw\": 48611, \"totalSubmissionRaw\": 76184, \"acRate\": \"63.8%\"}",
+    "similarQuestions": "[]",
+    "stats_parsed": {
+      "totalAccepted": "48.6K",
+      "totalSubmission": "76.2K",
+      "totalAcceptedRaw": 48611,
+      "totalSubmissionRaw": 76184,
+      "acRate": "63.8%"
+    },
+    "similarQuestions_parsed": []
+  },
+  "discussions_preview": [],
+  "fetched_at": "2025-11-25T14:57:13.678988Z"
+}
